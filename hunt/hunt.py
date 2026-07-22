@@ -111,18 +111,38 @@ def extract_listings(source, html_text):
                 title = h.get_text(" ", strip=True)
         if len(title) < 8:
             title = absu.rstrip("/").rsplit("/", 1)[-1].replace("-", " ").title()
+        cand = {
+            "id": absu,
+            "url": absu,
+            "title": title[:160],
+            "price": price,
+            "card_text": text[:500],
+            "source": source["id"],
+            "source_name": source["name"],
+        }
         prev = found.get(absu)
-        if prev is None or (prev["price"] is None and price is not None):
-            found[absu] = {
-                "id": absu,
-                "url": absu,
-                "title": title[:160],
-                "price": price,
-                "card_text": text[:500],
-                "source": source["id"],
-                "source_name": source["name"],
-            }
+        if prev is None or listing_quality(cand) > listing_quality(prev):
+            found[absu] = cand
     return list(found.values())
+
+
+def listing_quality(l):
+    """Rank duplicate captures of the same listing: a real address beats a
+    bare ID/price title (portal 'featured' modules), having a price beats
+    not, and more card context beats less."""
+    has_words = 0 if re.fullmatch(r"[£\d,. ]*", l["title"] or "") else 1
+    return (has_words, 1 if l["price"] is not None else 0,
+            min(len(l.get("card_text", "")), 200))
+
+
+def merge_listings(found_map, listings):
+    """Merge listings (e.g. from multiple result pages) keeping the best
+    capture of each id."""
+    for l in listings:
+        prev = found_map.get(l["id"])
+        if prev is None or listing_quality(l) > listing_quality(prev):
+            found_map[l["id"]] = l
+    return found_map
 
 
 def extract_feed(source, xml_text):
@@ -442,14 +462,22 @@ def main():
         if not source.get("enabled", True):
             continue
         try:
-            body = fetch(source["url"])
-            if source.get("type") == "feed":
-                listings = extract_feed(source, body)
-            else:
-                listings = extract_listings(source, body)
+            urls = source.get("urls") or [source["url"]]
+            found_map = {}
+            for u in urls:
+                body = fetch(u)
+                if source.get("type") == "feed":
+                    page_listings = extract_feed(source, body)
+                else:
+                    page_listings = extract_listings(
+                        {**source, "url": u}, body)
+                merge_listings(found_map, page_listings)
+                if len(urls) > 1:
+                    time.sleep(2)  # be polite between pages
+            listings = list(found_map.values())
             matched = apply_criteria(listings, crit)
-            print(f"[{source['id']}] fetched: {len(listings)} listings, "
-                  f"{len(matched)} match criteria")
+            print(f"[{source['id']}] fetched: {len(listings)} listings "
+                  f"across {len(urls)} page(s), {len(matched)} match criteria")
             current.extend(matched)
             ok_sources.add(source["id"])
         except Exception as exc:  # noqa: BLE001 — keep the run alive
