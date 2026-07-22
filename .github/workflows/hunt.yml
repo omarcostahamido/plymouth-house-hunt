@@ -1,0 +1,85 @@
+name: House hunt
+
+on:
+  schedule:
+    # 06:23 & 17:23 UTC ≈ 07:23 & 18:23 UK summer time, twice a day.
+    - cron: "23 6,17 * * *"
+  workflow_dispatch: {}   # manual "Run workflow" button for testing
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hunt
+  cancel-in-progress: false
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r hunt/requirements.txt
+
+      - name: Run hunt
+        id: hunt
+        run: python hunt/hunt.py
+
+      - name: Commit state & digest
+        run: |
+          git config user.name "hunt-bot"
+          git config user.email "actions@github.com"
+          git add state docs README.md
+          git diff --cached --quiet || git commit -m "hunt: ${{ steps.hunt.outputs.summary }}"
+          git push
+
+      # ── Notification channel 1 (no setup needed): GitHub Release ──
+      # Creating a release emails everyone who Watches the repo with
+      # "Custom → Releases" ticked. Sarah just needs a (free) GitHub
+      # account and one click on Watch — no SMTP, no third party.
+      # TO TURN OFF: Settings → Secrets and variables → Actions →
+      # Variables → add RELEASES_OFF = true. (RSS + email keep working.)
+      - name: Publish alert as GitHub Release
+        if: steps.hunt.outputs.changes == 'true' && vars.RELEASES_OFF != 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="alert-$(date -u +%Y%m%d-%H%M)"
+          gh release create "$TAG" \
+            --title "🏠 ${{ steps.hunt.outputs.summary }}" \
+            --notes-file outputs/email.md
+
+      # ── Notification channel 2 (optional): direct email via SMTP ──
+      # Only runs when there are changes AND the repo has MAIL_TO
+      # configured (Settings → Secrets and variables → Actions).
+      - name: Email Sarah
+        if: steps.hunt.outputs.changes == 'true' && vars.MAIL_TO != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ vars.MAIL_SERVER || 'smtp.gmail.com' }}
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: "Plymouth House Hunt <${{ secrets.MAIL_USERNAME }}>"
+          to: ${{ vars.MAIL_TO }}
+          subject: "🏠 Plymouth house hunt: ${{ steps.hunt.outputs.summary }}"
+          html_body: file://outputs/email.html
+
+      - name: Upload debug artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hunt-run
+          path: |
+            state/state.json
+            outputs/
+          if-no-files-found: ignore
+          retention-days: 14
