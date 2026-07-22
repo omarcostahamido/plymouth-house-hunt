@@ -175,6 +175,51 @@ def extract_feed(source, xml_text):
     return listings
 
 
+def fetch_source_once(source):
+    """Fetch all of a source's pages and return merged listings."""
+    urls = source.get("urls") or [source["url"]]
+    found_map = {}
+    for i, u in enumerate(urls):
+        if i:
+            time.sleep(4)  # be polite between pages
+        body = fetch(u)
+        if source.get("type") == "feed":
+            page_listings = extract_feed(source, body)
+        else:
+            page_listings = extract_listings({**source, "url": u}, body)
+        merge_listings(found_map, page_listings)
+    listings = list(found_map.values())
+    if source.get("require_address"):
+        listings = [l for l in listings if l.get("has_address")]
+    return listings
+
+
+def fetch_source_with_retry(source, retry_wait=45):
+    """Fetch a source, enforcing its sanity floor (min_listings).
+
+    Bot challenges (e.g. Cloudflare) return a perfectly valid page with
+    zero listings on it — without this floor, a challenged run would look
+    like a mass delisting, spam 'removed' alerts, and re-add everything
+    next run. Below the floor we retry once after a pause; if still low,
+    the source is treated as FAILED for this run so its previous state
+    stays untouched.
+    """
+    floor = source.get("min_listings", 1)
+    listings = fetch_source_once(source)
+    if len(listings) >= floor:
+        return listings
+    print(f"[{source['id']}] only {len(listings)} listings "
+          f"(sanity floor {floor}) — possible bot challenge, retrying "
+          f"in {retry_wait}s", file=sys.stderr)
+    time.sleep(retry_wait)
+    listings = fetch_source_once(source)
+    if len(listings) >= floor:
+        return listings
+    raise RuntimeError(
+        f"{len(listings)} listings after retry (sanity floor {floor}) — "
+        f"discarding partial results to avoid false 'removed' alerts")
+
+
 # ── criteria ──────────────────────────────────────────────────────────
 
 def apply_criteria(listings, crit):
@@ -480,24 +525,10 @@ def main():
         if not source.get("enabled", True):
             continue
         try:
-            urls = source.get("urls") or [source["url"]]
-            found_map = {}
-            for u in urls:
-                body = fetch(u)
-                if source.get("type") == "feed":
-                    page_listings = extract_feed(source, body)
-                else:
-                    page_listings = extract_listings(
-                        {**source, "url": u}, body)
-                merge_listings(found_map, page_listings)
-                if len(urls) > 1:
-                    time.sleep(2)  # be polite between pages
-            listings = list(found_map.values())
-            if source.get("require_address"):
-                listings = [l for l in listings if l.get("has_address")]
+            listings = fetch_source_with_retry(source)
             matched = apply_criteria(listings, crit)
-            print(f"[{source['id']}] fetched: {len(listings)} listings "
-                  f"across {len(urls)} page(s), {len(matched)} match criteria")
+            print(f"[{source['id']}] fetched: {len(listings)} listings, "
+                  f"{len(matched)} match criteria")
             current.extend(matched)
             ok_sources.add(source["id"])
         except Exception as exc:  # noqa: BLE001 — keep the run alive

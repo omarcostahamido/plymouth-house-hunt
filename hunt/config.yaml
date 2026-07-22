@@ -74,7 +74,7 @@ criteria:
       label: "May have sitting tenants"
     - pattern: "leasehold"
       label: "Leasehold? — check tenure"
-    - pattern: "shared ownership|share of "
+    - pattern: "shared ownership"
       label: "Shared ownership / share price"
     - pattern: "pcm|per calendar month|per month|to rent|to let"
       label: "Might be a letting, not a sale (agent feeds mix both)"
@@ -112,6 +112,7 @@ sources:
     enabled: true
     url: "https://www.langtownandcountry.com/property/feed/"
     link_regex: "langtownandcountry\\.com/property/[a-z0-9-]+/?$"
+    min_listings: 3
     note: "Listing pages are JS-rendered, but this WP feed serves the
            newest properties server-side. No prices in feed; sales and
            lettings are mixed — flags cover both."
@@ -122,17 +123,21 @@ sources:
     enabled: true
     url: "https://plymouth.atwellmartin.co.uk/property/feed/"
     link_regex: "atwellmartin\\.co\\.uk/property/[a-z0-9-]+/?$"
+    min_listings: 3
     note: "Feed titles carry street + postcode (PL1/PL4) — area check
            works well here. No prices in feed."
 
   - id: dclane
     name: "DC Lane (agent)"
     type: generic
-    enabled: true
+    enabled: false
     url: "https://www.dclane.co.uk/property-search-results/"
     link_regex: "dclane\\.co\\.uk/property/[a-z0-9-]+/?$"
-    note: "Raw HTML carries ~10 newest property links but prices render
-           via JS → expect 'price not read' flags. No RSS feed (404)."
+    note: "DISABLED (2026-07-22): produced 0 listings on every GitHub
+           runner fetch across 4 live runs, although a browser-context
+           raw fetch shows ~10 links — their server appears to send a
+           JS-shell variant to unfamiliar clients. Their stock reaches
+           the portals; re-test occasionally."
 
   - id: soliving
     name: "SO Living / Plymouth Community Homes (shared-ownership resales)"
@@ -140,6 +145,7 @@ sources:
     enabled: true
     url: "https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon"
     link_regex: "so-living\\.co\\.uk/find-a-home/our-developments/devon/homes-for-resale-devon/[a-z0-9-]+"
+    min_listings: 3
     price_note: "share price"
     note: "Fully server-rendered: links + prices both present in raw
            HTML. NB prices are SHARE prices, not full market value."
@@ -161,6 +167,11 @@ sources:
     # are NOT part of the filtered results and carry no <address> —
     # require_address keeps only real result cards.
     require_address: true
+    # 73 listings extracted across 3 pages when healthy — well under 25
+    # means Cloudflare challenged the runner (happened on run #4 after
+    # 3 manual runs in 16 min); the floor turns that into a clean
+    # "source failed" instead of a phantom mass-delisting.
+    min_listings: 25
     note: "Server-rendered and parseable; confirmed working from GitHub
            runners on the first live run (2026-07-22)."
 
@@ -183,6 +194,7 @@ sources:
     enabled: true
     url: "https://www.crosskeysestates.net/property/feed/"
     link_regex: "crosskeysestates\\.net/property/[a-z0-9-]+/?$"
+    min_listings: 3
     note: "Re-tested 2026-07-22: earlier failure was a wrong domain
            (.co.uk — the real site is .net). WP feed works, 10 newest
            listings incl. very central addresses. No prices in feed;
