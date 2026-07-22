@@ -19,6 +19,53 @@ criteria:
     - "retirement"
     - "over 55"
     - "over 60"
+  # Area excludes — matched against the listing TITLE/ADDRESS only (not
+  # the description, so "short drive to Plymstock" can't wrongly drop a
+  # listing). These are places clearly outside the ~1-mile walk zone of
+  # Buckwell Street / The Box; agent feeds cover their whole patch, so
+  # this is what keeps Sherford/Looe/Bude noise out of Sarah's inbox.
+  # In-zone areas deliberately NOT listed: Stonehouse, Mutley, Lipson,
+  # Greenbank, Cattedown, St Judes, Prince Rock, The Hoe, Barbican.
+  exclude_area_patterns:
+    - "\\bsherford\\b"
+    - "\\bderriford\\b"
+    - "\\bmanadon\\b"
+    - "\\btamerton\\b"
+    - "\\bhooe\\b"
+    - "\\boreston\\b"
+    - "\\bsouthway\\b"
+    - "\\bnorth prospect\\b"
+    - "\\bwrangaton\\b"
+    - "\\bhonicknowle\\b"
+    - "\\bwhitleigh\\b"
+    - "\\bernesettle\\b"
+    - "\\bestover\\b"
+    - "\\beggbuckland\\b"
+    - "\\bcrownhill\\b"
+    - "\\bst\\.? budeaux\\b"
+    - "\\bplymstock\\b"
+    - "\\bplympton\\b"
+    - "\\bsaltash\\b"
+    - "\\btorpoint\\b"
+    - "\\bivybridge\\b"
+    - "\\bcornwall\\b"
+    - "\\blooe\\b"
+    - "\\bbude\\b"
+    - "\\bdownderry\\b"
+    - "\\bliskeard\\b"
+    - "\\bkingsand\\b"
+    - "\\bstoke\\b"
+    - "\\bdevonport\\b"
+    - "\\bmannamead\\b"
+    - "\\bhartley\\b"
+    - "\\bpeverell\\b"
+    - "\\bmilehouse\\b"
+    - "\\bkeyham\\b"
+    - "\\bford\\b(?! park)"
+    - "\\bbeacon park\\b"
+    - "\\blaira\\b(?! street)"
+    - "\\befford\\b"
+
   # These don't exclude, but get called out as warnings in the digest/email.
   flag_patterns:
     - pattern: "auction"
