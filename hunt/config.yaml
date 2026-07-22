@@ -141,10 +141,16 @@ sources:
     type: generic
     enabled: true
     url: "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false"
+    # OTM paginates ~30/page and repeats some listings as address-less
+    # "featured" modules on page 1; fetching pages 1-3 lets the merge
+    # step replace those with the real card (address + price).
+    urls:
+      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false"
+      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false&page=2"
+      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false&page=3"
     link_regex: "/details/\\d+"
-    note: "Server-rendered and parseable, but sits behind Cloudflare —
-           whether GitHub's runners get through is unknown until the
-           first run. Fails gracefully and shows in the digest if not."
+    note: "Server-rendered and parseable; confirmed working from GitHub
+           runners on the first live run (2026-07-22)."
 
   # ── Disabled sources, and why ──────────────────────────────────────
 
