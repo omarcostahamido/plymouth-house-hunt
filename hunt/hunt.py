@@ -119,6 +119,7 @@ def extract_listings(source, html_text):
             "card_text": text[:500],
             "source": source["id"],
             "source_name": source["name"],
+            "has_address": bool(addr),
         }
         prev = found.get(absu)
         if prev is None or listing_quality(cand) > listing_quality(prev):
@@ -127,11 +128,13 @@ def extract_listings(source, html_text):
 
 
 def listing_quality(l):
-    """Rank duplicate captures of the same listing: a real address beats a
-    bare ID/price title (portal 'featured' modules), having a price beats
-    not, and more card context beats less."""
+    """Rank duplicate captures of the same listing: a capture from a real
+    result card (with <address>) beats a promo-module capture, a wordy
+    title beats a bare ID/price, having a price beats not, and more card
+    context beats less."""
     has_words = 0 if re.fullmatch(r"[£\d,. ]*", l["title"] or "") else 1
-    return (has_words, 1 if l["price"] is not None else 0,
+    return (1 if l.get("has_address") else 0, has_words,
+            1 if l["price"] is not None else 0,
             min(len(l.get("card_text", "")), 200))
 
 
@@ -184,6 +187,17 @@ def apply_criteria(listings, crit):
         # saying "short drive to Plymstock" can't wrongly drop a listing.
         if any(r.search(l["title"].lower())
                for r in crit.get("_exclude_area_res", [])):
+            continue
+        # Conditional excludes: drop when `pattern` matches — unless the
+        # `unless` pattern also matches (e.g. confirmed leasehold, except
+        # shared-ownership listings, which are leasehold by design).
+        dropped = False
+        for c in crit.get("_exclude_cond_res", []):
+            if c["re"].search(blob) and not (
+                    c["unless_re"] and c["unless_re"].search(blob)):
+                dropped = True
+                break
+        if dropped:
             continue
         if l["price"] is not None and not (
                 crit["min_price"] <= l["price"] <= crit["max_price"]):
@@ -450,6 +464,10 @@ def main():
     crit["_exclude_res"] = [re.compile(p, re.I) for p in crit["exclude_patterns"]]
     crit["_exclude_area_res"] = [re.compile(p, re.I)
                                  for p in crit.get("exclude_area_patterns", [])]
+    crit["_exclude_cond_res"] = [
+        {"re": re.compile(c["pattern"], re.I),
+         "unless_re": re.compile(c["unless"], re.I) if c.get("unless") else None}
+        for c in crit.get("exclude_conditional", [])]
     crit["_flag_res"] = [{"re": re.compile(f["pattern"], re.I), "label": f["label"]}
                          for f in crit.get("flag_patterns", [])]
 
@@ -475,6 +493,8 @@ def main():
                 if len(urls) > 1:
                     time.sleep(2)  # be polite between pages
             listings = list(found_map.values())
+            if source.get("require_address"):
+                listings = [l for l in listings if l.get("has_address")]
             matched = apply_criteria(listings, crit)
             print(f"[{source['id']}] fetched: {len(listings)} listings "
                   f"across {len(urls)} page(s), {len(matched)} match criteria")

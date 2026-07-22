@@ -79,6 +79,14 @@ criteria:
     - pattern: "pcm|per calendar month|per month|to rent|to let"
       label: "Might be a letting, not a sale (agent feeds mix both)"
 
+  # Conditional excludes: drop when `pattern` matches the card text —
+  # UNLESS `unless` also matches. Used to drop confirmed leaseholds
+  # (Sarah wants freehold / share of freehold) while keeping shared
+  # ownership, which is leasehold by design and explicitly allowed.
+  exclude_conditional:
+    - pattern: "tenure:\\s*leasehold"
+      unless: "shared ownership"
+
 # Notify on the very first run? true = the first sweep sends a full list
 # (with a disclaimer that some entries may already be familiar).
 first_run_notify: true
@@ -149,6 +157,10 @@ sources:
       - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false&page=2"
       - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false&page=3"
     link_regex: "/details/\\d+"
+    # OTM pages embed "featured/similar" promo carousels whose entries
+    # are NOT part of the filtered results and carry no <address> —
+    # require_address keeps only real result cards.
+    require_address: true
     note: "Server-rendered and parseable; confirmed working from GitHub
            runners on the first live run (2026-07-22)."
 
