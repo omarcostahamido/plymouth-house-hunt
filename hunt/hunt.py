@@ -93,12 +93,23 @@ def extract_listings(source, html_text):
         card = card_container(a)
         text = " ".join(card.get_text(" ", strip=True).split())
         price = parse_price(text)
-        title = a.get_text(" ", strip=True)
-        if not title or len(title) < 8:
+        # Title preference: the card's <address> element (portals like OTM
+        # put the street address there), then meaningful link text, then a
+        # heading, then the URL slug. Link text that is just a price or a
+        # bare listing ID is not a usable title.
+        title = ""
+        addr = card.find("address")
+        if addr:
+            title = addr.get_text(" ", strip=True)
+        if len(title) < 8:
+            t = a.get_text(" ", strip=True)
+            if len(t) >= 8 and not re.fullmatch(r"[£\d,. ]+", t):
+                title = t
+        if len(title) < 8:
             h = card.find(["h1", "h2", "h3", "h4"])
             if h:
                 title = h.get_text(" ", strip=True)
-        if not title:
+        if len(title) < 8:
             title = absu.rstrip("/").rsplit("/", 1)[-1].replace("-", " ").title()
         prev = found.get(absu)
         if prev is None or (prev["price"] is None and price is not None):
@@ -148,6 +159,11 @@ def apply_criteria(listings, crit):
     for l in listings:
         blob = (l["title"] + " " + l["card_text"]).lower()
         if any(re.search(p, blob) for p in crit["_exclude_res"]):
+            continue
+        # Area excludes match the TITLE (address) only, so a description
+        # saying "short drive to Plymstock" can't wrongly drop a listing.
+        if any(r.search(l["title"].lower())
+               for r in crit.get("_exclude_area_res", [])):
             continue
         if l["price"] is not None and not (
                 crit["min_price"] <= l["price"] <= crit["max_price"]):
@@ -412,6 +428,8 @@ def main():
     cfg = yaml.safe_load(CONFIG.read_text())
     crit = cfg["criteria"]
     crit["_exclude_res"] = [re.compile(p, re.I) for p in crit["exclude_patterns"]]
+    crit["_exclude_area_res"] = [re.compile(p, re.I)
+                                 for p in crit.get("exclude_area_patterns", [])]
     crit["_flag_res"] = [{"re": re.compile(f["pattern"], re.I), "label": f["label"]}
                          for f in crit.get("flag_patterns", [])]
 
