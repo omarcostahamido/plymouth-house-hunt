@@ -86,82 +86,14 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-22T16:39:32Z — 83 active matches._
+_Last run: 2026-07-22T16:47:25Z — 10 active matches._
+
+> ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
-| £90,000 | [19790425](https://www.onthemarket.com/details/19790425/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £90,000 | [North Road West, Plymouth](https://www.onthemarket.com/details/19146127/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £90,000 | [19903154](https://www.onthemarket.com/details/19903154/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £90,000 | [19563126](https://www.onthemarket.com/details/19563126/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £90,000 | [16705428](https://www.onthemarket.com/details/16705428/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £90,000 | [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/18945835/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £90,000 | [17879716](https://www.onthemarket.com/details/17879716/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £90,000 | [17751552](https://www.onthemarket.com/details/17751552/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £90,000 | [18063813](https://www.onthemarket.com/details/18063813/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £95,000 | [Dale Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19808047/) | OnTheMarket (portal) | Auction; Leasehold? — check tenure |
-| £95,000 | [Flat 2, 62 Dale Road, Plymouth, Devon, PL4 6PA](https://www.onthemarket.com/details/19777673/) | OnTheMarket (portal) | Auction; Leasehold? — check tenure |
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
-| £100,000 | [19951472](https://www.onthemarket.com/details/19951472/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £100,000 | [19876855](https://www.onthemarket.com/details/19876855/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £100,000 | [19856242](https://www.onthemarket.com/details/19856242/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £100,000 | [Ebrington Street, Plymouth](https://www.onthemarket.com/details/18878125/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £100,000 | [Cattedown Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19070183/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £100,000 | [15185827](https://www.onthemarket.com/details/15185827/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £100,000 | [19065581](https://www.onthemarket.com/details/19065581/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £100,000 | [18011542](https://www.onthemarket.com/details/18011542/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £100,000 | [19839506](https://www.onthemarket.com/details/19839506/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £100,000 | [19176060](https://www.onthemarket.com/details/19176060/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £105,000 | [Ford Park Road, Plymouth](https://www.onthemarket.com/details/17508392/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £110,000 | [Stillman Court, Plymouth](https://www.onthemarket.com/details/19689865/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £110,000 | [19775476](https://www.onthemarket.com/details/19775476/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £110,000 | [19608500](https://www.onthemarket.com/details/19608500/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £110,000 | [Sutton Wharf, Plymouth](https://www.onthemarket.com/details/19169216/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £110,000 | [Alexandra Road, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18926524/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £110,000 | [17455724](https://www.onthemarket.com/details/17455724/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £110,000 | [19516810](https://www.onthemarket.com/details/19516810/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £115,000 | [19469900](https://www.onthemarket.com/details/19469900/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £115,000 | [19013663](https://www.onthemarket.com/details/19013663/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £117,500 | [19503626](https://www.onthemarket.com/details/19503626/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £117,500 | [18684298](https://www.onthemarket.com/details/18684298/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
 | £120,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | Shared ownership / share price |
-| £120,000 | [Castle Dyke Lane, Plymouth](https://www.onthemarket.com/details/19260382/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £120,000 | [19713473](https://www.onthemarket.com/details/19713473/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £120,000 | [Moon Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19464194/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £120,000 | [Regent Street, Plymouth](https://www.onthemarket.com/details/19304343/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £120,000 | [King Street, Plymouth](https://www.onthemarket.com/details/18878244/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £123,000 | [18743343](https://www.onthemarket.com/details/18743343/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £125,000 | [17748051](https://www.onthemarket.com/details/17748051/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £125,000 | [Mildmay Street, Plymouth](https://www.onthemarket.com/details/19919472/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £125,000 | [19165028](https://www.onthemarket.com/details/19165028/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £125,000 | [Gascoyne Place, Plymouth](https://www.onthemarket.com/details/19548143/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £125,000 | [Morley Court, Plymouth](https://www.onthemarket.com/details/19533457/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £125,000 | [Clifton Place, Greenbank, Plymouth](https://www.onthemarket.com/details/18886681/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £130,000 | [Exeter Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945901/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £130,000 | [19961185](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £130,000 | [19932652](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £130,000 | [Moon Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18951909/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £130,000 | [19819774](https://www.onthemarket.com/details/19819774/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £130,000 | [19776211](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £130,000 | [19538833](https://www.onthemarket.com/details/19538833/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £130,000 | [Moon Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19660073/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £130,000 | [19489978](https://www.onthemarket.com/details/19489978/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £130,000 | [How Street, Plymouth](https://www.onthemarket.com/details/18913922/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £130,000 | [19008343](https://www.onthemarket.com/details/19008343/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £130,000 | [19895470](https://www.onthemarket.com/details/19895470/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £135,000 | [19562416](https://www.onthemarket.com/details/19562416/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £135,000 | [19275236](https://www.onthemarket.com/details/19275236/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £135,000 | [16293795](https://www.onthemarket.com/details/16293795/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [Citadel Road, Plymouth, Devon, PL1](https://www.onthemarket.com/details/18704541/) | OnTheMarket (portal) | Leasehold? — check tenure |
-| £140,000 | [19431408](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [19684875](https://www.onthemarket.com/details/19684875/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [19781378](https://www.onthemarket.com/details/19781378/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [19094566](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [19654667](https://www.onthemarket.com/details/19654667/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [17171237](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [19593904](https://www.onthemarket.com/details/19593904/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [19007028](https://www.onthemarket.com/details/19007028/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
-| £140,000 | [18816143](https://www.onthemarket.com/details/18816143/) | OnTheMarket (portal) | Location unverified — check it's central Plymouth |
 | price n/a | [Notte Street, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/f112bea4-e4eb-4197-8a4a-205c84114acb-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
 | price n/a | [Salisbury Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/dbb96270-b0ae-460b-b9a4-caee94522e4f-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
 | price n/a | [Greenbank Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/9fee3d69-478a-43f2-8e62-ac2898e7d32d-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
@@ -170,35 +102,17 @@ _Last run: 2026-07-22T16:39:32Z — 83 active matches._
 | price n/a | [Cliff Road, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/e8f24d5d-15f8-420e-92f4-06b0979ba408-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
 | price n/a | [Neath Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/319151ea-7c15-496f-b3f4-644102b35d8d/) | Atwell Martin Plymouth (agent) | May have sitting tenants; Price not read — open listing; Shared ownership / share price |
 | price n/a | [Lipson Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/4b71cd32-c6ba-4771-829a-70b2335dc4d8-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
-| price n/a | [Castle Street, The Barbican](https://www.crosskeysestates.net/property/castle-street-the-barbican/) | Cross Keys Estates (agent) | Location unverified — check it's central Plymouth; Price not read — open listing |
-| price n/a | [Custom House Lane, The Hoe](https://www.crosskeysestates.net/property/custom-house-lane-the-hoe/) | Cross Keys Estates (agent) | Location unverified — check it's central Plymouth; Price not read — open listing |
-| price n/a | [Cremyll Street, Stonehouse](https://www.crosskeysestates.net/property/cremyll-street-stonehouse/) | Cross Keys Estates (agent) | Location unverified — check it's central Plymouth; Price not read — open listing |
 
 ### Recent events
 
-- `2026-07-22` **NEW price n/a** — [Cremyll Street, Stonehouse](https://www.crosskeysestates.net/property/cremyll-street-stonehouse/) (Cross Keys Estates (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Custom House Lane, The Hoe](https://www.crosskeysestates.net/property/custom-house-lane-the-hoe/) (Cross Keys Estates (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Castle Street, The Barbican](https://www.crosskeysestates.net/property/castle-street-the-barbican/) (Cross Keys Estates (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-07-22` **NEW £100,000** — [19176060](https://www.onthemarket.com/details/19176060/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £135,000** — [16293795](https://www.onthemarket.com/details/16293795/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £140,000** — [18816143](https://www.onthemarket.com/details/18816143/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £140,000** — [19007028](https://www.onthemarket.com/details/19007028/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £140,000** — [19593904](https://www.onthemarket.com/details/19593904/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £110,000** — [19516810](https://www.onthemarket.com/details/19516810/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £90,000** — [18063813](https://www.onthemarket.com/details/18063813/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £100,000** — [19839506](https://www.onthemarket.com/details/19839506/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £130,000** — [19895470](https://www.onthemarket.com/details/19895470/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £110,000** — [17455724](https://www.onthemarket.com/details/17455724/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £90,000** — [17751552](https://www.onthemarket.com/details/17751552/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £90,000** — [17879716](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £100,000** — [18011542](https://www.onthemarket.com/details/18011542/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £123,000** — [18743343](https://www.onthemarket.com/details/18743343/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £120,000** — [King Street, Plymouth](https://www.onthemarket.com/details/18878244/) (OnTheMarket (portal))  ⚠ Leasehold? — check tenure
-- `2026-07-22` **NEW £110,000** — [Alexandra Road, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18926524/) (OnTheMarket (portal))  ⚠ Leasehold? — check tenure
-- `2026-07-22` **NEW £125,000** — [Clifton Place, Greenbank, Plymouth](https://www.onthemarket.com/details/18886681/) (OnTheMarket (portal))  ⚠ Leasehold? — check tenure
-- `2026-07-22` **NEW £90,000** — [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/18945835/) (OnTheMarket (portal))  ⚠ Leasehold? — check tenure
-- `2026-07-22` **NEW £130,000** — [19008343](https://www.onthemarket.com/details/19008343/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £115,000** — [19013663](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £100,000** — [19065581](https://www.onthemarket.com/details/19065581/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
-- `2026-07-22` **NEW £90,000** — [16705428](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))  ⚠ Location unverified — check it's central Plymouth
+- `2026-07-22` **NEW £120,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))  ⚠ Shared ownership / share price
+- `2026-07-22` **NEW £100,000** — [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
+- `2026-07-22` **NEW price n/a** — [Lipson Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/4b71cd32-c6ba-4771-829a-70b2335dc4d8-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
+- `2026-07-22` **NEW price n/a** — [Neath Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/319151ea-7c15-496f-b3f4-644102b35d8d/) (Atwell Martin Plymouth (agent))  ⚠ May have sitting tenants; Price not read — open listing; Shared ownership / share price
+- `2026-07-22` **NEW price n/a** — [Cliff Road, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/e8f24d5d-15f8-420e-92f4-06b0979ba408-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
+- `2026-07-22` **NEW price n/a** — [60 Exeter Street, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/ceb58ab5-bea5-479d-bc5a-08868de1f7e2/) (Atwell Martin Plymouth (agent))  ⚠ May have sitting tenants; Price not read — open listing
+- `2026-07-22` **NEW price n/a** — [Beaumont Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/32e2c5d0-d3bc-41de-a5cf-5d00f6f2ee3a/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
+- `2026-07-22` **NEW price n/a** — [Greenbank Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/9fee3d69-478a-43f2-8e62-ac2898e7d32d-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
+- `2026-07-22` **NEW price n/a** — [Salisbury Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/dbb96270-b0ae-460b-b9a4-caee94522e4f-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
+- `2026-07-22` **NEW price n/a** — [Notte Street, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/f112bea4-e4eb-4197-8a4a-205c84114acb-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
 <!--HUNT:END-->
