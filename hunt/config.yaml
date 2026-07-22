@@ -1,0 +1,147 @@
+# ── Sarah's Plymouth house-hunt criteria ─────────────────────────────
+# Edit this file to change what gets matched. No code changes needed.
+
+criteria:
+  min_price: 90000
+  max_price: 140000
+  # Soft location check: addresses containing one of these are "in area";
+  # anything else is still reported but flagged "location unverified".
+  area_keywords:
+    - "PL1"
+    - "PL4"
+    - "Plymouth"
+  # Hard excludes — if the card text matches any of these (case-insensitive),
+  # the listing is dropped. Streets/areas Sarah has ruled out + retirement.
+  exclude_patterns:
+    - "north hill"
+    - "sydney street"
+    - "wyndham street"
+    - "retirement"
+    - "over 55"
+    - "over 60"
+  # These don't exclude, but get called out as warnings in the digest/email.
+  flag_patterns:
+    - pattern: "auction"
+      label: "Auction"
+    - pattern: "tenant|tenanted|sitting tenant|let until|currently let"
+      label: "May have sitting tenants"
+    - pattern: "leasehold"
+      label: "Leasehold? — check tenure"
+    - pattern: "shared ownership|share of "
+      label: "Shared ownership / share price"
+    - pattern: "pcm|per calendar month|per month|to rent|to let"
+      label: "Might be a letting, not a sale (agent feeds mix both)"
+
+# Notify on the very first run? true = the first sweep sends a full list
+# (with a disclaimer that some entries may already be familiar).
+first_run_notify: true
+
+# How many events to keep in state for the RSS feed / digest history.
+max_events: 200
+
+# ── Sources ──────────────────────────────────────────────────────────
+# type: generic → fetch page, find links matching link_regex, read price
+#                 from the surrounding card. Needs server-rendered HTML.
+# type: feed    → parse the site's RSS feed (newest listings). Feeds
+#                 rarely include prices, so those listings arrive flagged
+#                 "price not read" and the price band can't be applied.
+# Every source is try/except — one failing never kills the run; failures
+# are listed in the digest so you notice them.
+#
+# Live-tested 2026-07-21 with raw (non-JS) fetches to mirror what a
+# GitHub runner sees. Notes per source record what was found.
+sources:
+  - id: langtownandcountry
+    name: "Lang Town & Country (agent)"
+    type: feed
+    enabled: true
+    url: "https://www.langtownandcountry.com/property/feed/"
+    link_regex: "langtownandcountry\\.com/property/[a-z0-9-]+/?$"
+    note: "Listing pages are JS-rendered, but this WP feed serves the
+           newest properties server-side. No prices in feed; sales and
+           lettings are mixed — flags cover both."
+
+  - id: atwellmartin
+    name: "Atwell Martin Plymouth (agent)"
+    type: feed
+    enabled: true
+    url: "https://plymouth.atwellmartin.co.uk/property/feed/"
+    link_regex: "atwellmartin\\.co\\.uk/property/[a-z0-9-]+/?$"
+    note: "Feed titles carry street + postcode (PL1/PL4) — area check
+           works well here. No prices in feed."
+
+  - id: dclane
+    name: "DC Lane (agent)"
+    type: generic
+    enabled: true
+    url: "https://www.dclane.co.uk/property-search-results/"
+    link_regex: "dclane\\.co\\.uk/property/[a-z0-9-]+/?$"
+    note: "Raw HTML carries ~10 newest property links but prices render
+           via JS → expect 'price not read' flags. No RSS feed (404)."
+
+  - id: soliving
+    name: "SO Living / Plymouth Community Homes (shared-ownership resales)"
+    type: generic
+    enabled: true
+    url: "https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon"
+    link_regex: "so-living\\.co\\.uk/find-a-home/our-developments/devon/homes-for-resale-devon/[a-z0-9-]+"
+    price_note: "share price"
+    note: "Fully server-rendered: links + prices both present in raw
+           HTML. NB prices are SHARE prices, not full market value."
+
+  - id: onthemarket
+    name: "OnTheMarket (portal)"
+    type: generic
+    enabled: true
+    url: "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false"
+    link_regex: "/details/\\d+"
+    note: "Server-rendered and parseable, but sits behind Cloudflare —
+           whether GitHub's runners get through is unknown until the
+           first run. Fails gracefully and shows in the digest if not."
+
+  # ── Disabled sources, and why ──────────────────────────────────────
+
+  - id: pilkington
+    name: "Pilkington Estates (agent)"
+    type: generic
+    enabled: false
+    url: "https://pilkingtonestates.web.lifesycle.co.uk/properties"
+    link_regex: "lifesycle\\.co\\.uk/propert[^\"]+"
+    note: "DISABLED (tested 2026-07-21): pure JavaScript app — raw HTML
+           contains no property links or embedded JSON, so a plain
+           fetch sees nothing. Would need a headless browser. Their
+           stock appears on the portals, so little is lost."
+
+  - id: crosskeys
+    name: "Cross Keys Estates (agent)"
+    type: feed
+    enabled: true
+    url: "https://www.crosskeysestates.net/property/feed/"
+    link_regex: "crosskeysestates\\.net/property/[a-z0-9-]+/?$"
+    note: "Re-tested 2026-07-22: earlier failure was a wrong domain
+           (.co.uk — the real site is .net). WP feed works, 10 newest
+           listings incl. very central addresses. No prices in feed;
+           sales and lettings mixed."
+
+  - id: livewest
+    name: "LiveWest (housing association resales)"
+    type: generic
+    enabled: false
+    url: "https://www.livewest.co.uk/find-a-home/homes-to-buy"
+    link_regex: "livewest\\.co\\.uk/find-a-home/homes-to-buy/[a-z0-9-]+"
+    note: "DISABLED (tested 2026-07-21): bot protection returns an empty
+           HTTP 202 to non-browser fetches (browser DOM shows 44
+           developments). Their resales surface on Share to Buy, which
+           Sarah's native alert covers."
+
+  - id: sharetobuy
+    name: "Share to Buy (shared ownership portal)"
+    type: generic
+    enabled: false
+    url: "https://www.sharetobuy.com/properties/?location=Plymouth+-+City+of+Plymouth&locationId=190268&lat=50.40494&lon=-4.11299&hasPolygon=1&viewType=2"
+    link_regex: "sharetobuy\\.com/(property|developments)/[^\"]+"
+    note: "DISABLED (re-verified 2026-07-22): doubly blocked — the
+           Cloudflare human-verification challenge was observed live,
+           AND robots.txt disallows automated access to /properties/.
+           Sarah should use the site's own 'Create Alert' emails —
+           free and native."
