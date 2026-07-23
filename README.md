@@ -86,12 +86,34 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-22T18:38:20Z — 13 active matches._
+_Last run: 2026-07-23T01:19:32Z — 30 active matches._
+
+> ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
+| £90,000 | [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) | OnTheMarket (portal) | Auction |
+| £90,000 | [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) | OnTheMarket (portal) | — |
+| £90,000 | [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) | OnTheMarket (portal) | Auction |
+| £90,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) | OnTheMarket (portal) | — |
+| £90,000 | [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) | OnTheMarket (portal) | — |
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
+| £100,000 | [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) | OnTheMarket (portal) | Auction |
+| £100,000 | [Plymouth PL4](https://www.onthemarket.com/details/19839506/) | OnTheMarket (portal) | Auction |
+| £110,000 | [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) | OnTheMarket (portal) | — |
+| £115,000 | [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) | OnTheMarket (portal) | — |
 | £120,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
+| £120,000 | [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) | OnTheMarket (portal) | — |
+| £125,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) | OnTheMarket (portal) | — |
+| £130,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
+| £130,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
+| £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
+| £130,000 | [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) | OnTheMarket (portal) | — |
+| £130,000 | [Pier Street, Plymouth, PL1](https://www.onthemarket.com/details/19895470/) | OnTheMarket (portal) | — |
+| £135,000 | [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/16293795/) | OnTheMarket (portal) | — |
+| £140,000 | [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | — |
+| £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
+| £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | price n/a | [Notte Street, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/f112bea4-e4eb-4197-8a4a-205c84114acb-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
 | price n/a | [Salisbury Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/dbb96270-b0ae-460b-b9a4-caee94522e4f-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
 | price n/a | [Greenbank Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/9fee3d69-478a-43f2-8e62-ac2898e7d32d-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
@@ -100,23 +122,32 @@ _Last run: 2026-07-22T18:38:20Z — 13 active matches._
 | price n/a | [Cliff Road, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/e8f24d5d-15f8-420e-92f4-06b0979ba408-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
 | price n/a | [Neath Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/319151ea-7c15-496f-b3f4-644102b35d8d/) | Atwell Martin Plymouth (agent) | May have sitting tenants; Price not read — open listing |
 | price n/a | [Lipson Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/4b71cd32-c6ba-4771-829a-70b2335dc4d8-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
-| price n/a | [Castle Street, The Barbican](https://www.crosskeysestates.net/property/castle-street-the-barbican/) | Cross Keys Estates (agent) | Location unverified — check it's central Plymouth; Price not read — open listing |
-| price n/a | [Custom House Lane, The Hoe](https://www.crosskeysestates.net/property/custom-house-lane-the-hoe/) | Cross Keys Estates (agent) | Location unverified — check it's central Plymouth; Price not read — open listing |
-| price n/a | [Cremyll Street, Stonehouse](https://www.crosskeysestates.net/property/cremyll-street-stonehouse/) | Cross Keys Estates (agent) | Location unverified — check it's central Plymouth; Price not read — open listing |
 
 ### Recent events
 
-- `2026-07-22` **NEW price n/a** — [Cremyll Street, Stonehouse](https://www.crosskeysestates.net/property/cremyll-street-stonehouse/) (Cross Keys Estates (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Custom House Lane, The Hoe](https://www.crosskeysestates.net/property/custom-house-lane-the-hoe/) (Cross Keys Estates (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Castle Street, The Barbican](https://www.crosskeysestates.net/property/castle-street-the-barbican/) (Cross Keys Estates (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-07-22` **NEW £120,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
-- `2026-07-22` **NEW £100,000** — [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
-- `2026-07-22` **NEW price n/a** — [Lipson Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/4b71cd32-c6ba-4771-829a-70b2335dc4d8-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Neath Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/319151ea-7c15-496f-b3f4-644102b35d8d/) (Atwell Martin Plymouth (agent))  ⚠ May have sitting tenants; Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Cliff Road, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/e8f24d5d-15f8-420e-92f4-06b0979ba408-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [60 Exeter Street, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/ceb58ab5-bea5-479d-bc5a-08868de1f7e2/) (Atwell Martin Plymouth (agent))  ⚠ May have sitting tenants; Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Beaumont Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/32e2c5d0-d3bc-41de-a5cf-5d00f6f2ee3a/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Greenbank Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/9fee3d69-478a-43f2-8e62-ac2898e7d32d-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Salisbury Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/dbb96270-b0ae-460b-b9a4-caee94522e4f-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
-- `2026-07-22` **NEW price n/a** — [Notte Street, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/f112bea4-e4eb-4197-8a4a-205c84114acb-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
+- `2026-07-23` **NEW £135,000** — [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/16293795/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £100,000** — [Plymouth PL4](https://www.onthemarket.com/details/19839506/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-07-23` **NEW £130,000** — [Pier Street, Plymouth, PL1](https://www.onthemarket.com/details/19895470/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £90,000** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £115,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £90,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £140,000** — [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £130,000** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £90,000** — [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-07-23` **NEW £140,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £120,000** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £110,000** — [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £130,000** — [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £100,000** — [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-07-23` **NEW £120,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £125,000** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £140,000** — [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £90,000** — [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £130,000** — [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £90,000** — [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-07-23` **NEW £130,000** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £100,000** — [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
+- `2026-07-23` **NEW price n/a** — [Lipson Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/4b71cd32-c6ba-4771-829a-70b2335dc4d8-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
+- `2026-07-23` **NEW price n/a** — [Neath Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/319151ea-7c15-496f-b3f4-644102b35d8d/) (Atwell Martin Plymouth (agent))  ⚠ May have sitting tenants; Price not read — open listing
+- `2026-07-23` **NEW price n/a** — [Cliff Road, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/e8f24d5d-15f8-420e-92f4-06b0979ba408-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
 <!--HUNT:END-->
