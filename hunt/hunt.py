@@ -186,12 +186,16 @@ def extract_feed(source, xml_text):
     listings = []
     root = ET.fromstring(xml_text)
     link_re = re.compile(source.get("link_regex", "."), re.I)
+    url_excl = (re.compile(source["url_exclude_regex"], re.I)
+                if source.get("url_exclude_regex") else None)
     for item in root.iter("item"):
         link = (item.findtext("link") or "").strip().split("?")[0]
         title = (item.findtext("title") or "").strip()
         desc = re.sub(r"<[^>]+>", " ", item.findtext("description") or "")
         if not link or not link_re.search(link):
             continue
+        if url_excl and url_excl.search(link):
+            continue  # e.g. Atwell Martin lettings carry a '-l' slug suffix
         listings.append({
             "id": link,
             "url": link,
@@ -223,20 +227,34 @@ def fetch_source_once(source):
     return listings
 
 
-PRICE_ENRICH_CAP = 12  # max detail-page fetches per run, across all sources
+PRICE_ENRICH_CAP = 20  # max detail-page fetches per run, across all sources
+
+LETTING_RE = re.compile(r"\bpcm\b|per calendar month|\bto let\b|\bto rent\b",
+                        re.I)
 
 
 def price_from_page(html_text):
     """Read a sale price from a listing's own page: <title> first (agent
-    pages usually put the price there), then early body text."""
+    pages usually put the price there), then early body text.
+
+    Returns (price, is_letting). A page with rental markers and no
+    sale-sized price is a letting ('£895 pcm' never parses as a price,
+    so lettings would otherwise sail through the price band unpriced).
+    'per month' alone is NOT a rental marker — sale pages carry mortgage
+    calculators that use it.
+    """
+    price = None
     m = re.search(r"<title>([^<]*)</title>", html_text, re.I)
     if m:
-        p = parse_price(m.group(1))
-        if p:
-            return p
+        price = parse_price(m.group(1))
     body = re.sub(r"<script[\s\S]*?</script>|<style[\s\S]*?</style>", " ",
                   html_text[:120000])
-    return parse_price(re.sub(r"<[^>]+>", " ", body)[:40000])
+    text = re.sub(r"<[^>]+>", " ", body)[:40000]
+    if price is None:
+        price = parse_price(text)
+    is_letting = bool(LETTING_RE.search(text)) and (
+        price is None or price < 50000)
+    return price, is_letting
 
 
 def enrich_prices(listings, known, budget):
@@ -259,7 +277,7 @@ def enrich_prices(listings, known, budget):
             continue
         budget["left"] -= 1
         try:
-            l["price"] = price_from_page(fetch(l["url"]))
+            l["price"], l["is_letting"] = price_from_page(fetch(l["url"]))
             time.sleep(2)
         except Exception as exc:  # noqa: BLE001
             print(f"[enrich] {l['url']}: {exc}", file=sys.stderr)
@@ -293,10 +311,14 @@ def fetch_source_with_retry(source, retry_wait=45):
 
 # ── criteria ──────────────────────────────────────────────────────────
 
-def apply_criteria(listings, crit):
+def apply_excludes(listings, crit):
+    """Phase 1 — the price-independent excludes (streets, areas,
+    confirmed leaseholds, lettings). Run this BEFORE price enrichment so
+    the enrichment budget is never wasted on listings that are about to
+    be dropped anyway."""
     kept = []
-    drops = {"street": 0, "area": 0, "leasehold": 0, "price": 0}
-    crit["_last_drops"] = drops
+    drops = {"street": 0, "area": 0, "leasehold": 0, "letting": 0,
+             "price": 0}
     for l in listings:
         blob = (l["title"] + " " + l["card_text"]).lower()
         if any(re.search(p, blob) for p in crit["_exclude_res"]):
@@ -320,6 +342,19 @@ def apply_criteria(listings, crit):
         if dropped:
             drops["leasehold"] += 1
             continue
+        kept.append(l)
+    return kept, drops
+
+
+def apply_price_and_flags(listings, crit, drops):
+    """Phase 2 — after enrichment: lettings detected on detail pages,
+    the price band, and the warning flags."""
+    kept = []
+    for l in listings:
+        blob = (l["title"] + " " + l["card_text"]).lower()
+        if l.get("is_letting"):
+            drops["letting"] += 1
+            continue
         if l["price"] is not None and not (
                 crit["min_price"] <= l["price"] <= crit["max_price"]):
             drops["price"] += 1
@@ -332,6 +367,12 @@ def apply_criteria(listings, crit):
         l["flags"] = sorted(set(flags))
         kept.append(l)
     return kept
+
+
+def apply_criteria(listings, crit):
+    kept, drops = apply_excludes(listings, crit)
+    crit["_last_drops"] = drops
+    return apply_price_and_flags(kept, crit, drops)
 
 
 # ── state & diffing ───────────────────────────────────────────────────
@@ -604,11 +645,12 @@ def main():
             continue
         try:
             listings = fetch_source_with_retry(source)
-            enrich_prices(listings, state["listings"], enrich_budget)
-            matched = apply_criteria(listings, crit)
+            pre, drops = apply_excludes(listings, crit)
+            enrich_prices(pre, state["listings"], enrich_budget)
+            matched = apply_price_and_flags(pre, crit, drops)
             print(f"[{source['id']}] fetched: {len(listings)} listings, "
-                  f"{len(matched)} match criteria "
-                  f"(drops: {crit.pop('_last_drops', {})})")
+                  f"{len(matched)} match criteria (drops: {drops}, "
+                  f"enrich budget left: {enrich_budget['left']})")
             current.extend(matched)
             ok_sources.add(source["id"])
         except Exception as exc:  # noqa: BLE001 — keep the run alive
