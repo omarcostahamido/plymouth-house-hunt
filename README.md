@@ -87,20 +87,25 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-23T10:31:35Z — 22 active matches._
+_Last run: 2026-07-23T11:40:16Z — 31 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
+| £50,000 | [Longfield Place, Plymouth PL4](https://www.onthemarket.com/details/19477281/) | OnTheMarket (portal) | — |
+| £60,000 | [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) | OnTheMarket (portal) | — |
+| £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) | OnTheMarket (portal) | — |
+| £67,500 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
+| £80,000 | [Peacock Lane, Plymouth PL4](https://www.onthemarket.com/details/18161542/) | OnTheMarket (portal) | — |
+| £80,000 | [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) | OnTheMarket (portal) | — |
+| £80,000 | [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) | OnTheMarket (portal) | — |
+| £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
 | £90,000 | [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) | OnTheMarket (portal) | — |
 | £90,000 | [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) | OnTheMarket (portal) | — |
-| £90,000 | [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) | OnTheMarket (portal) | — |
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
 | £100,000 | [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) | OnTheMarket (portal) | Auction |
-| £100,000 | [Plymouth PL4](https://www.onthemarket.com/details/19839506/) | OnTheMarket (portal) | Auction |
 | £110,000 | [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) | OnTheMarket (portal) | — |
-| £115,000 | [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) | OnTheMarket (portal) | — |
 | £120,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £120,000 | [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) | OnTheMarket (portal) | — |
 | £125,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) | OnTheMarket (portal) | — |
@@ -108,34 +113,41 @@ _Last run: 2026-07-23T10:31:35Z — 22 active matches._
 | £130,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) | OnTheMarket (portal) | — |
-| £130,000 | [Pier Street, Plymouth, PL1](https://www.onthemarket.com/details/19895470/) | OnTheMarket (portal) | — |
-| £135,000 | [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/16293795/) | OnTheMarket (portal) | — |
 | £140,000 | [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | — |
 | £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
+| £150,000 | [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) | OnTheMarket (portal) | May have sitting tenants; Over budget — stretch (above £140,000) |
+| £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
-- `2026-07-23` **NEW £135,000** — [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/16293795/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £100,000** — [Plymouth PL4](https://www.onthemarket.com/details/19839506/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-07-23` **NEW £130,000** — [Pier Street, Plymouth, PL1](https://www.onthemarket.com/details/19895470/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £90,000** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £115,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £90,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £140,000** — [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £67,500** — [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) (OnTheMarket (portal))  ⚠ Leasehold? — check tenure; Shared ownership / share price
+- `2026-07-23` **NEW £50,000** — [Longfield Place, Plymouth PL4](https://www.onthemarket.com/details/19477281/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £130,000** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £150,000** — [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £90,000** — [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-07-23` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £80,000** — [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £140,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £60,000** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £120,000** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £160,000** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £110,000** — [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £130,000** — [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £80,000** — [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £100,000** — [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-07-23` **NEW £160,000** — [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £120,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
+- `2026-07-23` **NEW £160,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
+- `2026-07-23` **NEW £150,000** — [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Over budget — stretch (above £140,000)
+- `2026-07-23` **NEW £160,000** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £125,000** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £140,000** — [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £90,000** — [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £130,000** — [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £90,000** — [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-07-23` **NEW £130,000** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £100,000** — [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
 <!--HUNT:END-->
