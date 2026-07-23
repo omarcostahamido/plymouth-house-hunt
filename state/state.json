@@ -107,7 +107,7 @@
    "url": "https://www.onthemarket.com/details/19431408/",
    "title": "St James Court, Plymouth PL1",
    "price": 140000,
-   "card_text": "Reduced Offers in excess of £140,000 St James Court, Plymouth PL1 Apartment 2 1 Third-floor apartment Two spacious bedrooms Study Martin & Co - Plymouth Reduced > 14 days Email 01752 948712",
+   "card_text": "Offers in excess of £140,000 St James Court, Plymouth PL1 Apartment 2 1 Third-floor apartment Two spacious bedrooms Study Martin & Co - Plymouth Added > 14 days Email 01752 948712",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -831,6 +831,12 @@
    "at": "2026-07-23T11:40:16Z",
    "found": 31,
    "events": 31,
+   "failed_sources": []
+  },
+  {
+   "at": "2026-07-23T18:41:55Z",
+   "found": 31,
+   "events": 0,
    "failed_sources": []
   }
  ],
