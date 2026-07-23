@@ -123,6 +123,10 @@ sources:
     enabled: true
     url: "https://plymouth.atwellmartin.co.uk/property/feed/"
     link_regex: "atwellmartin\\.co\\.uk/property/[a-z0-9-]+/?$"
+    # Their feed mixes sales and lettings; letting slugs end in "-l"
+    # (verified 2026-07-23: Notte St/Salisbury Rd/Greenbank Rd are all
+    # rentals with that suffix).
+    url_exclude_regex: "-l/?$"
     min_listings: 3
     note: "Feed titles carry street + postcode (PL1/PL4) — area check
            works well here. No prices in feed."
