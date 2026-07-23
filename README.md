@@ -7,11 +7,12 @@ change, or delisting) — sends notifications and updates the
 [RSS feed](docs/feed.xml), the README digest below, and the web digest
 (if GitHub Pages is enabled).
 
-**Criteria:** £90,000–£140,000 · central Plymouth (~1 mile of Buckwell
-Street / The Box) · freehold or share of freehold preferred · excludes
-North Hill, Sydney Street, Wyndham Street West and retirement homes ·
-flags auctions, possible sitting tenants, unknown tenure, and
-possible lettings.
+**Criteria:** £50,000–£140,000 core budget, with a stretch band to
+£160,000 (stretch listings are kept but flagged "Over budget") ·
+central Plymouth (~1 mile of Buckwell Street / The Box) · freehold or
+share of freehold preferred · excludes North Hill, Sydney Street,
+Wyndham Street West and retirement homes · flags auctions, possible
+sitting tenants, unknown tenure, and possible lettings.
 
 **Monitored sources** (all live-tested 2026-07-21/22 — see per-source
 notes in [`hunt/config.yaml`](hunt/config.yaml)): Lang Town & Country
