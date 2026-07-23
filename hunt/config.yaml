@@ -2,8 +2,16 @@
 # Edit this file to change what gets matched. No code changes needed.
 
 criteria:
-  min_price: 90000
+  # Core budget band. min lowered from 90k (2026-07-23): under-90k stock
+  # in the zone is rare (2 listings) but low auction guides shouldn't
+  # slip under the floor; 50k still keeps out garages/parking spaces.
+  min_price: 50000
   max_price: 140000
+  # Stretch band: listings between max_price and stretch_max are KEPT
+  # but flagged "Over budget — stretch", so Sarah sees the strong
+  # £140k–£160k stock (freehold 2-beds, maisonettes with parking)
+  # without it polluting the core list.
+  stretch_max: 160000
   # Soft location check: addresses containing one of these are "in area";
   # anything else is still reported but flagged "location unverified".
   area_keywords:
@@ -158,14 +166,14 @@ sources:
     name: "OnTheMarket (portal)"
     type: generic
     enabled: true
-    url: "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false"
+    url: "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=50000&max-price=160000&retirement=false"
     # OTM paginates ~30/page and repeats some listings as address-less
     # "featured" modules on page 1; fetching pages 1-3 lets the merge
     # step replace those with the real card (address + price).
     urls:
-      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false"
-      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false&page=2"
-      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=90000&max-price=140000&retirement=false&page=3"
+      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=50000&max-price=160000&retirement=false"
+      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=50000&max-price=160000&retirement=false&page=2"
+      - "https://www.onthemarket.com/for-sale/property/pl1-2da/?radius=1.0&min-price=50000&max-price=160000&retirement=false&page=3"
     link_regex: "/details/\\d+"
     # OTM pages embed "featured/similar" promo carousels whose entries
     # are NOT part of the filtered results and carry no <address> —

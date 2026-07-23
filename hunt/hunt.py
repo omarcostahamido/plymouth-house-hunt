@@ -355,11 +355,17 @@ def apply_price_and_flags(listings, crit, drops):
         if l.get("is_letting"):
             drops["letting"] += 1
             continue
+        # Hard band is min_price..stretch_max; prices between max_price
+        # and stretch_max are kept but flagged as over-budget stretch.
+        stretch_max = crit.get("stretch_max") or crit["max_price"]
         if l["price"] is not None and not (
-                crit["min_price"] <= l["price"] <= crit["max_price"]):
+                crit["min_price"] <= l["price"] <= stretch_max):
             drops["price"] += 1
             continue
         flags = [f["label"] for f in crit["_flag_res"] if f["re"].search(blob)]
+        if l["price"] is not None and l["price"] > crit["max_price"]:
+            flags.append(f"Over budget — stretch "
+                         f"(above £{crit['max_price']:,})")
         if l["price"] is None:
             flags.append("Price not read — open listing")
         if not any(k.lower() in blob for k in crit["area_keywords"]):
@@ -586,11 +592,12 @@ def write_email(events, state, first_run=False):
             + section("🆕 New listings", groups["new"], "new")
             + section("💷 Price changes", groups["price_change"], "price_change")
             + section("🚫 No longer listed", groups["removed"], "removed")
-            + "<p style='color:#5a6472;font-size:.85rem'>Criteria: £90k–£140k, "
-              "central Plymouth (~1 mi of Buckwell St/The Box), freehold or share "
-              "of freehold preferred, no North Hill / Sydney St / Wyndham St W, "
-              "service charge ≤£50/yr — always verify tenure, charges and "
-              "availability with the agent.</p></div>")
+            + "<p style='color:#5a6472;font-size:.85rem'>Criteria: up to £140k "
+              "(stretch listings to £160k are flagged), central Plymouth (~1 mi "
+              "of Buckwell St/The Box), freehold or share of freehold preferred, "
+              "no North Hill / Sydney St / Wyndham St W, service charge ≤£50/yr "
+              "— always verify tenure, charges and availability with the "
+              "agent.</p></div>")
     EMAIL.write_text(body)
 
     # Markdown twin — used as GitHub Release notes (watchers get emailed).
