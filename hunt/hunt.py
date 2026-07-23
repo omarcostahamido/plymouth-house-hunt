@@ -69,16 +69,45 @@ def parse_price(text):
     return int(m.group(1).replace(",", ""))
 
 
-def card_container(a_tag, max_up=5):
-    """Climb from a link to the smallest ancestor that mentions a price."""
+def card_container(a_tag, source, max_up=6):
+    """Climb from a link to the ancestor that best represents ONE card.
+
+    Prefer the smallest ancestor holding BOTH a price and exactly one
+    <address> (a complete result card — OTM keeps the price in a
+    sub-block, so the first £-bearing ancestor is too small). Stop
+    climbing the moment an ancestor contains a link to a DIFFERENT
+    listing or a second <address>: that's the results list, not a card.
+    Fall back to the first price-bearing ancestor (promo modules have a
+    price but never an address, which is how require_address spots them).
+    """
+    link_re = re.compile(source["link_regex"], re.I)
+    base = source["url"]
+
+    def norm(href):
+        return urljoin(base, href).split("?")[0].split("#")[0]
+
+    my_href = norm(a_tag.get("href", ""))
     node = a_tag
+    first_price = None
     for _ in range(max_up):
         if node.parent is None:
             break
         node = node.parent
+        if not hasattr(node, "find_all"):
+            break
+        others = {norm(x.get("href", ""))
+                  for x in node.find_all("a", href=True)}
+        if any(h != my_href and link_re.search(h) for h in others):
+            break  # ancestor spans other listings — overshot
+        addrs = node.find_all("address")
+        if len(addrs) > 1:
+            break
         if "£" in node.get_text():
-            return node
-    return a_tag.parent or a_tag
+            if first_price is None:
+                first_price = node
+            if len(addrs) == 1:
+                return node
+    return first_price or a_tag.parent or a_tag
 
 
 def extract_listings(source, html_text):
@@ -90,7 +119,7 @@ def extract_listings(source, html_text):
         absu = urljoin(source["url"], a["href"]).split("?")[0].split("#")[0]
         if not link_re.search(absu):
             continue
-        card = card_container(a)
+        card = card_container(a, source)
         text = " ".join(card.get_text(" ", strip=True).split())
         price = parse_price(text)
         # Title preference: the card's <address> element (portals like OTM
@@ -194,6 +223,48 @@ def fetch_source_once(source):
     return listings
 
 
+PRICE_ENRICH_CAP = 12  # max detail-page fetches per run, across all sources
+
+
+def price_from_page(html_text):
+    """Read a sale price from a listing's own page: <title> first (agent
+    pages usually put the price there), then early body text."""
+    m = re.search(r"<title>([^<]*)</title>", html_text, re.I)
+    if m:
+        p = parse_price(m.group(1))
+        if p:
+            return p
+    body = re.sub(r"<script[\s\S]*?</script>|<style[\s\S]*?</style>", " ",
+                  html_text[:120000])
+    return parse_price(re.sub(r"<[^>]+>", " ", body)[:40000])
+
+
+def enrich_prices(listings, known, budget):
+    """Fill missing prices: from state cache first (free), then by
+    fetching the listing page itself (bounded by PRICE_ENRICH_CAP).
+
+    Feed sources carry no prices, so without this the £90k–£140k band
+    can't apply to them and £300k+ stock reaches the digest. A lettings
+    item priced '£1,300 pcm' parses as 1300 → out of band → dropped,
+    which conveniently also filters rentals out of mixed agent feeds.
+    """
+    for l in listings:
+        if l["price"] is not None:
+            continue
+        prev = known.get(l["id"])
+        if prev and prev.get("price") is not None:
+            l["price"] = prev["price"]
+            continue
+        if budget["left"] <= 0:
+            continue
+        budget["left"] -= 1
+        try:
+            l["price"] = price_from_page(fetch(l["url"]))
+            time.sleep(2)
+        except Exception as exc:  # noqa: BLE001
+            print(f"[enrich] {l['url']}: {exc}", file=sys.stderr)
+
+
 def fetch_source_with_retry(source, retry_wait=45):
     """Fetch a source, enforcing its sanity floor (min_listings).
 
@@ -224,14 +295,18 @@ def fetch_source_with_retry(source, retry_wait=45):
 
 def apply_criteria(listings, crit):
     kept = []
+    drops = {"street": 0, "area": 0, "leasehold": 0, "price": 0}
+    crit["_last_drops"] = drops
     for l in listings:
         blob = (l["title"] + " " + l["card_text"]).lower()
         if any(re.search(p, blob) for p in crit["_exclude_res"]):
+            drops["street"] += 1
             continue
         # Area excludes match the TITLE (address) only, so a description
         # saying "short drive to Plymstock" can't wrongly drop a listing.
         if any(r.search(l["title"].lower())
                for r in crit.get("_exclude_area_res", [])):
+            drops["area"] += 1
             continue
         # Conditional excludes: drop when `pattern` matches — unless the
         # `unless` pattern also matches (e.g. confirmed leasehold, except
@@ -243,9 +318,11 @@ def apply_criteria(listings, crit):
                 dropped = True
                 break
         if dropped:
+            drops["leasehold"] += 1
             continue
         if l["price"] is not None and not (
                 crit["min_price"] <= l["price"] <= crit["max_price"]):
+            drops["price"] += 1
             continue
         flags = [f["label"] for f in crit["_flag_res"] if f["re"].search(blob)]
         if l["price"] is None:
@@ -521,14 +598,17 @@ def main():
     first_run = not state["listings"]
 
     current, failures, ok_sources = [], [], set()
+    enrich_budget = {"left": PRICE_ENRICH_CAP}
     for source in cfg["sources"]:
         if not source.get("enabled", True):
             continue
         try:
             listings = fetch_source_with_retry(source)
+            enrich_prices(listings, state["listings"], enrich_budget)
             matched = apply_criteria(listings, crit)
             print(f"[{source['id']}] fetched: {len(listings)} listings, "
-                  f"{len(matched)} match criteria")
+                  f"{len(matched)} match criteria "
+                  f"(drops: {crit.pop('_last_drops', {})})")
             current.extend(matched)
             ok_sources.add(source["id"])
         except Exception as exc:  # noqa: BLE001 — keep the run alive
