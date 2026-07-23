@@ -86,9 +86,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-23T09:04:58Z — 30 active matches._
-
-> ⚠ Sources that failed this run: Cross Keys Estates (agent)
+_Last run: 2026-07-23T10:31:35Z — 22 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -114,14 +112,6 @@ _Last run: 2026-07-23T09:04:58Z — 30 active matches._
 | £140,000 | [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | — |
 | £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
-| price n/a | [Notte Street, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/f112bea4-e4eb-4197-8a4a-205c84114acb-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
-| price n/a | [Salisbury Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/dbb96270-b0ae-460b-b9a4-caee94522e4f-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
-| price n/a | [Greenbank Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/9fee3d69-478a-43f2-8e62-ac2898e7d32d-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
-| price n/a | [Beaumont Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/32e2c5d0-d3bc-41de-a5cf-5d00f6f2ee3a/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
-| price n/a | [60 Exeter Street, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/ceb58ab5-bea5-479d-bc5a-08868de1f7e2/) | Atwell Martin Plymouth (agent) | May have sitting tenants; Price not read — open listing |
-| price n/a | [Cliff Road, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/e8f24d5d-15f8-420e-92f4-06b0979ba408-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
-| price n/a | [Neath Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/319151ea-7c15-496f-b3f4-644102b35d8d/) | Atwell Martin Plymouth (agent) | May have sitting tenants; Price not read — open listing |
-| price n/a | [Lipson Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/4b71cd32-c6ba-4771-829a-70b2335dc4d8-l/) | Atwell Martin Plymouth (agent) | Price not read — open listing |
 
 ### Recent events
 
@@ -147,7 +137,4 @@ _Last run: 2026-07-23T09:04:58Z — 30 active matches._
 - `2026-07-23` **NEW £90,000** — [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-07-23` **NEW £130,000** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £100,000** — [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
-- `2026-07-23` **NEW price n/a** — [Lipson Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/4b71cd32-c6ba-4771-829a-70b2335dc4d8-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
-- `2026-07-23` **NEW price n/a** — [Neath Road, Plymouth, PL4](https://plymouth.atwellmartin.co.uk/property/319151ea-7c15-496f-b3f4-644102b35d8d/) (Atwell Martin Plymouth (agent))  ⚠ May have sitting tenants; Price not read — open listing
-- `2026-07-23` **NEW price n/a** — [Cliff Road, Plymouth, PL1](https://plymouth.atwellmartin.co.uk/property/e8f24d5d-15f8-420e-92f4-06b0979ba408-l/) (Atwell Martin Plymouth (agent))  ⚠ Price not read — open listing
 <!--HUNT:END-->
