@@ -456,7 +456,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-07-24",
-   "status": "active"
+   "status": "removed"
   }
  },
  "events": [
@@ -824,6 +824,17 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-07-23"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/16705428/",
+   "title": "Woodland Terrace, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/16705428/",
+   "price": 90000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-07-24"
   }
  ],
  "runs": [
@@ -844,6 +855,14 @@
    "found": 31,
    "events": 0,
    "failed_sources": []
+  },
+  {
+   "at": "2026-07-24T18:52:16Z",
+   "found": 30,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
   }
  ],
  "max_events": 200
