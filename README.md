@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-26T18:17:09Z — 30 active matches._
+_Last run: 2026-07-27T10:14:00Z — 30 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
