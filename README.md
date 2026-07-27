@@ -87,7 +87,9 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-27T10:14:00Z — 30 active matches._
+_Last run: 2026-07-27T18:52:14Z — 29 active matches._
+
+> ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -120,10 +122,10 @@ _Last run: 2026-07-27T10:14:00Z — 30 active matches._
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £160,000 | [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-07-27` **REMOVED** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-25` **PRICE £120,000 → £115,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
 - `2026-07-24` **REMOVED** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £90,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))
@@ -148,5 +150,4 @@ _Last run: 2026-07-27T10:14:00Z — 30 active matches._
 - `2026-07-23` **NEW £160,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £150,000** — [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £160,000** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-07-23` **NEW £125,000** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) (OnTheMarket (portal))
 <!--HUNT:END-->

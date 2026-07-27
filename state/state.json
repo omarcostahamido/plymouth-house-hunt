@@ -281,7 +281,7 @@
    ],
    "first_seen": "2026-07-23",
    "last_seen": "2026-07-27",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19713473/": {
    "id": "https://www.onthemarket.com/details/19713473/",
@@ -846,6 +846,19 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-07-25"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/18579390/",
+   "title": "Ford Park Road, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/18579390/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-07-27"
   }
  ],
  "runs": [
@@ -908,6 +921,14 @@
    "found": 30,
    "events": 0,
    "failed_sources": []
+  },
+  {
+   "at": "2026-07-27T18:52:14Z",
+   "found": 29,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
   }
  ],
  "max_events": 200
