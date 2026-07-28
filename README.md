@@ -87,9 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-28T09:12:40Z — 29 active matches._
-
-> ⚠ Sources that failed this run: Cross Keys Estates (agent)
+_Last run: 2026-07-28T18:52:47Z — 28 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -97,8 +95,8 @@ _Last run: 2026-07-28T09:12:40Z — 29 active matches._
 | £60,000 | [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) | OnTheMarket (portal) | — |
 | £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) | OnTheMarket (portal) | — |
 | £67,500 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
+| £78,000 | [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) | OnTheMarket (portal) | — |
 | £80,000 | [Peacock Lane, Plymouth PL4](https://www.onthemarket.com/details/18161542/) | OnTheMarket (portal) | — |
-| £80,000 | [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) | OnTheMarket (portal) | — |
 | £80,000 | [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) | OnTheMarket (portal) | — |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
 | £90,000 | [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) | OnTheMarket (portal) | Auction |
@@ -117,7 +115,6 @@ _Last run: 2026-07-28T09:12:40Z — 29 active matches._
 | £140,000 | [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | — |
 | £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
-| £150,000 | [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) | OnTheMarket (portal) | May have sitting tenants; Over budget — stretch (above £140,000) |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -125,6 +122,8 @@ _Last run: 2026-07-28T09:12:40Z — 29 active matches._
 
 ### Recent events
 
+- `2026-07-28` **REMOVED** — [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Over budget — stretch (above £140,000)
+- `2026-07-28` **PRICE £80,000 → £78,000** — [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) (OnTheMarket (portal))
 - `2026-07-27` **REMOVED** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-25` **PRICE £120,000 → £115,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
 - `2026-07-24` **REMOVED** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))
@@ -148,6 +147,4 @@ _Last run: 2026-07-28T09:12:40Z — 29 active matches._
 - `2026-07-23` **NEW £160,000** — [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £120,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £160,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-07-23` **NEW £150,000** — [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Over budget — stretch (above £140,000)
-- `2026-07-23` **NEW £160,000** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->

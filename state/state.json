@@ -79,7 +79,7 @@
    "url": "https://www.onthemarket.com/details/19700445/",
    "title": "Constantine Street, Plymouth, Devon, PL4",
    "price": 85000,
-   "card_text": "Reduced Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Cash buyers only Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Reduced > 14 days Email 01752 259982",
+   "card_text": "Featured Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Cash buyers only Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -161,7 +161,7 @@
    ],
    "first_seen": "2026-07-23",
    "last_seen": "2026-07-28",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19864508/": {
    "id": "https://www.onthemarket.com/details/19864508/",
@@ -229,8 +229,8 @@
    "id": "https://www.onthemarket.com/details/18410438/",
    "url": "https://www.onthemarket.com/details/18410438/",
    "title": "North Road West, Plymouth PL1",
-   "price": 80000,
-   "card_text": "£80,000 North Road West, Plymouth PL1 Ground floor flat 1 1 Charming victorian ground floor flat Bright open plan living space Chain-free Martin & Co - Plymouth Added > 14 days Email 01752 948712",
+   "price": 78000,
+   "card_text": "Reduced today £78,000 North Road West, Plymouth PL1 Ground floor flat 1 1 Charming victorian ground floor flat Bright open plan living space Chain-free Martin & Co - Plymouth Reduced today Email 01752 948712",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -859,6 +859,31 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-07-27"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/18410438/",
+   "title": "North Road West, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/18410438/",
+   "price": 78000,
+   "old_price": 80000,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-07-28"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19463314/",
+   "title": "Chedworth Street, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19463314/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "May have sitting tenants",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-07-28"
   }
  ],
  "runs": [
@@ -937,6 +962,12 @@
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
+  },
+  {
+   "at": "2026-07-28T18:52:47Z",
+   "found": 28,
+   "events": 2,
+   "failed_sources": []
   }
  ],
  "max_events": 200
