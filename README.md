@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-29T09:18:33Z — 28 active matches._
+_Last run: 2026-07-29T18:17:44Z — 29 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -108,6 +108,7 @@ _Last run: 2026-07-29T09:18:33Z — 28 active matches._
 | £100,000 | [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) | OnTheMarket (portal) | Auction |
 | £110,000 | [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) | OnTheMarket (portal) | — |
 | £115,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
+| £115,000 | [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) | OnTheMarket (portal) | — |
 | £120,000 | [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) | OnTheMarket (portal) | — |
 | £125,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) | OnTheMarket (portal) | — |
 | £130,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
@@ -124,6 +125,7 @@ _Last run: 2026-07-29T09:18:33Z — 28 active matches._
 
 ### Recent events
 
+- `2026-07-29` **NEW £115,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
 - `2026-07-28` **REMOVED** — [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Over budget — stretch (above £140,000)
 - `2026-07-28` **PRICE £80,000 → £78,000** — [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) (OnTheMarket (portal))
 - `2026-07-27` **REMOVED** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
@@ -148,5 +150,4 @@ _Last run: 2026-07-29T09:18:33Z — 28 active matches._
 - `2026-07-23` **NEW £100,000** — [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-07-23` **NEW £160,000** — [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £120,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £160,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->

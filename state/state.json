@@ -49,7 +49,7 @@
    "url": "https://www.onthemarket.com/details/19790425/",
    "title": "15 Collingwood Avenue, Plymouth, Devon PL4 9ND",
    "price": 90000,
-   "card_text": "Reduced Guide price £90,000 15 Collingwood Avenue, Plymouth, Devon PL4 9ND Block of apartments 2 2 Tenure: Freehold EPC: E54 Auction Auction House - South West Reduced > 14 days Email 01752 942680",
+   "card_text": "Guide price £90,000 15 Collingwood Avenue, Plymouth, Devon PL4 9ND Block of apartments 2 2 Tenure: Freehold EPC: E54 Auction Auction House - South West Added > 14 days Email 01752 942680",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -457,6 +457,20 @@
    "first_seen": "2026-07-23",
    "last_seen": "2026-07-24",
    "status": "removed"
+  },
+  "https://www.onthemarket.com/details/19013663/": {
+   "id": "https://www.onthemarket.com/details/19013663/",
+   "url": "https://www.onthemarket.com/details/19013663/",
+   "title": "Ocean Crescent, Plymouth PL1",
+   "price": 115000,
+   "card_text": "£115,000 Ocean Crescent, Plymouth PL1 Apartment 1 1 Fourth floor apartment One double bedroom Chain-free Martin & Co - Plymouth Added > 14 days Email 01752 948712",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "status": "active"
   }
  },
  "events": [
@@ -884,6 +898,17 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-07-28"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/19013663/",
+   "title": "Ocean Crescent, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/19013663/",
+   "price": 115000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-07-29"
   }
  ],
  "runs": [
@@ -973,6 +998,14 @@
    "at": "2026-07-29T09:18:33Z",
    "found": 28,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-07-29T18:17:44Z",
+   "found": 29,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
