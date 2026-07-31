@@ -471,6 +471,20 @@
    "first_seen": "2026-07-29",
    "last_seen": "2026-07-31",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20049676/": {
+   "id": "https://www.onthemarket.com/details/20049676/",
+   "url": "https://www.onthemarket.com/details/20049676/",
+   "title": "The Cargo, Plymouth PL1",
+   "price": 130000,
+   "card_text": "Added today £130,000 The Cargo, Plymouth PL1 Apartment 1 1 Stunning apartment City centre location Martin & Co - Plymouth Added today Email 01752 948712",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "status": "active"
   }
  },
  "events": [
@@ -946,6 +960,17 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-07-31"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20049676/",
+   "title": "The Cargo, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20049676/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-07-31"
   }
  ],
  "runs": [
@@ -1066,6 +1091,14 @@
    "found": 26,
    "events": 1,
    "failed_sources": []
+  },
+  {
+   "at": "2026-07-31T18:49:22Z",
+   "found": 27,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
   }
  ],
  "max_events": 200

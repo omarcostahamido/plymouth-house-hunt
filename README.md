@@ -87,7 +87,9 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-07-31T09:21:48Z — 26 active matches._
+_Last run: 2026-07-31T18:49:22Z — 27 active matches._
+
+> ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -110,6 +112,7 @@ _Last run: 2026-07-31T09:21:48Z — 26 active matches._
 | £130,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) | OnTheMarket (portal) | — |
+| £130,000 | [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) | OnTheMarket (portal) | — |
 | £140,000 | [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | — |
 | £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
@@ -120,6 +123,7 @@ _Last run: 2026-07-31T09:21:48Z — 26 active matches._
 
 ### Recent events
 
+- `2026-07-31` **NEW £130,000** — [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) (OnTheMarket (portal))
 - `2026-07-31` **REMOVED** — [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) (OnTheMarket (portal))
 - `2026-07-30` **REMOVED** — [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-07-30` **REMOVED** — [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) (OnTheMarket (portal))  ⚠ Auction
@@ -144,5 +148,4 @@ _Last run: 2026-07-31T09:21:48Z — 26 active matches._
 - `2026-07-23` **NEW £160,000** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £110,000** — [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £130,000** — [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £80,000** — [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) (OnTheMarket (portal))
 <!--HUNT:END-->
