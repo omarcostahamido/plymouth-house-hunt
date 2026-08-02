@@ -87,9 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-02T08:41:23Z — 27 active matches._
-
-> ⚠ Sources that failed this run: Lang Town & Country (agent)
+_Last run: 2026-08-02T18:16:29Z — 27 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
