@@ -184,7 +184,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 115000,
-   "card_text": "Reduced £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Reduced < 14 days Email 01752 259982",
+   "card_text": "Spotlight Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Reduced < 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -477,12 +477,28 @@
    "url": "https://www.onthemarket.com/details/20049676/",
    "title": "The Cargo, Plymouth PL1",
    "price": 130000,
-   "card_text": "Recently added £130,000 The Cargo, Plymouth PL1 Apartment 1 1 Stunning apartment City centre location Martin & Co - Plymouth Added < 7 days Email 01752 948712",
+   "card_text": "£130,000 The Cargo, Plymouth PL1 Apartment 1 1 Stunning apartment City centre location Martin & Co - Plymouth Added < 7 days Email 01752 948712",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-31",
+   "last_seen": "2026-08-03",
+   "status": "active"
+  },
+  "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/": {
+   "id": "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/",
+   "url": "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/",
+   "title": "Seymour Avenue, St Judes, Plymouth.",
+   "price": 155000,
+   "card_text": "Seymour Avenue, St Judes, Plymouth. Situated in the ever-popular residential area of St Judes, this mid-terraced property offers an excellent opportunity for buyers looking to create a beautiful family home. Conveniently located close to a wide range of local amenities, including well-regarded schools, local shops and parks, the property also enjoys easy access to Plymouth's vibrant city centre, the historic Barbican and the stunning Plymouth Hoe.",
+   "source": "langtownandcountry",
+   "source_name": "Lang Town & Country (agent)",
+   "is_letting": false,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-03",
    "last_seen": "2026-08-03",
    "status": "active"
   }
@@ -971,6 +987,19 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-07-31"
+  },
+  {
+   "type": "new",
+   "id": "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/",
+   "title": "Seymour Avenue, St Judes, Plymouth.",
+   "url": "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/",
+   "price": 155000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-03"
   }
  ],
  "runs": [
@@ -1136,6 +1165,14 @@
    "events": 0,
    "failed_sources": [
     "Lang Town & Country (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-03T19:00:59Z",
+   "found": 28,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
    ]
   }
  ],

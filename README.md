@@ -87,9 +87,9 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-03T10:10:26Z — 27 active matches._
+_Last run: 2026-08-03T19:00:59Z — 28 active matches._
 
-> ⚠ Sources that failed this run: Lang Town & Country (agent)
+> ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -117,12 +117,14 @@ _Last run: 2026-08-03T10:10:26Z — 27 active matches._
 | £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £155,000 | [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-08-03` **NEW £155,000** — [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-31` **NEW £130,000** — [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) (OnTheMarket (portal))
 - `2026-07-31` **REMOVED** — [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) (OnTheMarket (portal))
 - `2026-07-30` **REMOVED** — [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) (OnTheMarket (portal))  ⚠ Auction
@@ -147,5 +149,4 @@ _Last run: 2026-08-03T10:10:26Z — 27 active matches._
 - `2026-07-23` **NEW £120,000** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £160,000** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £110,000** — [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £130,000** — [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) (OnTheMarket (portal))
 <!--HUNT:END-->
