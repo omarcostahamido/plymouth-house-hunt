@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-04T09:17:32Z — 28 active matches._
+_Last run: 2026-08-04T19:00:23Z — 29 active matches._
 
 > ⚠ Sources that failed this run: Lang Town & Country (agent)
 
@@ -121,9 +121,11 @@ _Last run: 2026-08-04T09:17:32Z — 28 active matches._
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-08-04` **NEW £160,000** — [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-03` **NEW £155,000** — [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-31` **NEW £130,000** — [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) (OnTheMarket (portal))
 - `2026-07-31` **REMOVED** — [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) (OnTheMarket (portal))
@@ -148,5 +150,4 @@ _Last run: 2026-08-04T09:17:32Z — 28 active matches._
 - `2026-07-23` **NEW £60,000** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £120,000** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £160,000** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-07-23` **NEW £110,000** — [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) (OnTheMarket (portal))
 <!--HUNT:END-->

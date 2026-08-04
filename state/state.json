@@ -79,7 +79,7 @@
    "url": "https://www.onthemarket.com/details/19700445/",
    "title": "Constantine Street, Plymouth, Devon, PL4",
    "price": 85000,
-   "card_text": "Featured Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Cash buyers only Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Featured Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -500,6 +500,22 @@
    ],
    "first_seen": "2026-08-03",
    "last_seen": "2026-08-03",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20066251/": {
+   "id": "https://www.onthemarket.com/details/20066251/",
+   "url": "https://www.onthemarket.com/details/20066251/",
+   "title": "25 Sea View terrace, Plytmouth PL4",
+   "price": 160000,
+   "card_text": "Added today Offers over £160,000 25 Sea View terrace, Plytmouth PL4 Ground floor flat 2 Tenure: Freehold Beautiful Victorian ground floor flat Study Red Homes Estate Agents - Plymouth Added today Email 01752 259802",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
    "status": "active"
   }
  },
@@ -1000,6 +1016,19 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-08-03"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20066251/",
+   "title": "25 Sea View terrace, Plytmouth PL4",
+   "url": "https://www.onthemarket.com/details/20066251/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-04"
   }
  ],
  "runs": [
@@ -1179,6 +1208,14 @@
    "at": "2026-08-04T09:17:32Z",
    "found": 27,
    "events": 0,
+   "failed_sources": [
+    "Lang Town & Country (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-04T19:00:23Z",
+   "found": 28,
+   "events": 1,
    "failed_sources": [
     "Lang Town & Country (agent)"
    ]
