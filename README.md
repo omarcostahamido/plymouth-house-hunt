@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-05T09:14:44Z — 29 active matches._
+_Last run: 2026-08-05T18:58:52Z — 32 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -111,11 +111,14 @@ _Last run: 2026-08-05T09:14:44Z — 29 active matches._
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) | OnTheMarket (portal) | — |
 | £130,000 | [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) | OnTheMarket (portal) | — |
+| £135,000 | [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/20071920/) | OnTheMarket (portal) | — |
 | £140,000 | [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | — |
 | £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £150,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
+| £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -123,6 +126,9 @@ _Last run: 2026-08-05T09:14:44Z — 29 active matches._
 
 ### Recent events
 
+- `2026-08-05` **NEW £155,000** — [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
+- `2026-08-05` **NEW £150,000** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
+- `2026-08-05` **NEW £135,000** — [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/20071920/) (OnTheMarket (portal))
 - `2026-08-04` **NEW £160,000** — [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-03` **NEW £155,000** — [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-31` **NEW £130,000** — [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) (OnTheMarket (portal))
@@ -145,7 +151,4 @@ _Last run: 2026-08-05T09:14:44Z — 29 active matches._
 - `2026-07-23` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £80,000** — [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £140,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £60,000** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £120,000** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £160,000** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->

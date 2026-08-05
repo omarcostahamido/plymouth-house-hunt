@@ -516,6 +516,52 @@
    "first_seen": "2026-08-04",
    "last_seen": "2026-08-05",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20071920/": {
+   "id": "https://www.onthemarket.com/details/20071920/",
+   "url": "https://www.onthemarket.com/details/20071920/",
+   "title": "St. James Place West, Plymouth PL1",
+   "price": 135000,
+   "card_text": "Added today £135,000 St. James Place West, Plymouth PL1 Apartment 1 1 Tenure: Share of freehold No Onward Chain Chain-free Lang Town & Country Estate Agents - Plymouth Added today Email 01752 948541",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20071962/": {
+   "id": "https://www.onthemarket.com/details/20071962/",
+   "url": "https://www.onthemarket.com/details/20071962/",
+   "title": "Providence Street, Plymouth PL4",
+   "price": 150000,
+   "card_text": "Added today £150,000 Providence Street, Plymouth PL4 Terraced house 2 1 Tenure: Freehold Prime Central Plymouth Location Lang Town & Country Estate Agents - Plymouth Added today Email 01752 948541",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20072003/": {
+   "id": "https://www.onthemarket.com/details/20072003/",
+   "url": "https://www.onthemarket.com/details/20072003/",
+   "title": "Seymour Avenue, Plymouth PL4",
+   "price": 155000,
+   "card_text": "Added today £155,000 Seymour Avenue, Plymouth PL4 Terraced house 3 1 Tenure: Freehold Popular St Judes location Lang Town & Country Estate Agents - Plymouth Added today Email 01752 948541",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "status": "active"
   }
  },
  "events": [
@@ -1028,6 +1074,43 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-08-04"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20071920/",
+   "title": "St. James Place West, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20071920/",
+   "price": 135000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-05"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20071962/",
+   "title": "Providence Street, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/20071962/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-05"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20072003/",
+   "title": "Seymour Avenue, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/20072003/",
+   "price": 155000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-05"
   }
  ],
  "runs": [
@@ -1223,6 +1306,12 @@
    "at": "2026-08-05T09:14:44Z",
    "found": 29,
    "events": 0,
+   "failed_sources": []
+  },
+  {
+   "at": "2026-08-05T18:58:52Z",
+   "found": 32,
+   "events": 3,
    "failed_sources": []
   }
  ],
