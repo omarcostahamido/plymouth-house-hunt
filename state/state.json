@@ -184,7 +184,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 115000,
-   "card_text": "Reduced £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Reduced > 14 days Email 01752 259982",
+   "card_text": "Featured Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -498,7 +498,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-08-03",
-   "last_seen": "2026-08-07",
+   "last_seen": "2026-08-08",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20066251/": {
@@ -522,7 +522,7 @@
    "url": "https://www.onthemarket.com/details/20071920/",
    "title": "St. James Place West, Plymouth PL1",
    "price": 135000,
-   "card_text": "Recently added £135,000 St. James Place West, Plymouth PL1 Apartment 1 1 Tenure: Share of freehold No Onward Chain Chain-free Lang Town & Country Estate Agents - Plymouth Added < 7 days Email 01752 948541",
+   "card_text": "£135,000 St. James Place West, Plymouth PL1 Apartment 1 1 Tenure: Share of freehold No Onward Chain Chain-free Lang Town & Country Estate Agents - Plymouth Added < 7 days Email 01752 948541",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -536,7 +536,7 @@
    "url": "https://www.onthemarket.com/details/20071962/",
    "title": "Providence Street, Plymouth PL4",
    "price": 150000,
-   "card_text": "Recently added £150,000 Providence Street, Plymouth PL4 Terraced house 2 1 Tenure: Freehold Prime Central Plymouth Location Lang Town & Country Estate Agents - Plymouth Added < 7 days Email 01752 948541",
+   "card_text": "£150,000 Providence Street, Plymouth PL4 Terraced house 2 1 Tenure: Freehold Prime Central Plymouth Location Lang Town & Country Estate Agents - Plymouth Added < 7 days Email 01752 948541",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -552,7 +552,7 @@
    "url": "https://www.onthemarket.com/details/20072003/",
    "title": "Seymour Avenue, Plymouth PL4",
    "price": 155000,
-   "card_text": "Recently added £155,000 Seymour Avenue, Plymouth PL4 Terraced house 3 1 Tenure: Freehold Popular St Judes location Lang Town & Country Estate Agents - Plymouth Added < 7 days Email 01752 948541",
+   "card_text": "£155,000 Seymour Avenue, Plymouth PL4 Terraced house 3 1 Tenure: Freehold Popular St Judes location Lang Town & Country Estate Agents - Plymouth Added < 7 days Email 01752 948541",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1340,6 +1340,14 @@
    "events": 0,
    "failed_sources": [
     "Lang Town & Country (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-08T17:52:59Z",
+   "found": 32,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
    ]
   }
  ],
