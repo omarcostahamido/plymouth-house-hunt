@@ -184,7 +184,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 115000,
-   "card_text": "Featured Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Spotlight Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -515,7 +515,7 @@
    ],
    "first_seen": "2026-08-04",
    "last_seen": "2026-08-09",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20071920/": {
    "id": "https://www.onthemarket.com/details/20071920/",
@@ -1111,6 +1111,19 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-08-05"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20066251/",
+   "title": "25 Sea View terrace, Plytmouth PL4",
+   "url": "https://www.onthemarket.com/details/20066251/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-09"
   }
  ],
  "runs": [
@@ -1354,6 +1367,15 @@
    "at": "2026-08-09T07:27:53Z",
    "found": 31,
    "events": 0,
+   "failed_sources": [
+    "Lang Town & Country (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-09T17:53:24Z",
+   "found": 30,
+   "events": 1,
    "failed_sources": [
     "Lang Town & Country (agent)",
     "Cross Keys Estates (agent)"

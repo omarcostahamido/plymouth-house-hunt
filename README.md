@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-09T07:27:53Z — 32 active matches._
+_Last run: 2026-08-09T17:53:24Z — 31 active matches._
 
 > ⚠ Sources that failed this run: Lang Town & Country (agent), Cross Keys Estates (agent)
 
@@ -124,10 +124,10 @@ _Last run: 2026-08-09T07:27:53Z — 32 active matches._
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £160,000 | [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-08-09` **REMOVED** — [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-05` **NEW £155,000** — [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-05` **NEW £150,000** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-05` **NEW £135,000** — [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/20071920/) (OnTheMarket (portal))
@@ -152,5 +152,4 @@ _Last run: 2026-08-09T07:27:53Z — 32 active matches._
 - `2026-07-23` **NEW £90,000** — [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-07-23` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £80,000** — [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £140,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) (OnTheMarket (portal))
 <!--HUNT:END-->
