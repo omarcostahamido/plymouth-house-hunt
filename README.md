@@ -87,9 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-10T08:10:58Z — 31 active matches._
-
-> ⚠ Sources that failed this run: Cross Keys Estates (agent)
+_Last run: 2026-08-10T18:08:52Z — 33 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -101,6 +99,7 @@ _Last run: 2026-08-10T08:10:58Z — 31 active matches._
 | £80,000 | [Peacock Lane, Plymouth PL4](https://www.onthemarket.com/details/18161542/) | OnTheMarket (portal) | — |
 | £80,000 | [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) | OnTheMarket (portal) | — |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
+| £87,500 | [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) | OnTheMarket (portal) | — |
 | £90,000 | [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) | OnTheMarket (portal) | Auction |
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
 | £110,000 | [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) | OnTheMarket (portal) | — |
@@ -124,9 +123,12 @@ _Last run: 2026-08-10T08:10:58Z — 31 active matches._
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-08-10` **NEW £87,500** — [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) (OnTheMarket (portal))
+- `2026-08-10` **NEW £160,000** — [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-09` **REMOVED** — [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-05` **NEW £155,000** — [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-05` **NEW £150,000** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
@@ -150,6 +152,4 @@ _Last run: 2026-08-10T08:10:58Z — 31 active matches._
 - `2026-07-23` **NEW £130,000** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £150,000** — [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-23` **NEW £90,000** — [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-07-23` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £80,000** — [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) (OnTheMarket (portal))
 <!--HUNT:END-->

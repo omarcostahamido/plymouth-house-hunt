@@ -562,6 +562,36 @@
    "first_seen": "2026-08-05",
    "last_seen": "2026-08-10",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20101752/": {
+   "id": "https://www.onthemarket.com/details/20101752/",
+   "url": "https://www.onthemarket.com/details/20101752/",
+   "title": "The Barbican, Plymouth",
+   "price": 160000,
+   "card_text": "Added today £160,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom Chain-free haart Estate Agents - Plymouth Added today Email 01752 948694",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/19375488/": {
+   "id": "https://www.onthemarket.com/details/19375488/",
+   "url": "https://www.onthemarket.com/details/19375488/",
+   "title": "Ladysmith Road, Plymouth",
+   "price": 87500,
+   "card_text": "£87,500 Ladysmith Road, Plymouth Flat 1 1 Tenure: Share of freehold (88 years remaining) Ground Floor Flat Chain-free DC Lane - Plymouth Added > 14 days Email 01752 948285",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "status": "active"
   }
  },
  "events": [
@@ -1124,6 +1154,30 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-08-09"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20101752/",
+   "title": "The Barbican, Plymouth",
+   "url": "https://www.onthemarket.com/details/20101752/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-10"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/19375488/",
+   "title": "Ladysmith Road, Plymouth",
+   "url": "https://www.onthemarket.com/details/19375488/",
+   "price": 87500,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-10"
   }
  ],
  "runs": [
@@ -1388,6 +1442,12 @@
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
+  },
+  {
+   "at": "2026-08-10T18:08:52Z",
+   "found": 33,
+   "events": 2,
+   "failed_sources": []
   }
  ],
  "max_events": 200
