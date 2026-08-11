@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-11T07:43:25Z — 33 active matches._
+_Last run: 2026-08-11T18:12:09Z — 33 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -113,13 +113,13 @@ _Last run: 2026-08-11T07:43:25Z — 33 active matches._
 | £130,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) | OnTheMarket (portal) | — |
-| £130,000 | [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) | OnTheMarket (portal) | — |
-| £135,000 | [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/20071920/) | OnTheMarket (portal) | — |
 | £140,000 | [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) | OnTheMarket (portal) | — |
 | £140,000 | [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £150,000 | [20 Glen Park Avenue, Plymouth, Devon, PL4 6BB](https://www.onthemarket.com/details/20117005/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
+| £150,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -129,6 +129,10 @@ _Last run: 2026-08-11T07:43:25Z — 33 active matches._
 
 ### Recent events
 
+- `2026-08-11` **REMOVED** — [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/20071920/) (OnTheMarket (portal))
+- `2026-08-11` **REMOVED** — [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) (OnTheMarket (portal))
+- `2026-08-11` **NEW £150,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
+- `2026-08-11` **NEW £150,000** — [20 Glen Park Avenue, Plymouth, Devon, PL4 6BB](https://www.onthemarket.com/details/20117005/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-08-10` **NEW £87,500** — [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) (OnTheMarket (portal))
 - `2026-08-10` **NEW £160,000** — [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-09` **REMOVED** — [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
@@ -150,8 +154,4 @@ _Last run: 2026-08-11T07:43:25Z — 33 active matches._
 - `2026-07-23` **NEW £90,000** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £140,000** — [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) (OnTheMarket (portal))
 - `2026-07-23` **NEW £67,500** — [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) (OnTheMarket (portal))  ⚠ Leasehold? — check tenure; Shared ownership / share price
-- `2026-07-23` **NEW £50,000** — [Longfield Place, Plymouth PL4](https://www.onthemarket.com/details/19477281/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £130,000** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) (OnTheMarket (portal))
-- `2026-07-23` **NEW £150,000** — [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-07-23` **NEW £90,000** — [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) (OnTheMarket (portal))  ⚠ Auction
 <!--HUNT:END-->

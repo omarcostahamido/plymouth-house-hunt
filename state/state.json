@@ -230,7 +230,7 @@
    "url": "https://www.onthemarket.com/details/18410438/",
    "title": "North Road West, Plymouth PL1",
    "price": 78000,
-   "card_text": "Reduced £78,000 North Road West, Plymouth PL1 Ground floor flat 1 1 Charming victorian ground floor flat Bright open plan living space Chain-free Martin & Co - Plymouth Reduced > 14 days Email 01752 948712",
+   "card_text": "£78,000 North Road West, Plymouth PL1 Ground floor flat 1 1 Charming victorian ground floor flat Bright open plan living space Chain-free Martin & Co - Plymouth Added > 14 days Email 01752 948712",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -484,7 +484,7 @@
    "flags": [],
    "first_seen": "2026-07-31",
    "last_seen": "2026-08-11",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/": {
    "id": "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/",
@@ -529,7 +529,7 @@
    "flags": [],
    "first_seen": "2026-08-05",
    "last_seen": "2026-08-11",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20071962/": {
    "id": "https://www.onthemarket.com/details/20071962/",
@@ -590,6 +590,40 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-08-10",
+   "last_seen": "2026-08-11",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20117005/": {
+   "id": "https://www.onthemarket.com/details/20117005/",
+   "url": "https://www.onthemarket.com/details/20117005/",
+   "title": "20 Glen Park Avenue, Plymouth, Devon, PL4 6BB",
+   "price": 150000,
+   "card_text": "Added today Guide price £150,000 20 Glen Park Avenue, Plymouth, Devon, PL4 6BB Terraced house 4 1 Tenure: Freehold Auction 1,367 sq ft floor area Town & Country Property Auctions - Bournemouth Added today Email 01295 977147",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20116771/": {
+   "id": "https://www.onthemarket.com/details/20116771/",
+   "url": "https://www.onthemarket.com/details/20116771/",
+   "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
+   "price": 150000,
+   "card_text": "Added today Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added today Email 01295 977147",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-11",
    "last_seen": "2026-08-11",
    "status": "active"
   }
@@ -1178,6 +1212,56 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-10"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20117005/",
+   "title": "20 Glen Park Avenue, Plymouth, Devon, PL4 6BB",
+   "url": "https://www.onthemarket.com/details/20117005/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-11"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20116771/",
+   "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
+   "url": "https://www.onthemarket.com/details/20116771/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-11"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20049676/",
+   "title": "The Cargo, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20049676/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-11"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20071920/",
+   "title": "St. James Place West, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20071920/",
+   "price": 135000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-11"
   }
  ],
  "runs": [
@@ -1453,6 +1537,14 @@
    "at": "2026-08-11T07:43:25Z",
    "found": 33,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-11T18:12:09Z",
+   "found": 33,
+   "events": 4,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
