@@ -167,8 +167,8 @@
    "id": "https://www.onthemarket.com/details/19864508/",
    "url": "https://www.onthemarket.com/details/19864508/",
    "title": "Embankment Road, Plymouth PL4",
-   "price": 160000,
-   "card_text": "Guide price £160,000 Embankment Road, Plymouth PL4 End of terrace house 2 1 Tenure: Freehold Well Presented End Terrace Property Cross Keys Estates - Plymouth Added > 14 days Email 01752 948416",
+   "price": 150000,
+   "card_text": "Reduced today Guide price £150,000 Embankment Road, Plymouth PL4 End of terrace house 2 1 Tenure: Freehold Well Presented End Terrace Property Cross Keys Estates - Plymouth Reduced today Email 01752 948416",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -624,6 +624,20 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-08-11",
+   "last_seen": "2026-08-12",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20127239/": {
+   "id": "https://www.onthemarket.com/details/20127239/",
+   "url": "https://www.onthemarket.com/details/20127239/",
+   "title": "Hollywood Terrace, Plymouth PL1",
+   "price": 120000,
+   "card_text": "Added today £120,000 Hollywood Terrace, Plymouth PL1 Apartment 1 1 Allocated parking Mezzanine double bedroom Chain-free Martin & Co - Plymouth Added today Email 01752 948712",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-08-12",
    "last_seen": "2026-08-12",
    "status": "active"
   }
@@ -1262,6 +1276,30 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-11"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20127239/",
+   "title": "Hollywood Terrace, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20127239/",
+   "price": 120000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-12"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/19864508/",
+   "title": "Embankment Road, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19864508/",
+   "price": 150000,
+   "old_price": 160000,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-12"
   }
  ],
  "runs": [
@@ -1554,6 +1592,14 @@
    "found": 33,
    "events": 0,
    "failed_sources": []
+  },
+  {
+   "at": "2026-08-12T18:12:09Z",
+   "found": 34,
+   "events": 2,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
   }
  ],
  "max_events": 200
