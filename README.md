@@ -87,9 +87,9 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-13T07:59:06Z — 34 active matches._
+_Last run: 2026-08-13T18:12:31Z — 35 active matches._
 
-> ⚠ Sources that failed this run: Cross Keys Estates (agent)
+> ⚠ Sources that failed this run: Lang Town & Country (agent), Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -100,6 +100,7 @@ _Last run: 2026-08-13T07:59:06Z — 34 active matches._
 | £78,000 | [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) | OnTheMarket (portal) | — |
 | £80,000 | [Peacock Lane, Plymouth PL4](https://www.onthemarket.com/details/18161542/) | OnTheMarket (portal) | — |
 | £80,000 | [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) | OnTheMarket (portal) | — |
+| £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
 | £87,500 | [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) | OnTheMarket (portal) | — |
 | £90,000 | [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) | OnTheMarket (portal) | Auction |
@@ -130,6 +131,7 @@ _Last run: 2026-08-13T07:59:06Z — 34 active matches._
 
 ### Recent events
 
+- `2026-08-13` **NEW £80,000** — [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-08-13` **PRICE £60,000 → £50,000** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
 - `2026-08-12` **PRICE £160,000 → £150,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-12` **NEW £120,000** — [Hollywood Terrace, Plymouth PL1](https://www.onthemarket.com/details/20127239/) (OnTheMarket (portal))
@@ -154,5 +156,4 @@ _Last run: 2026-08-13T07:59:06Z — 34 active matches._
 - `2026-07-28` **PRICE £80,000 → £78,000** — [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) (OnTheMarket (portal))
 - `2026-07-27` **REMOVED** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-25` **PRICE £120,000 → £115,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
-- `2026-07-24` **REMOVED** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/16705428/) (OnTheMarket (portal))
 <!--HUNT:END-->

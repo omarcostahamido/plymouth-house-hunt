@@ -568,7 +568,7 @@
    "url": "https://www.onthemarket.com/details/20101752/",
    "title": "The Barbican, Plymouth",
    "price": 160000,
-   "card_text": "Recently added £160,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom Chain-free haart Estate Agents - Plymouth Added < 7 days Email 01752 948694",
+   "card_text": "Featured Property £160,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom Chain-free haart Estate Agents - Plymouth Added < 7 days Email 01752 948694",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -638,6 +638,22 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-08-12",
+   "last_seen": "2026-08-13",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20133952/": {
+   "id": "https://www.onthemarket.com/details/20133952/",
+   "url": "https://www.onthemarket.com/details/20133952/",
+   "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
+   "price": 80000,
+   "card_text": "Added today Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Auction Miller - Plymouth Added today Email 01752 259485",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction"
+   ],
+   "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
    "status": "active"
   }
@@ -1311,6 +1327,19 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-13"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20133952/",
+   "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20133952/",
+   "price": 80000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-08-13"
   }
  ],
  "runs": [
@@ -1617,6 +1646,15 @@
    "found": 34,
    "events": 1,
    "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-13T18:12:31Z",
+   "found": 34,
+   "events": 1,
+   "failed_sources": [
+    "Lang Town & Country (agent)",
     "Cross Keys Estates (agent)"
    ]
   }
