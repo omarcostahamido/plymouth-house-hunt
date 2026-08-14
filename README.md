@@ -87,9 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-14T07:55:26Z — 35 active matches._
-
-> ⚠ Sources that failed this run: Lang Town & Country (agent)
+_Last run: 2026-08-14T18:11:20Z — 35 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -105,11 +103,12 @@ _Last run: 2026-08-14T07:55:26Z — 35 active matches._
 | £87,500 | [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) | OnTheMarket (portal) | — |
 | £90,000 | [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) | OnTheMarket (portal) | Auction |
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
+| £100,000 | [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) | OnTheMarket (portal) | — |
 | £110,000 | [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) | OnTheMarket (portal) | — |
 | £115,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
-| £115,000 | [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) | OnTheMarket (portal) | — |
 | £120,000 | [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) | OnTheMarket (portal) | — |
 | £120,000 | [Hollywood Terrace, Plymouth PL1](https://www.onthemarket.com/details/20127239/) | OnTheMarket (portal) | — |
+| £120,000 | [Citadel Road, Hoe Court, The Hoe](https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/) | Lang Town & Country (agent) | — |
 | £125,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) | OnTheMarket (portal) | — |
 | £130,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
 | £130,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
@@ -123,7 +122,6 @@ _Last run: 2026-08-14T07:55:26Z — 35 active matches._
 | £150,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [20 Glen Park Avenue, Plymouth, Devon, PL4 6BB](https://www.onthemarket.com/details/20117005/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
 | £150,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
-| £155,000 | [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -131,6 +129,9 @@ _Last run: 2026-08-14T07:55:26Z — 35 active matches._
 
 ### Recent events
 
+- `2026-08-14` **REMOVED** — [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
+- `2026-08-14` **PRICE £115,000 → £100,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
+- `2026-08-14` **NEW £120,000** — [Citadel Road, Hoe Court, The Hoe](https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/) (Lang Town & Country (agent))
 - `2026-08-13` **NEW £80,000** — [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-08-13` **PRICE £60,000 → £50,000** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
 - `2026-08-12` **PRICE £160,000 → £150,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
@@ -153,7 +154,4 @@ _Last run: 2026-08-14T07:55:26Z — 35 active matches._
 - `2026-07-30` **REMOVED** — [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-07-29` **NEW £115,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
 - `2026-07-28` **REMOVED** — [Chedworth Street, Plymouth PL4](https://www.onthemarket.com/details/19463314/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Over budget — stretch (above £140,000)
-- `2026-07-28` **PRICE £80,000 → £78,000** — [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) (OnTheMarket (portal))
-- `2026-07-27` **REMOVED** — [Ford Park Road, Plymouth PL4](https://www.onthemarket.com/details/18579390/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-07-25` **PRICE £120,000 → £115,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
 <!--HUNT:END-->

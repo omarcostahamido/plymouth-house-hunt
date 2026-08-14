@@ -462,8 +462,8 @@
    "id": "https://www.onthemarket.com/details/19013663/",
    "url": "https://www.onthemarket.com/details/19013663/",
    "title": "Ocean Crescent, Plymouth PL1",
-   "price": 115000,
-   "card_text": "£115,000 Ocean Crescent, Plymouth PL1 Apartment 1 1 Fourth floor apartment One double bedroom Chain-free Martin & Co - Plymouth Added > 14 days Email 01752 948712",
+   "price": 100000,
+   "card_text": "Reduced today £100,000 Ocean Crescent, Plymouth PL1 Apartment 1 1 Fourth floor apartment One double bedroom Chain-free Martin & Co - Plymouth Reduced today Email 01752 948712",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -499,7 +499,7 @@
    ],
    "first_seen": "2026-08-03",
    "last_seen": "2026-08-13",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20066251/": {
    "id": "https://www.onthemarket.com/details/20066251/",
@@ -598,7 +598,7 @@
    "url": "https://www.onthemarket.com/details/20117005/",
    "title": "20 Glen Park Avenue, Plymouth, Devon, PL4 6BB",
    "price": 150000,
-   "card_text": "Recently added Guide price £150,000 20 Glen Park Avenue, Plymouth, Devon, PL4 6BB Terraced house 4 1 Tenure: Freehold Auction 1,367 sq ft floor area Town & Country Property Auctions - Bournemouth Added < 7 days Email 01295 977147",
+   "card_text": "Guide price £150,000 20 Glen Park Avenue, Plymouth, Devon, PL4 6BB Terraced house 4 1 Tenure: Freehold Auction 1,367 sq ft floor area Town & Country Property Auctions - Bournemouth Added < 7 days Email 01295 977147",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -615,7 +615,7 @@
    "url": "https://www.onthemarket.com/details/20116771/",
    "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
    "price": 150000,
-   "card_text": "Recently added Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added < 7 days Email 01295 977147",
+   "card_text": "Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added < 7 days Email 01295 977147",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -654,6 +654,20 @@
     "Auction"
    ],
    "first_seen": "2026-08-13",
+   "last_seen": "2026-08-14",
+   "status": "active"
+  },
+  "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/": {
+   "id": "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/",
+   "url": "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/",
+   "title": "Citadel Road, Hoe Court, The Hoe",
+   "price": 120000,
+   "card_text": "Citadel Road, Hoe Court, The Hoe Occupying a truly enviable position within the historic Plymouth Hoe area, this first-floor apartment forms part of the iconic Hoe Court development and offers an exciting opportunity to create a stylish coastal home in one of Plymouth&#8217;s most sought-after locations.",
+   "source": "langtownandcountry",
+   "source_name": "Lang Town & Country (agent)",
+   "is_letting": false,
+   "flags": [],
+   "first_seen": "2026-08-14",
    "last_seen": "2026-08-14",
    "status": "active"
   }
@@ -1340,6 +1354,41 @@
     "Auction"
    ],
    "date": "2026-08-13"
+  },
+  {
+   "type": "new",
+   "id": "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/",
+   "title": "Citadel Road, Hoe Court, The Hoe",
+   "url": "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/",
+   "price": 120000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [],
+   "date": "2026-08-14"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/19013663/",
+   "title": "Ocean Crescent, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/19013663/",
+   "price": 100000,
+   "old_price": 115000,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-14"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/",
+   "title": "Seymour Avenue, St Judes, Plymouth.",
+   "url": "https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/",
+   "price": 155000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-14"
   }
  ],
  "runs": [
@@ -1665,6 +1714,12 @@
    "failed_sources": [
     "Lang Town & Country (agent)"
    ]
+  },
+  {
+   "at": "2026-08-14T18:11:20Z",
+   "found": 35,
+   "events": 3,
+   "failed_sources": []
   }
  ],
  "max_events": 200
