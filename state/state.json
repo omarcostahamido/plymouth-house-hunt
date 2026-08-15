@@ -79,7 +79,7 @@
    "url": "https://www.onthemarket.com/details/19700445/",
    "title": "Constantine Street, Plymouth, Devon, PL4",
    "price": 85000,
-   "card_text": "Featured Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Spotlight Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -632,7 +632,7 @@
    "url": "https://www.onthemarket.com/details/20127239/",
    "title": "Hollywood Terrace, Plymouth PL1",
    "price": 120000,
-   "card_text": "Recently added £120,000 Hollywood Terrace, Plymouth PL1 Apartment 1 1 Allocated parking Mezzanine double bedroom Chain-free Martin & Co - Plymouth Added < 7 days Email 01752 948712",
+   "card_text": "£120,000 Hollywood Terrace, Plymouth PL1 Apartment 1 1 Allocated parking Mezzanine double bedroom Chain-free Martin & Co - Plymouth Added < 7 days Email 01752 948712",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1749,6 +1749,12 @@
    "at": "2026-08-15T07:04:09Z",
    "found": 36,
    "events": 1,
+   "failed_sources": []
+  },
+  {
+   "at": "2026-08-15T17:41:11Z",
+   "found": 36,
+   "events": 0,
    "failed_sources": []
   }
  ],
