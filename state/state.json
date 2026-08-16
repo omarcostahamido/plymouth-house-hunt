@@ -79,7 +79,7 @@
    "url": "https://www.onthemarket.com/details/19700445/",
    "title": "Constantine Street, Plymouth, Devon, PL4",
    "price": 85000,
-   "card_text": "Spotlight Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Featured Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -646,7 +646,7 @@
    "url": "https://www.onthemarket.com/details/20133952/",
    "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
    "price": 80000,
-   "card_text": "Recently added Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Auction Miller - Plymouth Added < 7 days Email 01752 259485",
+   "card_text": "Featured Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Auction Miller - Plymouth Added < 7 days Email 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1759,6 +1759,12 @@
   },
   {
    "at": "2026-08-16T07:05:32Z",
+   "found": 36,
+   "events": 0,
+   "failed_sources": []
+  },
+  {
+   "at": "2026-08-16T17:40:13Z",
    "found": 36,
    "events": 0,
    "failed_sources": []
