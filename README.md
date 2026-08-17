@@ -87,21 +87,19 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-17T07:28:05Z — 36 active matches._
+_Last run: 2026-08-17T17:49:56Z — 32 active matches._
+
+> ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
 | £50,000 | [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) | OnTheMarket (portal) | — |
-| £50,000 | [Longfield Place, Plymouth PL4](https://www.onthemarket.com/details/19477281/) | OnTheMarket (portal) | — |
-| £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) | OnTheMarket (portal) | — |
 | £67,500 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £78,000 | [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) | OnTheMarket (portal) | — |
 | £80,000 | [Peacock Lane, Plymouth PL4](https://www.onthemarket.com/details/18161542/) | OnTheMarket (portal) | — |
 | £80,000 | [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) | OnTheMarket (portal) | — |
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
-| £87,500 | [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) | OnTheMarket (portal) | — |
-| £90,000 | [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) | OnTheMarket (portal) | Auction |
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
 | £100,000 | [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) | OnTheMarket (portal) | — |
 | £110,000 | [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) | OnTheMarket (portal) | — |
@@ -130,6 +128,10 @@ _Last run: 2026-08-17T07:28:05Z — 36 active matches._
 
 ### Recent events
 
+- `2026-08-17` **REMOVED** — [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) (OnTheMarket (portal))
+- `2026-08-17` **REMOVED** — [Longfield Place, Plymouth PL4](https://www.onthemarket.com/details/19477281/) (OnTheMarket (portal))
+- `2026-08-17` **REMOVED** — [1 Holdsworth Street, Plymouth, Devon PL4 6NN](https://www.onthemarket.com/details/19563126/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-08-17` **REMOVED** — [King Street, Plymouth](https://www.onthemarket.com/details/19656811/) (OnTheMarket (portal))
 - `2026-08-15` **NEW £120,000** — [Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat Just Moments From Mutley Plain, Ideal First Buy or Investment](https://www.onthemarket.com/details/20144057/) (OnTheMarket (portal))
 - `2026-08-14` **REMOVED** — [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-14` **PRICE £115,000 → £100,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
@@ -151,8 +153,4 @@ _Last run: 2026-08-17T07:28:05Z — 36 active matches._
 - `2026-08-04` **NEW £160,000** — [25 Sea View terrace, Plytmouth PL4](https://www.onthemarket.com/details/20066251/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-03` **NEW £155,000** — [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-07-31` **NEW £130,000** — [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) (OnTheMarket (portal))
-- `2026-07-31` **REMOVED** — [Embankment Road, Prince Rock, Plymouth. Characterful Grade II Listed First Floor Flat 2 Double Bedrooms No Onward Chain](https://www.onthemarket.com/details/19903154/) (OnTheMarket (portal))
-- `2026-07-30` **REMOVED** — [78 Durham Avenue, Plymouth, Devon PL4 8SR](https://www.onthemarket.com/details/19856242/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-07-30` **REMOVED** — [15 Collingwood Avenue, Plymouth, Devon PL4 9ND](https://www.onthemarket.com/details/19790425/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-07-29` **NEW £115,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
 <!--HUNT:END-->

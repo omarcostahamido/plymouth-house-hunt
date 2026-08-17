@@ -351,7 +351,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-17",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19563126/": {
    "id": "https://www.onthemarket.com/details/19563126/",
@@ -367,7 +367,7 @@
    ],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-17",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19513918/": {
    "id": "https://www.onthemarket.com/details/19513918/",
@@ -411,7 +411,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-17",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19274935/": {
    "id": "https://www.onthemarket.com/details/19274935/",
@@ -591,7 +591,7 @@
    "flags": [],
    "first_seen": "2026-08-10",
    "last_seen": "2026-08-17",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20117005/": {
    "id": "https://www.onthemarket.com/details/20117005/",
@@ -1413,15 +1413,55 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-15"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19656811/",
+   "title": "King Street, Plymouth",
+   "url": "https://www.onthemarket.com/details/19656811/",
+   "price": 60000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-17"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19563126/",
+   "title": "1 Holdsworth Street, Plymouth, Devon PL4 6NN",
+   "url": "https://www.onthemarket.com/details/19563126/",
+   "price": 90000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-08-17"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19477281/",
+   "title": "Longfield Place, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19477281/",
+   "price": 50000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-17"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19375488/",
+   "title": "Ladysmith Road, Plymouth",
+   "url": "https://www.onthemarket.com/details/19375488/",
+   "price": 87500,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-17"
   }
  ],
  "runs": [
-  {
-   "at": "2026-07-23T11:40:16Z",
-   "found": 31,
-   "events": 31,
-   "failed_sources": []
-  },
   {
    "at": "2026-07-23T18:41:55Z",
    "found": 31,
@@ -1774,6 +1814,14 @@
    "found": 36,
    "events": 0,
    "failed_sources": []
+  },
+  {
+   "at": "2026-08-17T17:49:56Z",
+   "found": 32,
+   "events": 4,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
   }
  ],
  "max_events": 200
