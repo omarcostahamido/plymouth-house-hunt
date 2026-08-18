@@ -42,7 +42,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19790425/": {
    "id": "https://www.onthemarket.com/details/19790425/",
@@ -114,7 +114,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19165028/": {
    "id": "https://www.onthemarket.com/details/19165028/",
@@ -128,7 +128,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19499956/": {
    "id": "https://www.onthemarket.com/details/19499956/",
@@ -144,7 +144,7 @@
    ],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19463314/": {
    "id": "https://www.onthemarket.com/details/19463314/",
@@ -184,7 +184,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 115000,
-   "card_text": "Featured Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Spotlight Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -237,7 +237,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19776211/": {
    "id": "https://www.onthemarket.com/details/19776211/",
@@ -265,7 +265,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/18579390/": {
    "id": "https://www.onthemarket.com/details/18579390/",
@@ -323,7 +323,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19216198/": {
    "id": "https://www.onthemarket.com/details/19216198/",
@@ -337,7 +337,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19656811/": {
    "id": "https://www.onthemarket.com/details/19656811/",
@@ -397,7 +397,7 @@
    "flags": [],
    "first_seen": "2026-07-23",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19477281/": {
    "id": "https://www.onthemarket.com/details/19477281/",
@@ -470,7 +470,7 @@
    "flags": [],
    "first_seen": "2026-07-29",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20049676/": {
    "id": "https://www.onthemarket.com/details/20049676/",
@@ -639,7 +639,7 @@
    "flags": [],
    "first_seen": "2026-08-12",
    "last_seen": "2026-08-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20133952/": {
    "id": "https://www.onthemarket.com/details/20133952/",
@@ -1459,15 +1459,132 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-17"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/18161542/",
+   "title": "Peacock Lane, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/18161542/",
+   "price": 80000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19431408/",
+   "title": "St James Court, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/19431408/",
+   "price": 140000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19165028/",
+   "title": "Gascoyne Place, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19165028/",
+   "price": 125000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19499956/",
+   "title": "Gascoyne Place, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19499956/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/18410438/",
+   "title": "North Road West, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/18410438/",
+   "price": 78000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19775476/",
+   "title": "Alexandra Road, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19775476/",
+   "price": 110000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19094566/",
+   "title": "Woodland Terrace, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19094566/",
+   "price": 140000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19216198/",
+   "title": "Stuart Road, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/19216198/",
+   "price": 80000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19489978/",
+   "title": "Prince Maurice Road, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/19489978/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19013663/",
+   "title": "Ocean Crescent, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/19013663/",
+   "price": 100000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20127239/",
+   "title": "Hollywood Terrace, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20127239/",
+   "price": 120000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-18"
   }
  ],
  "runs": [
-  {
-   "at": "2026-07-24T09:01:31Z",
-   "found": 31,
-   "events": 0,
-   "failed_sources": []
-  },
   {
    "at": "2026-07-24T18:52:16Z",
    "found": 30,
@@ -1821,6 +1938,12 @@
    "at": "2026-08-18T07:11:33Z",
    "found": 32,
    "events": 0,
+   "failed_sources": []
+  },
+  {
+   "at": "2026-08-18T17:49:21Z",
+   "found": 21,
+   "events": 11,
    "failed_sources": []
   }
  ],
