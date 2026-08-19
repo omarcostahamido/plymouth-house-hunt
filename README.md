@@ -87,7 +87,9 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-19T07:11:48Z — 21 active matches._
+_Last run: 2026-08-19T17:46:04Z — 22 active matches._
+
+> ⚠ Sources that failed this run: Lang Town & Country (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -95,6 +97,7 @@ _Last run: 2026-08-19T07:11:48Z — 21 active matches._
 | £67,500 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
+| £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
 | £115,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £120,000 | [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) | OnTheMarket (portal) | — |
@@ -115,6 +118,7 @@ _Last run: 2026-08-19T07:11:48Z — 21 active matches._
 
 ### Recent events
 
+- `2026-08-19` **NEW £90,000** — [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Might be a letting, not a sale (agent feeds mix both)
 - `2026-08-18` **REMOVED** — [Hollywood Terrace, Plymouth PL1](https://www.onthemarket.com/details/20127239/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) (OnTheMarket (portal))
@@ -139,5 +143,4 @@ _Last run: 2026-08-19T07:11:48Z — 21 active matches._
 - `2026-08-12` **PRICE £160,000 → £150,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-12` **NEW £120,000** — [Hollywood Terrace, Plymouth PL1](https://www.onthemarket.com/details/20127239/) (OnTheMarket (portal))
 - `2026-08-11` **REMOVED** — [St. James Place West, Plymouth PL1](https://www.onthemarket.com/details/20071920/) (OnTheMarket (portal))
-- `2026-08-11` **REMOVED** — [The Cargo, Plymouth PL1](https://www.onthemarket.com/details/20049676/) (OnTheMarket (portal))
 <!--HUNT:END-->

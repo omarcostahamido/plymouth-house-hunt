@@ -683,6 +683,23 @@
    "first_seen": "2026-08-15",
    "last_seen": "2026-08-19",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20169397/": {
+   "id": "https://www.onthemarket.com/details/20169397/",
+   "url": "https://www.onthemarket.com/details/20169397/",
+   "title": "Ebrington Street, Plymouth, Devon, PL4",
+   "price": 90000,
+   "card_text": "Added today Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Chain-free Miller - Plymouth Added today Email 01752 259485",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "May have sitting tenants",
+    "Might be a letting, not a sale (agent feeds mix both)"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "status": "active"
   }
  },
  "events": [
@@ -1582,15 +1599,23 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-18"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20169397/",
+   "title": "Ebrington Street, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20169397/",
+   "price": 90000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "May have sitting tenants",
+    "Might be a letting, not a sale (agent feeds mix both)"
+   ],
+   "date": "2026-08-19"
   }
  ],
  "runs": [
-  {
-   "at": "2026-07-25T08:28:06Z",
-   "found": 30,
-   "events": 0,
-   "failed_sources": []
-  },
   {
    "at": "2026-07-25T18:13:27Z",
    "found": 30,
@@ -1943,6 +1968,14 @@
    "found": 21,
    "events": 0,
    "failed_sources": []
+  },
+  {
+   "at": "2026-08-19T17:46:04Z",
+   "found": 21,
+   "events": 1,
+   "failed_sources": [
+    "Lang Town & Country (agent)"
+   ]
   }
  ],
  "max_events": 200
