@@ -535,8 +535,8 @@
    "id": "https://www.onthemarket.com/details/20071962/",
    "url": "https://www.onthemarket.com/details/20071962/",
    "title": "Providence Street, Plymouth PL4",
-   "price": 150000,
-   "card_text": "£150,000 Providence Street, Plymouth PL4 Terraced house 2 1 Tenure: Freehold Prime Central Plymouth Location Lang Town & Country Estate Agents - Plymouth Added > 14 days Email 01752 948541",
+   "price": 145000,
+   "card_text": "Reduced today £145,000 Providence Street, Plymouth PL4 Terraced house 2 1 Tenure: Freehold Prime Central Plymouth Location Lang Town & Country Estate Agents - Plymouth Reduced today Email 01752 948541",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -668,7 +668,7 @@
    "flags": [],
    "first_seen": "2026-08-14",
    "last_seen": "2026-08-21",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20144057/": {
    "id": "https://www.onthemarket.com/details/20144057/",
@@ -1613,15 +1613,33 @@
     "Might be a letting, not a sale (agent feeds mix both)"
    ],
    "date": "2026-08-19"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/20071962/",
+   "title": "Providence Street, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/20071962/",
+   "price": 145000,
+   "old_price": 150000,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-21"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/",
+   "title": "Citadel Road, Hoe Court, The Hoe",
+   "url": "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/",
+   "price": 120000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [],
+   "date": "2026-08-21"
   }
  ],
  "runs": [
-  {
-   "at": "2026-07-27T10:14:00Z",
-   "found": 30,
-   "events": 0,
-   "failed_sources": []
-  },
   {
    "at": "2026-07-27T18:52:14Z",
    "found": 29,
@@ -1978,6 +1996,12 @@
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
+  },
+  {
+   "at": "2026-08-21T17:51:27Z",
+   "found": 21,
+   "events": 2,
+   "failed_sources": []
   }
  ],
  "max_events": 200
