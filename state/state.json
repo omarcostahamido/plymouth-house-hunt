@@ -689,7 +689,7 @@
    "url": "https://www.onthemarket.com/details/20169397/",
    "title": "Ebrington Street, Plymouth, Devon, PL4",
    "price": 90000,
-   "card_text": "Recently added Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Chain-free Miller - Plymouth Added < 7 days Email 01752 259485",
+   "card_text": "Featured Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Chain-free Miller - Plymouth Added < 7 days Email 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -698,6 +698,22 @@
     "Might be a letting, not a sale (agent feeds mix both)"
    ],
    "first_seen": "2026-08-19",
+   "last_seen": "2026-08-22",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20190673/": {
+   "id": "https://www.onthemarket.com/details/20190673/",
+   "url": "https://www.onthemarket.com/details/20190673/",
+   "title": "Hill Park Mews, Plymouth, Devon, PL4",
+   "price": 150000,
+   "card_text": "Added today Offers over £150,000 Hill Park Mews, Plymouth, Devon, PL4 End of terrace house 2 1 Tenure: Freehold Chain-free Nearest station 0.5mi. Nearest school 0.2mi. Miller - Plymouth Added today Email 01752 259485",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-22",
    "last_seen": "2026-08-22",
    "status": "active"
   }
@@ -1648,17 +1664,22 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-22"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20190673/",
+   "title": "Hill Park Mews, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20190673/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-22"
   }
  ],
  "runs": [
-  {
-   "at": "2026-07-28T09:12:40Z",
-   "found": 29,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-07-28T18:52:47Z",
    "found": 28,
@@ -2009,6 +2030,12 @@
   {
    "at": "2026-08-22T07:06:05Z",
    "found": 20,
+   "events": 1,
+   "failed_sources": []
+  },
+  {
+   "at": "2026-08-22T17:41:48Z",
+   "found": 21,
    "events": 1,
    "failed_sources": []
   }
