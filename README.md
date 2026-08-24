@@ -87,9 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-24T07:33:28Z — 21 active matches._
-
-> ⚠ Sources that failed this run: Cross Keys Estates (agent)
+_Last run: 2026-08-24T17:52:47Z — 22 active matches._
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -101,6 +99,7 @@ _Last run: 2026-08-24T07:33:28Z — 21 active matches._
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
 | £115,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £120,000 | [Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat Just Moments From Mutley Plain, Ideal First Buy or Investment](https://www.onthemarket.com/details/20144057/) | OnTheMarket (portal) | — |
+| £125,000 | [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) | OnTheMarket (portal) | — |
 | £130,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
 | £130,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
@@ -117,6 +116,7 @@ _Last run: 2026-08-24T07:33:28Z — 21 active matches._
 
 ### Recent events
 
+- `2026-08-24` **NEW £125,000** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) (OnTheMarket (portal))
 - `2026-08-22` **NEW £150,000** — [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-22` **REMOVED** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
 - `2026-08-21` **REMOVED** — [Citadel Road, Hoe Court, The Hoe](https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/) (Lang Town & Country (agent))
@@ -141,5 +141,4 @@ _Last run: 2026-08-24T07:33:28Z — 21 active matches._
 - `2026-08-14` **REMOVED** — [Seymour Avenue, St Judes, Plymouth.](https://www.langtownandcountry.com/property/seymour-avenue-st-judes-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-14` **PRICE £115,000 → £100,000** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
 - `2026-08-14` **NEW £120,000** — [Citadel Road, Hoe Court, The Hoe](https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/) (Lang Town & Country (agent))
-- `2026-08-13` **NEW £80,000** — [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) (OnTheMarket (portal))  ⚠ Auction
 <!--HUNT:END-->

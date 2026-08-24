@@ -716,6 +716,20 @@
    "first_seen": "2026-08-22",
    "last_seen": "2026-08-24",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20199175/": {
+   "id": "https://www.onthemarket.com/details/20199175/",
+   "url": "https://www.onthemarket.com/details/20199175/",
+   "title": "Chedworth Street, Plymouth, Devon, PL4",
+   "price": 125000,
+   "card_text": "Added today £125,000 Chedworth Street, Plymouth, Devon, PL4 Terraced house 2 1 Tenure: Freehold Chain-free Nearest station 0.5mi. Nearest school 0.1mi. Miller - Plymouth Added today Email 01752 259485",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "status": "active"
   }
  },
  "events": [
@@ -1677,15 +1691,20 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-08-22"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20199175/",
+   "title": "Chedworth Street, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20199175/",
+   "price": 125000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-08-24"
   }
  ],
  "runs": [
-  {
-   "at": "2026-07-30T09:09:20Z",
-   "found": 27,
-   "events": 2,
-   "failed_sources": []
-  },
   {
    "at": "2026-07-30T18:52:27Z",
    "found": 27,
@@ -2038,6 +2057,12 @@
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
+  },
+  {
+   "at": "2026-08-24T17:52:47Z",
+   "found": 22,
+   "events": 1,
+   "failed_sources": []
   }
  ],
  "max_events": 200
