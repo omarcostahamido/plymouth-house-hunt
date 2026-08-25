@@ -614,8 +614,8 @@
    "id": "https://www.onthemarket.com/details/20116771/",
    "url": "https://www.onthemarket.com/details/20116771/",
    "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
-   "price": 150000,
-   "card_text": "Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added > 14 days Email 01295 977147",
+   "price": 160000,
+   "card_text": "Guide price £160,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added > 14 days Email 01295 977147",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -706,7 +706,7 @@
    "url": "https://www.onthemarket.com/details/20190673/",
    "title": "Hill Park Mews, Plymouth, Devon, PL4",
    "price": 150000,
-   "card_text": "Recently added Offers over £150,000 Hill Park Mews, Plymouth, Devon, PL4 End of terrace house 2 1 Tenure: Freehold Chain-free Nearest station 0.5mi. Nearest school 0.2mi. Miller - Plymouth Added < 7 days Email 01752 259485",
+   "card_text": "Featured Property Offers over £150,000 Hill Park Mews, Plymouth, Devon, PL4 End of terrace house 2 1 Tenure: Freehold Chain-free Nearest station 0.5mi. Nearest school 0.2mi. Miller - Plymouth Added < 7 days Email 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1702,15 +1702,23 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-08-24"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/20116771/",
+   "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
+   "url": "https://www.onthemarket.com/details/20116771/",
+   "price": 160000,
+   "old_price": 150000,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-25"
   }
  ],
  "runs": [
-  {
-   "at": "2026-07-31T09:21:48Z",
-   "found": 26,
-   "events": 1,
-   "failed_sources": []
-  },
   {
    "at": "2026-07-31T18:49:22Z",
    "found": 27,
@@ -2063,6 +2071,12 @@
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
+  },
+  {
+   "at": "2026-08-25T17:50:36Z",
+   "found": 22,
+   "events": 1,
+   "failed_sources": []
   }
  ],
  "max_events": 200
