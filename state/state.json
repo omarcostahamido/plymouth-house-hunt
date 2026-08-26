@@ -168,7 +168,7 @@
    "url": "https://www.onthemarket.com/details/19864508/",
    "title": "Embankment Road, Plymouth PL4",
    "price": 150000,
-   "card_text": "Reduced Guide price £150,000 Embankment Road, Plymouth PL4 End of terrace house 2 1 Tenure: Freehold Well Presented End Terrace Property Cross Keys Estates - Plymouth Reduced > 14 days Email 01752 948416",
+   "card_text": "Guide price £150,000 Embankment Road, Plymouth PL4 End of terrace house 2 1 Tenure: Freehold Well Presented End Terrace Property Cross Keys Estates - Plymouth Added > 14 days Email 01752 948416",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -184,7 +184,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 115000,
-   "card_text": "Featured Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Spotlight Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -302,7 +302,7 @@
    "url": "https://www.onthemarket.com/details/18384021/",
    "title": "North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!",
    "price": 50000,
-   "card_text": "Reduced Guide price £50,000 North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem! Studio 1 A Stylish Studio in the Heart of Plymouth, a little gem! Large living room / kitchen / bedroom Falcon Property - Plymouth Reduced > 14 days Email 01752 948765",
+   "card_text": "Guide price £50,000 North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem! Studio 1 A Stylish Studio in the Heart of Plymouth, a little gem! Large living room / kitchen / bedroom Falcon Property - Plymouth Added > 14 days Email 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -673,9 +673,9 @@
   "https://www.onthemarket.com/details/20144057/": {
    "id": "https://www.onthemarket.com/details/20144057/",
    "url": "https://www.onthemarket.com/details/20144057/",
-   "title": "Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat Just Moments From Mutley Plain, Ideal First Buy or Investment",
+   "title": "Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat moments From Mutley Plain, Ideal First Buy or Investment",
    "price": 120000,
-   "card_text": "Guide price £120,000 Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat Just Moments From Mutley Plain, Ideal First Buy or Investment Flat 2 1 Stylish Ground Floor Flat Just Moments From Mutley Plain, Ideal First Buy or Investment Large living room / kitchen Falcon Property - Plymouth Added < 14 days Email 01752 948765",
+   "card_text": "Guide price £120,000 Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat moments From Mutley Plain, Ideal First Buy or Investment Flat 2 1 Stylish Ground Floor Flat Just Moments From Mutley Plain, Ideal First Buy or Investment Large living room / kitchen Falcon Property - Plymouth Added < 14 days Email 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -728,6 +728,22 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-08-24",
+   "last_seen": "2026-08-26",
+   "status": "active"
+  },
+  "https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/": {
+   "id": "https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/",
+   "url": "https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/",
+   "title": "Elliot Terrace, The Hoe, Plymouth",
+   "price": 150000,
+   "card_text": "Elliot Terrace, The Hoe, Plymouth No. 8 Elliot Terrace is a distinguished Victorian conversion occupying a prime position on Plymouth Hoe, offering refined coastal living. Set within one of Plymouth&#8217;s most prestigious addresses, the property enjoys an exceptional coastal setting just moments from the waterfront. Here, far-reaching views across the sea and the ever-changing rhythm of the coastline form an integral part of everyday life. Martello (Apartment 5) is a well-proportioned one-bedr",
+   "source": "langtownandcountry",
+   "source_name": "Lang Town & Country (agent)",
+   "is_letting": false,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-08-26",
    "last_seen": "2026-08-26",
    "status": "active"
   }
@@ -1716,17 +1732,22 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-08-25"
+  },
+  {
+   "type": "new",
+   "id": "https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/",
+   "title": "Elliot Terrace, The Hoe, Plymouth",
+   "url": "https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/",
+   "price": 150000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-08-26"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-01T08:37:50Z",
-   "found": 27,
-   "events": 0,
-   "failed_sources": [
-    "Lang Town & Country (agent)"
-   ]
-  },
   {
    "at": "2026-08-01T18:16:24Z",
    "found": 27,
@@ -2076,6 +2097,14 @@
    "events": 0,
    "failed_sources": [
     "Lang Town & Country (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-26T19:23:02Z",
+   "found": 23,
+   "events": 1,
+   "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
   }
