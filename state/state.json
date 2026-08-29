@@ -768,7 +768,6 @@
    "card_text": "Elliot Terrace, The Hoe, Plymouth No. 8 Elliot Terrace is a distinguished Victorian conversion occupying a prime position on Plymouth Hoe, offering refined coastal living. Set within one of Plymouth&#8217;s most prestigious addresses, the property enjoys an exceptional coastal setting just moments from the waterfront. Here, far-reaching views across the sea and the ever-changing rhythm of the coastline form an integral part of everyday life. Martello (Apartment 5) is a well-proportioned one-bedr",
    "source": "langtownandcountry",
    "source_name": "Lang Town & Country (agent)",
-   "is_letting": false,
    "flags": [
     "Over budget — stretch (above £140,000)"
    ],
@@ -1829,14 +1828,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-03T10:10:26Z",
-   "found": 27,
-   "events": 0,
-   "failed_sources": [
-    "Lang Town & Country (agent)"
-   ]
-  },
-  {
    "at": "2026-08-03T19:00:59Z",
    "found": 28,
    "events": 1,
@@ -2186,6 +2177,14 @@
    "at": "2026-08-29T12:45:38Z",
    "found": 23,
    "events": 2,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-29T19:49:15Z",
+   "found": 23,
+   "events": 0,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
