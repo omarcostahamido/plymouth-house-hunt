@@ -1828,12 +1828,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-05T09:14:44Z",
-   "found": 29,
-   "events": 0,
-   "failed_sources": []
-  },
-  {
    "at": "2026-08-05T18:58:52Z",
    "found": 32,
    "events": 3,
@@ -2186,6 +2180,15 @@
    "found": 23,
    "events": 0,
    "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-08-31T21:56:35Z",
+   "found": 22,
+   "events": 0,
+   "failed_sources": [
+    "Lang Town & Country (agent)",
     "Cross Keys Estates (agent)"
    ]
   }
