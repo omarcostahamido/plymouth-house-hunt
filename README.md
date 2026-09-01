@@ -87,13 +87,14 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-08-31T21:56:35Z — 23 active matches._
+_Last run: 2026-09-01T11:49:16Z — 23 active matches._
 
-> ⚠ Sources that failed this run: Lang Town & Country (agent), Cross Keys Estates (agent)
+> ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
 | £50,000 | [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) | OnTheMarket (portal) | — |
+| £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) | OnTheMarket (portal) | — |
 | £67,500 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
@@ -111,7 +112,6 @@ _Last run: 2026-08-31T21:56:35Z — 23 active matches._
 | £150,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £150,000 | [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-5/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -119,6 +119,8 @@ _Last run: 2026-08-31T21:56:35Z — 23 active matches._
 
 ### Recent events
 
+- `2026-09-01` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-5/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
+- `2026-09-01` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) (OnTheMarket (portal))
 - `2026-08-29` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-29` **NEW £150,000** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-5/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-28` **REMOVED** — [20 Glen Park Avenue, Plymouth, Devon, PL4 6BB](https://www.onthemarket.com/details/20117005/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
@@ -142,6 +144,4 @@ _Last run: 2026-08-31T21:56:35Z — 23 active matches._
 - `2026-08-18` **REMOVED** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [Peacock Lane, Plymouth PL4](https://www.onthemarket.com/details/18161542/) (OnTheMarket (portal))
-- `2026-08-17` **REMOVED** — [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/19375488/) (OnTheMarket (portal))
-- `2026-08-17` **REMOVED** — [Longfield Place, Plymouth PL4](https://www.onthemarket.com/details/19477281/) (OnTheMarket (portal))
 <!--HUNT:END-->
