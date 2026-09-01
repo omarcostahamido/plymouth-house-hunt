@@ -1866,12 +1866,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-06T09:17:15Z",
-   "found": 32,
-   "events": 0,
-   "failed_sources": []
-  },
-  {
    "at": "2026-08-07T07:49:38Z",
    "found": 32,
    "events": 0,
@@ -2228,6 +2222,14 @@
    "at": "2026-09-01T11:49:16Z",
    "found": 23,
    "events": 2,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-01T19:59:15Z",
+   "found": 23,
+   "events": 0,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
