@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-01T19:59:15Z — 23 active matches._
+_Last run: 2026-09-02T11:29:58Z — 22 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -102,7 +102,6 @@ _Last run: 2026-09-01T19:59:15Z — 23 active matches._
 | £100,000 | [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) | SO Living / Plymouth Community Homes (shared-ownership resales) | Shared ownership / share price |
 | £115,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £120,000 | [Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat moments From Mutley Plain, Ideal First Buy or Investment](https://www.onthemarket.com/details/20144057/) | OnTheMarket (portal) | — |
-| £125,000 | [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) | OnTheMarket (portal) | — |
 | £130,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
 | £130,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
@@ -119,6 +118,7 @@ _Last run: 2026-09-01T19:59:15Z — 23 active matches._
 
 ### Recent events
 
+- `2026-09-02` **REMOVED** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) (OnTheMarket (portal))
 - `2026-09-01` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-5/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-01` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) (OnTheMarket (portal))
 - `2026-08-29` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
@@ -143,5 +143,4 @@ _Last run: 2026-09-01T19:59:15Z — 23 active matches._
 - `2026-08-18` **REMOVED** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-18` **REMOVED** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19165028/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [St James Court, Plymouth PL1](https://www.onthemarket.com/details/19431408/) (OnTheMarket (portal))
-- `2026-08-18` **REMOVED** — [Peacock Lane, Plymouth PL4](https://www.onthemarket.com/details/18161542/) (OnTheMarket (portal))
 <!--HUNT:END-->
