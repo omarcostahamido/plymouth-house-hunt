@@ -64,8 +64,8 @@
    "id": "https://www.onthemarket.com/details/19932652/",
    "url": "https://www.onthemarket.com/details/19932652/",
    "title": "FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.",
-   "price": 130000,
-   "card_text": "Guide price £130,000 FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Flat 2 1 Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Large living room / kitchen. Study Falcon Property - Plymouth Added > 14 days Email 01752 948765",
+   "price": 125000,
+   "card_text": "Reduced today Guide price £125,000 FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Flat 2 1 Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Large living room / kitchen. Study Falcon Property - Plymouth Reduced today Email 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -184,7 +184,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 115000,
-   "card_text": "Featured Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Spotlight Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -786,6 +786,20 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20253716/": {
+   "id": "https://www.onthemarket.com/details/20253716/",
+   "url": "https://www.onthemarket.com/details/20253716/",
+   "title": "Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.",
+   "price": 140000,
+   "card_text": "Added today Guide price £140,000 Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home. Apartment 2 1 Centrally located, ideal for first-time buyers seeking a stylish home.. Lounge Falcon Property - Plymouth Added today Email 01752 948765",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "status": "active"
   }
@@ -1873,17 +1887,31 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-02"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/19932652/",
+   "title": "FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.",
+   "url": "https://www.onthemarket.com/details/19932652/",
+   "price": 125000,
+   "old_price": 130000,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-02"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20253716/",
+   "title": "Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.",
+   "url": "https://www.onthemarket.com/details/20253716/",
+   "price": 140000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-02"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-07T18:08:03Z",
-   "found": 32,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-08-08T07:25:44Z",
    "found": 31,
@@ -2244,6 +2272,15 @@
    "found": 22,
    "events": 1,
    "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-02T19:53:17Z",
+   "found": 23,
+   "events": 2,
+   "failed_sources": [
+    "Lang Town & Country (agent)",
     "Cross Keys Estates (agent)"
    ]
   }
