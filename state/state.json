@@ -536,7 +536,7 @@
    "url": "https://www.onthemarket.com/details/20071962/",
    "title": "Providence Street, Plymouth PL4",
    "price": 145000,
-   "card_text": "Reduced £145,000 Providence Street, Plymouth PL4 Terraced house 2 1 Tenure: Freehold Prime Central Plymouth Location Lang Town & Country Estate Agents - Plymouth Reduced > 14 days Email 01752 948541",
+   "card_text": "£145,000 Providence Street, Plymouth PL4 Terraced house 2 1 Tenure: Freehold Prime Central Plymouth Location Lang Town & Country Estate Agents - Plymouth Added > 14 days Email 01752 948541",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -780,7 +780,7 @@
    "url": "https://www.onthemarket.com/details/20240983/",
    "title": "King Street, Plymouth",
    "price": 60000,
-   "card_text": "Recently added £60,000 King Street, Plymouth Apartment 1 1 Tenure: Share of freehold (959 years remaining) First-Floor Studio Apartment Chain-free DC Lane - Plymouth Added < 7 days Email 01752 948285",
+   "card_text": "£60,000 King Street, Plymouth Apartment 1 1 Tenure: Share of freehold (959 years remaining) First-Floor Studio Apartment Chain-free DC Lane - Plymouth Added < 7 days Email 01752 948285",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1913,15 +1913,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-09T17:53:24Z",
-   "found": 30,
-   "events": 1,
-   "failed_sources": [
-    "Lang Town & Country (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-08-10T08:10:58Z",
    "found": 31,
    "events": 0,
@@ -2277,6 +2268,14 @@
   },
   {
    "at": "2026-09-04T11:29:47Z",
+   "found": 23,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-04T19:42:36Z",
    "found": 23,
    "events": 0,
    "failed_sources": [
