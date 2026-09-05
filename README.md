@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-04T19:42:36Z — 23 active matches._
+_Last run: 2026-09-05T10:45:56Z — 23 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -95,7 +95,7 @@ _Last run: 2026-09-04T19:42:36Z — 23 active matches._
 |---|---|---|---|
 | £50,000 | [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) | OnTheMarket (portal) | — |
 | £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) | OnTheMarket (portal) | — |
-| £67,500 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
+| £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
@@ -119,6 +119,7 @@ _Last run: 2026-09-04T19:42:36Z — 23 active matches._
 
 ### Recent events
 
+- `2026-09-05` **PRICE £67,500 → £65,000** — [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) (OnTheMarket (portal))  ⚠ Leasehold? — check tenure; Shared ownership / share price
 - `2026-09-02` **NEW £140,000** — [Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.](https://www.onthemarket.com/details/20253716/) (OnTheMarket (portal))
 - `2026-09-02` **PRICE £130,000 → £125,000** — [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) (OnTheMarket (portal))
 - `2026-09-02` **REMOVED** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) (OnTheMarket (portal))
@@ -143,5 +144,4 @@ _Last run: 2026-09-04T19:42:36Z — 23 active matches._
 - `2026-08-18` **REMOVED** — [Woodland Terrace, Plymouth PL4](https://www.onthemarket.com/details/19094566/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [Alexandra Road, Plymouth PL4](https://www.onthemarket.com/details/19775476/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [North Road West, Plymouth PL1](https://www.onthemarket.com/details/18410438/) (OnTheMarket (portal))
-- `2026-08-18` **REMOVED** — [Gascoyne Place, Plymouth PL4](https://www.onthemarket.com/details/19499956/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->
