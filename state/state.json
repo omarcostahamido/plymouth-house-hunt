@@ -794,7 +794,7 @@
    "url": "https://www.onthemarket.com/details/20253716/",
    "title": "Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.",
    "price": 140000,
-   "card_text": "Recently added Guide price £140,000 Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home. Apartment 2 1 Centrally located, ideal for first-time buyers seeking a stylish home.. Lounge Falcon Property - Plymouth Added < 7 days Email 01752 948765",
+   "card_text": "Guide price £140,000 Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home. Apartment 2 1 Centrally located, ideal for first-time buyers seeking a stylish home.. Lounge Falcon Property - Plymouth Added < 7 days Email 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1927,12 +1927,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-10T18:08:52Z",
-   "found": 33,
-   "events": 2,
-   "failed_sources": []
-  },
-  {
    "at": "2026-08-11T07:43:25Z",
    "found": 33,
    "events": 0,
@@ -2292,6 +2286,14 @@
    "at": "2026-09-05T10:45:56Z",
    "found": 23,
    "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-05T19:08:27Z",
+   "found": 23,
+   "events": 0,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
