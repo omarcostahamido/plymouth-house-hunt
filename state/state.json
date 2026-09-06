@@ -568,7 +568,7 @@
    "url": "https://www.onthemarket.com/details/20101752/",
    "title": "The Barbican, Plymouth",
    "price": 160000,
-   "card_text": "Spotlight Property £160,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom haart Estate Agents - Plymouth Added > 14 days Email 01752 948694",
+   "card_text": "Featured Property £160,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom Chain-free haart Estate Agents - Plymouth Added > 14 days Email 01752 948694",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1927,14 +1927,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-11T18:12:09Z",
-   "found": 33,
-   "events": 4,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-08-12T07:57:34Z",
    "found": 33,
    "events": 0,
@@ -2292,6 +2284,14 @@
   },
   {
    "at": "2026-09-06T11:07:23Z",
+   "found": 23,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-06T19:19:07Z",
    "found": 23,
    "events": 0,
    "failed_sources": [
