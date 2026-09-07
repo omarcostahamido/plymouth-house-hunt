@@ -20,8 +20,8 @@
    "id": "https://www.onthemarket.com/details/19961185/",
    "url": "https://www.onthemarket.com/details/19961185/",
    "title": "Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking",
-   "price": 130000,
-   "card_text": "Guide price £130,000 Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Flat 2 1 Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Large living room Falcon Property - Plymouth Added > 14 days Email 01752 948765",
+   "price": 120000,
+   "card_text": "Reduced today Guide price £120,000 Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Flat 2 1 Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Large living room Falcon Property - Plymouth Reduced today Email 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1947,17 +1947,20 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-07"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/19961185/",
+   "title": "Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking",
+   "url": "https://www.onthemarket.com/details/19961185/",
+   "price": 120000,
+   "old_price": 130000,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-07"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-12T18:12:09Z",
-   "found": 34,
-   "events": 2,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-08-13T07:59:06Z",
    "found": 34,
@@ -2320,6 +2323,14 @@
    "at": "2026-09-07T12:47:42Z",
    "found": 21,
    "events": 2,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-07T20:40:20Z",
+   "found": 21,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
