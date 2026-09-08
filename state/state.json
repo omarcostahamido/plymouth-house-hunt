@@ -802,6 +802,20 @@
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-08",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20294914/": {
+   "id": "https://www.onthemarket.com/details/20294914/",
+   "url": "https://www.onthemarket.com/details/20294914/",
+   "title": "Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential",
+   "price": 75000,
+   "card_text": "Added today £75,000 Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential Ground floor flat 1 1 Prime Hoe Location. Ground Floor Apartment With Fantastic Potential Large living room Falcon Property - Plymouth Added today Email 01752 948765",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "status": "active"
   }
  },
  "events": [
@@ -1958,18 +1972,20 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-07"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20294914/",
+   "title": "Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential",
+   "url": "https://www.onthemarket.com/details/20294914/",
+   "price": 75000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-08"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-13T18:12:31Z",
-   "found": 34,
-   "events": 1,
-   "failed_sources": [
-    "Lang Town & Country (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-08-14T07:55:26Z",
    "found": 34,
@@ -2331,6 +2347,14 @@
    "at": "2026-09-08T11:29:50Z",
    "found": 21,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-08T19:58:03Z",
+   "found": 22,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]

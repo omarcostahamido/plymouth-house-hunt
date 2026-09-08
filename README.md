@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-08T11:29:50Z — 21 active matches._
+_Last run: 2026-09-08T19:58:03Z — 22 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -96,6 +96,7 @@ _Last run: 2026-09-08T11:29:50Z — 21 active matches._
 | £50,000 | [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) | OnTheMarket (portal) | — |
 | £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) | OnTheMarket (portal) | — |
 | £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
+| £75,000 | [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) | OnTheMarket (portal) | — |
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
@@ -117,6 +118,7 @@ _Last run: 2026-09-08T11:29:50Z — 21 active matches._
 
 ### Recent events
 
+- `2026-09-08` **NEW £75,000** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
 - `2026-09-07` **PRICE £130,000 → £120,000** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
 - `2026-09-07` **REMOVED** — [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20228083/) (OnTheMarket (portal))
 - `2026-09-07` **REMOVED** — [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
@@ -141,5 +143,4 @@ _Last run: 2026-09-08T11:29:50Z — 21 active matches._
 - `2026-08-18` **REMOVED** — [Hollywood Terrace, Plymouth PL1](https://www.onthemarket.com/details/20127239/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
 - `2026-08-18` **REMOVED** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) (OnTheMarket (portal))
-- `2026-08-18` **REMOVED** — [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/19216198/) (OnTheMarket (portal))
 <!--HUNT:END-->
