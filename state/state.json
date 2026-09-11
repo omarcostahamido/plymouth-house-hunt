@@ -79,7 +79,7 @@
    "url": "https://www.onthemarket.com/details/19700445/",
    "title": "Constantine Street, Plymouth, Devon, PL4",
    "price": 85000,
-   "card_text": "Spotlight Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Featured Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -801,19 +801,35 @@
    "flags": [],
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-11",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20294914/": {
    "id": "https://www.onthemarket.com/details/20294914/",
    "url": "https://www.onthemarket.com/details/20294914/",
    "title": "Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential",
    "price": 75000,
-   "card_text": "Recently added £75,000 Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential Ground floor flat 1 1 Prime Hoe Location. Ground Floor Apartment With Fantastic Potential Large living room Falcon Property - Plymouth Added < 7 days Email 01752 948765",
+   "card_text": "£75,000 Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential Ground floor flat 1 1 Prime Hoe Location. Ground Floor Apartment With Fantastic Potential Large living room Falcon Property - Plymouth Added < 7 days Email 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
    "first_seen": "2026-09-08",
+   "last_seen": "2026-09-11",
+   "status": "active"
+  },
+  "https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/": {
+   "id": "https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/",
+   "url": "https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/",
+   "title": "The Crescent, The Hoe, Plymouth",
+   "price": 145000,
+   "card_text": "The Crescent, The Hoe, Plymouth The Crescent is an attractive development of stylish modern apartments occupying a superb central location, within easy walking distance of the historic Hoe, Plymouth City Centre, Theatre Royal and the emerging waterfront at Millbay. The nearby King Point Marina also provides an exciting opportunity for boating enthusiasts, while the surrounding area offers an excellent choice of restaurants, caf&#233;s, shops and leisure facilities.",
+   "source": "langtownandcountry",
+   "source_name": "Lang Town & Country (agent)",
+   "is_letting": false,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-09-11",
    "last_seen": "2026-09-11",
    "status": "active"
   }
@@ -1983,15 +1999,33 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-08"
+  },
+  {
+   "type": "new",
+   "id": "https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/",
+   "title": "The Crescent, The Hoe, Plymouth",
+   "url": "https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/",
+   "price": 145000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-09-11"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20253716/",
+   "title": "Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.",
+   "url": "https://www.onthemarket.com/details/20253716/",
+   "price": 140000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-11"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-16T17:40:13Z",
-   "found": 36,
-   "events": 0,
-   "failed_sources": []
-  },
   {
    "at": "2026-08-17T07:28:05Z",
    "found": 36,
@@ -2363,6 +2397,14 @@
    "at": "2026-09-11T11:33:48Z",
    "found": 22,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-11T19:51:50Z",
+   "found": 22,
+   "events": 2,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]

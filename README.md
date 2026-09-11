@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-11T11:33:48Z — 22 active matches._
+_Last run: 2026-09-11T19:51:50Z — 22 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -106,8 +106,8 @@ _Last run: 2026-09-11T11:33:48Z — 22 active matches._
 | £125,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
-| £140,000 | [Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.](https://www.onthemarket.com/details/20253716/) | OnTheMarket (portal) | — |
 | £145,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £145,000 | [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £150,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -118,6 +118,8 @@ _Last run: 2026-09-11T11:33:48Z — 22 active matches._
 
 ### Recent events
 
+- `2026-09-11` **REMOVED** — [Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.](https://www.onthemarket.com/details/20253716/) (OnTheMarket (portal))
+- `2026-09-11` **NEW £145,000** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-08` **NEW £75,000** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
 - `2026-09-07` **PRICE £130,000 → £120,000** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
 - `2026-09-07` **REMOVED** — [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20228083/) (OnTheMarket (portal))
@@ -141,6 +143,4 @@ _Last run: 2026-09-11T11:33:48Z — 22 active matches._
 - `2026-08-21` **PRICE £150,000 → £145,000** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-19` **NEW £90,000** — [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Might be a letting, not a sale (agent feeds mix both)
 - `2026-08-18` **REMOVED** — [Hollywood Terrace, Plymouth PL1](https://www.onthemarket.com/details/20127239/) (OnTheMarket (portal))
-- `2026-08-18` **REMOVED** — [Ocean Crescent, Plymouth PL1](https://www.onthemarket.com/details/19013663/) (OnTheMarket (portal))
-- `2026-08-18` **REMOVED** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/19489978/) (OnTheMarket (portal))
 <!--HUNT:END-->
