@@ -87,13 +87,12 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-14T13:03:14Z — 22 active matches._
+_Last run: 2026-09-14T20:59:36Z — 21 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
-| £50,000 | [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) | OnTheMarket (portal) | — |
 | £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) | OnTheMarket (portal) | — |
 | £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £75,000 | [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) | OnTheMarket (portal) | — |
@@ -111,13 +110,16 @@ _Last run: 2026-09-14T13:03:14Z — 22 active matches._
 | £150,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £150,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £160,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-09-14` **REMOVED** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
+- `2026-09-14` **REMOVED** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
+- `2026-09-14` **NEW £150,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-09-11` **REMOVED** — [Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.](https://www.onthemarket.com/details/20253716/) (OnTheMarket (portal))
 - `2026-09-11` **NEW £145,000** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-08` **NEW £75,000** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
@@ -140,7 +142,4 @@ _Last run: 2026-09-14T13:03:14Z — 22 active matches._
 - `2026-08-22` **NEW £150,000** — [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-22` **REMOVED** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
 - `2026-08-21` **REMOVED** — [Citadel Road, Hoe Court, The Hoe](https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/) (Lang Town & Country (agent))
-- `2026-08-21` **PRICE £150,000 → £145,000** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-08-19` **NEW £90,000** — [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) (OnTheMarket (portal))  ⚠ May have sitting tenants; Might be a letting, not a sale (agent feeds mix both)
-- `2026-08-18` **REMOVED** — [Hollywood Terrace, Plymouth PL1](https://www.onthemarket.com/details/20127239/) (OnTheMarket (portal))
 <!--HUNT:END-->
