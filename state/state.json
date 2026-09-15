@@ -184,7 +184,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 115000,
-   "card_text": "Spotlight Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
+   "card_text": "Featured Property £115,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days Email 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -568,7 +568,7 @@
    "url": "https://www.onthemarket.com/details/20101752/",
    "title": "The Barbican, Plymouth",
    "price": 160000,
-   "card_text": "Spotlight Property £160,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom haart Estate Agents - Plymouth Added > 14 days Email 01752 948694",
+   "card_text": "Featured Property £160,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom Chain-free haart Estate Agents - Plymouth Added > 14 days Email 01752 948694",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2122,14 +2122,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-20T17:51:47Z",
-   "found": 22,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-08-21T07:13:38Z",
    "found": 22,
    "events": 0,
@@ -2509,6 +2501,14 @@
    "at": "2026-09-15T11:54:19Z",
    "found": 21,
    "events": 2,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-15T20:18:37Z",
+   "found": 21,
+   "events": 0,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
