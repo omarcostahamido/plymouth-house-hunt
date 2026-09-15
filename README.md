@@ -87,13 +87,12 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-14T20:59:36Z — 21 active matches._
+_Last run: 2026-09-15T11:54:19Z — 21 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
-| £60,000 | [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) | OnTheMarket (portal) | — |
 | £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £75,000 | [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) | OnTheMarket (portal) | — |
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
@@ -107,6 +106,7 @@ _Last run: 2026-09-14T20:59:36Z — 21 active matches._
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £145,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £145,000 | [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
+| £145,000 | [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -117,6 +117,8 @@ _Last run: 2026-09-14T20:59:36Z — 21 active matches._
 
 ### Recent events
 
+- `2026-09-15` **REMOVED** — [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) (OnTheMarket (portal))
+- `2026-09-15` **NEW £145,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-14` **REMOVED** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-09-14` **REMOVED** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
 - `2026-09-14` **NEW £150,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
@@ -140,6 +142,4 @@ _Last run: 2026-09-14T20:59:36Z — 21 active matches._
 - `2026-08-25` **PRICE £150,000 → £160,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-08-24` **NEW £125,000** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) (OnTheMarket (portal))
 - `2026-08-22` **NEW £150,000** — [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-08-22` **REMOVED** — [Bayswater Road, North Road West, Plymouth. City Living Made Easy – Spacious Two-Bed Apartment with Allocated Parking](https://www.onthemarket.com/details/19713473/) (OnTheMarket (portal))
-- `2026-08-21` **REMOVED** — [Citadel Road, Hoe Court, The Hoe](https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/) (Lang Town & Country (agent))
 <!--HUNT:END-->
