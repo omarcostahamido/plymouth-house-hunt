@@ -65,7 +65,7 @@
    "url": "https://www.onthemarket.com/details/19932652/",
    "title": "FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.",
    "price": 125000,
-   "card_text": "Reduced Guide price £125,000 FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Flat 2 1 Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Large living room / kitchen. Study Falcon Property - Plymouth Reduced > 14 days 01752 948765",
+   "card_text": "Guide price £125,000 FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Flat 2 1 Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront. Large living room / kitchen. Study Falcon Property - Plymouth Added > 14 days 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -79,7 +79,7 @@
    "url": "https://www.onthemarket.com/details/19700445/",
    "title": "Constantine Street, Plymouth, Devon, PL4",
    "price": 85000,
-   "card_text": "Featured Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days 01752 259982",
+   "card_text": "Spotlight Property Offers in excess of £85,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added > 14 days 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -877,7 +877,7 @@
    "flags": [],
    "first_seen": "2026-09-16",
    "last_seen": "2026-09-16",
-   "status": "active"
+   "status": "removed"
   }
  },
  "events": [
@@ -2143,15 +2143,20 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-16"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/18142235/",
+   "title": "Hawkers Avenue, The Barbican, Plymouth",
+   "url": "https://www.onthemarket.com/details/18142235/",
+   "price": 110000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-16"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-21T17:51:27Z",
-   "found": 21,
-   "events": 2,
-   "failed_sources": []
-  },
   {
    "at": "2026-08-22T07:06:05Z",
    "found": 20,
@@ -2533,6 +2538,14 @@
   {
    "at": "2026-09-16T11:49:55Z",
    "found": 22,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-16T20:15:40Z",
+   "found": 21,
    "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"

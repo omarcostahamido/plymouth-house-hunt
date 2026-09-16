@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-16T11:49:55Z — 22 active matches._
+_Last run: 2026-09-16T20:15:40Z — 21 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -98,7 +98,6 @@ _Last run: 2026-09-16T11:49:55Z — 22 active matches._
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
-| £110,000 | [Hawkers Avenue, The Barbican, Plymouth](https://www.onthemarket.com/details/18142235/) | OnTheMarket (portal) | — |
 | £115,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £120,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
 | £120,000 | [Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat moments From Mutley Plain, Ideal First Buy or Investment](https://www.onthemarket.com/details/20144057/) | OnTheMarket (portal) | — |
@@ -118,6 +117,7 @@ _Last run: 2026-09-16T11:49:55Z — 22 active matches._
 
 ### Recent events
 
+- `2026-09-16` **REMOVED** — [Hawkers Avenue, The Barbican, Plymouth](https://www.onthemarket.com/details/18142235/) (OnTheMarket (portal))
 - `2026-09-16` **NEW £110,000** — [Hawkers Avenue, The Barbican, Plymouth](https://www.onthemarket.com/details/18142235/) (OnTheMarket (portal))
 - `2026-09-15` **REMOVED** — [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) (OnTheMarket (portal))
 - `2026-09-15` **NEW £145,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
@@ -142,5 +142,4 @@ _Last run: 2026-09-16T11:49:55Z — 22 active matches._
 - `2026-08-28` **NEW £140,000** — [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20228083/) (OnTheMarket (portal))
 - `2026-08-26` **NEW £150,000** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-25` **PRICE £150,000 → £160,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20116771/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
-- `2026-08-24` **NEW £125,000** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) (OnTheMarket (portal))
 <!--HUNT:END-->
