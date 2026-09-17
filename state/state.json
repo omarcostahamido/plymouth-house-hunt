@@ -837,7 +837,7 @@
    "url": "https://www.onthemarket.com/details/20331774/",
    "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
    "price": 150000,
-   "card_text": "Recently added Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added < 7 days 01295 977147",
+   "card_text": "Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added < 7 days 01295 977147",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2158,12 +2158,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-22T17:41:48Z",
-   "found": 21,
-   "events": 1,
-   "failed_sources": []
-  },
-  {
    "at": "2026-08-23T07:07:50Z",
    "found": 21,
    "events": 0,
@@ -2547,6 +2541,14 @@
   },
   {
    "at": "2026-09-17T11:53:22Z",
+   "found": 21,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-17T20:24:04Z",
    "found": 21,
    "events": 0,
    "failed_sources": [
