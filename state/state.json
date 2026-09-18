@@ -878,6 +878,22 @@
    "first_seen": "2026-09-16",
    "last_seen": "2026-09-16",
    "status": "removed"
+  },
+  "https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/": {
+   "id": "https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/",
+   "url": "https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/",
+   "title": "Factory Cooperage, Royal William Yard, Stonehouse",
+   "price": null,
+   "card_text": "Factory Cooperage, Royal William Yard, Stonehouse &#160;OPEN DAY - We are delighted to be hosting an Open Day on Saturday 26th September 10am to 4pm at this luxury development. This is the perfect opportunity to explore the homes; appreciate everything it has to offer and ask our team any questions. You can all call the office to book an appointment to view at any time if this day is not convenient on 01752 256000. Townhouse Style Property *Three Double Bedrooms Mezzanine Level *Parking *Listed ",
+   "source": "langtownandcountry",
+   "source_name": "Lang Town & Country (agent)",
+   "flags": [
+    "Location unverified — check it's central Plymouth",
+    "Price not read — open listing"
+   ],
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "status": "active"
   }
  },
  "events": [
@@ -2178,15 +2194,23 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-09-18"
+  },
+  {
+   "type": "new",
+   "id": "https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/",
+   "title": "Factory Cooperage, Royal William Yard, Stonehouse",
+   "url": "https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/",
+   "price": null,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Location unverified — check it's central Plymouth",
+    "Price not read — open listing"
+   ],
+   "date": "2026-09-18"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-23T17:41:17Z",
-   "found": 21,
-   "events": 0,
-   "failed_sources": []
-  },
   {
    "at": "2026-08-24T07:33:28Z",
    "found": 21,
@@ -2575,6 +2599,14 @@
    "at": "2026-09-18T11:29:23Z",
    "found": 20,
    "events": 2,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-18T19:45:55Z",
+   "found": 21,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]

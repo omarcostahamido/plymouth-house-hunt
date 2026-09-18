@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-18T11:29:23Z — 20 active matches._
+_Last run: 2026-09-18T19:45:55Z — 21 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -113,9 +113,11 @@ _Last run: 2026-09-18T11:29:23Z — 20 active matches._
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| price n/a | [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) | Lang Town & Country (agent) | Location unverified — check it's central Plymouth; Price not read — open listing |
 
 ### Recent events
 
+- `2026-09-18` **NEW price n/a** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 - `2026-09-18` **REMOVED** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-18` **PRICE £115,000 → £110,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
 - `2026-09-16` **REMOVED** — [Hawkers Avenue, The Barbican, Plymouth](https://www.onthemarket.com/details/18142235/) (OnTheMarket (portal))
@@ -140,5 +142,4 @@ _Last run: 2026-09-18T11:29:23Z — 20 active matches._
 - `2026-08-29` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-29` **NEW £150,000** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-5/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-28` **REMOVED** — [20 Glen Park Avenue, Plymouth, Devon, PL4 6BB](https://www.onthemarket.com/details/20117005/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
-- `2026-08-28` **NEW £140,000** — [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20228083/) (OnTheMarket (portal))
 <!--HUNT:END-->
