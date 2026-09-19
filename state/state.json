@@ -893,7 +893,7 @@
    ],
    "first_seen": "2026-09-18",
    "last_seen": "2026-09-18",
-   "status": "active"
+   "status": "removed"
   }
  },
  "events": [
@@ -2219,15 +2219,23 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-19"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/",
+   "title": "Factory Cooperage, Royal William Yard, Stonehouse",
+   "url": "https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/",
+   "price": null,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Location unverified — check it's central Plymouth",
+    "Price not read — open listing"
+   ],
+   "date": "2026-09-19"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-24T17:52:47Z",
-   "found": 22,
-   "events": 1,
-   "failed_sources": []
-  },
   {
    "at": "2026-08-25T07:14:17Z",
    "found": 22,
@@ -2620,6 +2628,14 @@
    "events": 1,
    "failed_sources": [
     "Lang Town & Country (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-19T19:23:52Z",
+   "found": 19,
+   "events": 1,
+   "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
   }
