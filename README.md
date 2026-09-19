@@ -87,16 +87,15 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-18T19:45:55Z — 21 active matches._
+_Last run: 2026-09-19T11:12:42Z — 20 active matches._
 
-> ⚠ Sources that failed this run: Cross Keys Estates (agent)
+> ⚠ Sources that failed this run: Lang Town & Country (agent), Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
 | £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £75,000 | [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) | OnTheMarket (portal) | — |
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
-| £85,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) | OnTheMarket (portal) | — |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £110,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £120,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
@@ -117,6 +116,7 @@ _Last run: 2026-09-18T19:45:55Z — 21 active matches._
 
 ### Recent events
 
+- `2026-09-19` **REMOVED** — [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) (OnTheMarket (portal))
 - `2026-09-18` **NEW price n/a** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 - `2026-09-18` **REMOVED** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-18` **PRICE £115,000 → £110,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
@@ -141,5 +141,4 @@ _Last run: 2026-09-18T19:45:55Z — 21 active matches._
 - `2026-09-01` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) (OnTheMarket (portal))
 - `2026-08-29` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-08-29` **NEW £150,000** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-5/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
-- `2026-08-28` **REMOVED** — [20 Glen Park Avenue, Plymouth, Devon, PL4 6BB](https://www.onthemarket.com/details/20117005/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 <!--HUNT:END-->
