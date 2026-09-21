@@ -21,7 +21,7 @@
    "url": "https://www.onthemarket.com/details/19961185/",
    "title": "Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking",
    "price": 120000,
-   "card_text": "Reduced Guide price £120,000 Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Flat 2 1 Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Large living room Falcon Property - Plymouth Reduced > 14 days 01752 948765",
+   "card_text": "Guide price £120,000 Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Flat 2 1 Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking Large living room Falcon Property - Plymouth Added > 14 days 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -894,6 +894,20 @@
    "first_seen": "2026-09-18",
    "last_seen": "2026-09-18",
    "status": "removed"
+  },
+  "https://www.onthemarket.com/details/20381777/": {
+   "id": "https://www.onthemarket.com/details/20381777/",
+   "url": "https://www.onthemarket.com/details/20381777/",
+   "title": "Ladysmith Road, Plymouth",
+   "price": 120000,
+   "card_text": "Added today Offers over £120,000 Ladysmith Road, Plymouth Flat 2 1 Tenure: Share of freehold Ground Floor Flat Two Double Bedrooms Spacious Kitchen with Integrated Appliances haart Estate Agents - Plymouth Added today 01752 948694",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "status": "active"
   }
  },
  "events": [
@@ -2246,17 +2260,20 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-09-21"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20381777/",
+   "title": "Ladysmith Road, Plymouth",
+   "url": "https://www.onthemarket.com/details/20381777/",
+   "price": 120000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-21"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-26T19:23:02Z",
-   "found": 23,
-   "events": 1,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-08-27T17:42:37Z",
    "found": 23,
@@ -2648,6 +2665,14 @@
   {
    "at": "2026-09-21T13:02:05Z",
    "found": 18,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-21T21:09:04Z",
+   "found": 19,
    "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
