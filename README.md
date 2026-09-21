@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-20T19:33:32Z — 19 active matches._
+_Last run: 2026-09-21T13:02:05Z — 18 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -107,7 +107,6 @@ _Last run: 2026-09-20T19:33:32Z — 19 active matches._
 | £145,000 | [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £150,000 | [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -115,6 +114,7 @@ _Last run: 2026-09-20T19:33:32Z — 19 active matches._
 
 ### Recent events
 
+- `2026-09-21` **REMOVED** — [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-19` **REMOVED** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 - `2026-09-19` **REMOVED** — [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) (OnTheMarket (portal))
 - `2026-09-18` **NEW price n/a** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
@@ -139,5 +139,4 @@ _Last run: 2026-09-20T19:33:32Z — 19 active matches._
 - `2026-09-02` **REMOVED** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20199175/) (OnTheMarket (portal))
 - `2026-09-01` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-5/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-01` **NEW £60,000** — [King Street, Plymouth](https://www.onthemarket.com/details/20240983/) (OnTheMarket (portal))
-- `2026-08-29` **REMOVED** — [Elliot Terrace, The Hoe, Plymouth](https://www.langtownandcountry.com/property/elliot-terrace-the-hoe-plymouth-3/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->
