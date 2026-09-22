@@ -906,6 +906,20 @@
    "first_seen": "2026-09-21",
    "last_seen": "2026-09-22",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20389612/": {
+   "id": "https://www.onthemarket.com/details/20389612/",
+   "url": "https://www.onthemarket.com/details/20389612/",
+   "title": "Gordon Terrace, Plymouth, Devon, PL4",
+   "price": 130000,
+   "card_text": "Added today £130,000 Gordon Terrace, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold Chain-free Nearest station 0.3mi. Nearest school 0.1mi. Miller - Plymouth Added today 01752 259485",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "status": "active"
   }
  },
  "events": [
@@ -2280,17 +2294,20 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-22"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20389612/",
+   "title": "Gordon Terrace, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20389612/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-22"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-28T18:51:05Z",
-   "found": 23,
-   "events": 2,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-08-29T12:45:38Z",
    "found": 23,
@@ -2682,6 +2699,14 @@
   {
    "at": "2026-09-22T11:52:15Z",
    "found": 19,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-22T20:16:01Z",
+   "found": 20,
    "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
