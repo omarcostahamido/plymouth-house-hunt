@@ -920,6 +920,38 @@
    "first_seen": "2026-09-22",
    "last_seen": "2026-09-23",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20399339/": {
+   "id": "https://www.onthemarket.com/details/20399339/",
+   "url": "https://www.onthemarket.com/details/20399339/",
+   "title": "36 Clifton Street, Plymouth, Devon PL4 8JB",
+   "price": 120000,
+   "card_text": "Added today Guide price £120,000 36 Clifton Street, Plymouth, Devon PL4 8JB Terraced house 3 2 Tenure: Freehold Current EPC Rating: GFF: C70 FFF: C72 Auction Auction House - South West Added today 01752 942680",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction"
+   ],
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20399383/": {
+   "id": "https://www.onthemarket.com/details/20399383/",
+   "url": "https://www.onthemarket.com/details/20399383/",
+   "title": "301 North Road West, Plymouth, Devon PL1 5DJ",
+   "price": 105000,
+   "card_text": "Added today Guide price £105,000 301 North Road West, Plymouth, Devon PL1 5DJ Terraced house 3 3 Tenure: Freehold Current EPC Rating: TBC Auction Auction House - South West Added today 01752 942680",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction"
+   ],
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "status": "active"
   }
  },
  "events": [
@@ -2305,17 +2337,35 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-22"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20399339/",
+   "title": "36 Clifton Street, Plymouth, Devon PL4 8JB",
+   "url": "https://www.onthemarket.com/details/20399339/",
+   "price": 120000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-09-23"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20399383/",
+   "title": "301 North Road West, Plymouth, Devon PL1 5DJ",
+   "url": "https://www.onthemarket.com/details/20399383/",
+   "price": 105000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-09-23"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-29T19:49:15Z",
-   "found": 23,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-08-30T12:02:23Z",
    "found": 23,
@@ -2708,6 +2758,14 @@
    "at": "2026-09-23T11:51:36Z",
    "found": 20,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-23T20:31:27Z",
+   "found": 22,
+   "events": 2,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
