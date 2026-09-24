@@ -813,7 +813,7 @@
    "flags": [],
    "first_seen": "2026-09-08",
    "last_seen": "2026-09-24",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/": {
    "id": "https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/",
@@ -898,7 +898,7 @@
    "url": "https://www.onthemarket.com/details/20381777/",
    "title": "Ladysmith Road, Plymouth",
    "price": 120000,
-   "card_text": "Recently added Offers over £120,000 Ladysmith Road, Plymouth Flat 2 1 Tenure: Share of freehold Ground Floor Flat Two Double Bedrooms Spacious Kitchen with Integrated Appliances haart Estate Agents - Plymouth Added < 7 days 01752 948694",
+   "card_text": "Featured Property Offers over £120,000 Ladysmith Road, Plymouth Flat 2 1 Tenure: Share of freehold Ground Floor Flat Two Double Bedrooms Spacious Kitchen with Integrated Appliances haart Estate Agents - Plymouth Added < 7 days 01752 948694",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2363,17 +2363,20 @@
     "Auction"
    ],
    "date": "2026-09-23"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20294914/",
+   "title": "Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential",
+   "url": "https://www.onthemarket.com/details/20294914/",
+   "price": 75000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-24"
   }
  ],
  "runs": [
-  {
-   "at": "2026-08-30T19:53:14Z",
-   "found": 23,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-08-31T14:08:01Z",
    "found": 23,
@@ -2766,6 +2769,14 @@
    "at": "2026-09-24T11:59:03Z",
    "found": 22,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-24T20:34:03Z",
+   "found": 21,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
