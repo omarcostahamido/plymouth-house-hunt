@@ -912,7 +912,7 @@
    "url": "https://www.onthemarket.com/details/20389612/",
    "title": "Gordon Terrace, Plymouth, Devon, PL4",
    "price": 130000,
-   "card_text": "Recently added £130,000 Gordon Terrace, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold Chain-free Nearest station 0.3mi. Nearest school 0.1mi. Miller - Plymouth Added < 7 days 01752 259485",
+   "card_text": "Featured Property £130,000 Gordon Terrace, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold Chain-free Nearest station 0.3mi. Nearest school 0.1mi. Miller - Plymouth Added < 7 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2378,15 +2378,6 @@
  ],
  "runs": [
   {
-   "at": "2026-08-31T21:56:35Z",
-   "found": 22,
-   "events": 0,
-   "failed_sources": [
-    "Lang Town & Country (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-09-01T11:49:16Z",
    "found": 23,
    "events": 2,
@@ -2775,6 +2766,14 @@
   },
   {
    "at": "2026-09-25T11:59:57Z",
+   "found": 21,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-25T20:33:56Z",
    "found": 21,
    "events": 0,
    "failed_sources": [
