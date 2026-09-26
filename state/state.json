@@ -926,7 +926,7 @@
    "url": "https://www.onthemarket.com/details/20399339/",
    "title": "36 Clifton Street, Plymouth, Devon PL4 8JB",
    "price": 120000,
-   "card_text": "Recently added Guide price £120,000 36 Clifton Street, Plymouth, Devon PL4 8JB Terraced house 3 2 Tenure: Freehold Current EPC Rating: GFF: C70 FFF: C72 Auction Auction House - South West Added < 7 days 01752 942680",
+   "card_text": "Guide price £120,000 36 Clifton Street, Plymouth, Devon PL4 8JB Terraced house 3 2 Tenure: Freehold Current EPC Rating: GFF: C70 FFF: C72 Auction Auction House - South West Added < 7 days 01752 942680",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -942,7 +942,7 @@
    "url": "https://www.onthemarket.com/details/20399383/",
    "title": "301 North Road West, Plymouth, Devon PL1 5DJ",
    "price": 105000,
-   "card_text": "Recently added Guide price £105,000 301 North Road West, Plymouth, Devon PL1 5DJ Terraced house 3 3 Tenure: Freehold Current EPC Rating: TBC Auction Auction House - South West Added < 7 days 01752 942680",
+   "card_text": "Guide price £105,000 301 North Road West, Plymouth, Devon PL1 5DJ Terraced house 3 3 Tenure: Freehold Current EPC Rating: TBC Auction Auction House - South West Added < 7 days 01752 942680",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -950,6 +950,22 @@
     "Auction"
    ],
    "first_seen": "2026-09-23",
+   "last_seen": "2026-09-26",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/18704559/": {
+   "id": "https://www.onthemarket.com/details/18704559/",
+   "url": "https://www.onthemarket.com/details/18704559/",
+   "title": "Chedworth Street, Plymouth, Devon, PL4",
+   "price": 160000,
+   "card_text": "Reduced today Offers in excess of £160,000 Chedworth Street, Plymouth, Devon, PL4 Terraced house 3 Tenure: Freehold Nearest station 0.5mi. Nearest school 0.1mi. Miller - Plymouth Reduced today 01752 259485",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-09-26",
    "last_seen": "2026-09-26",
    "status": "active"
   }
@@ -2374,17 +2390,22 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-09-24"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/18704559/",
+   "title": "Chedworth Street, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/18704559/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-09-26"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-01T19:59:15Z",
-   "found": 23,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-02T11:29:58Z",
    "found": 22,
@@ -2776,6 +2797,14 @@
    "at": "2026-09-26T11:35:13Z",
    "found": 21,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-26T19:58:06Z",
+   "found": 22,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]

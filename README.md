@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-26T11:35:13Z — 21 active matches._
+_Last run: 2026-09-26T19:58:06Z — 22 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -114,9 +114,11 @@ _Last run: 2026-09-26T11:35:13Z — 21 active matches._
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18704559/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-09-26` **NEW £160,000** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18704559/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-24` **REMOVED** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
 - `2026-09-23` **NEW £105,000** — [301 North Road West, Plymouth, Devon PL1 5DJ](https://www.onthemarket.com/details/20399383/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-09-23` **NEW £120,000** — [36 Clifton Street, Plymouth, Devon PL4 8JB](https://www.onthemarket.com/details/20399339/) (OnTheMarket (portal))  ⚠ Auction
@@ -141,5 +143,4 @@ _Last run: 2026-09-26T11:35:13Z — 21 active matches._
 - `2026-09-08` **NEW £75,000** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
 - `2026-09-07` **PRICE £130,000 → £120,000** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
 - `2026-09-07` **REMOVED** — [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20228083/) (OnTheMarket (portal))
-- `2026-09-07` **REMOVED** — [Thompson Road, Plymouth*](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
 <!--HUNT:END-->
