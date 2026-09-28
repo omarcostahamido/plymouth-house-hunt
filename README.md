@@ -87,14 +87,14 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-28T14:11:51Z — 22 active matches._
+_Last run: 2026-09-28T22:35:17Z — 23 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
 | £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
-| £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | — |
+| £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £105,000 | [301 North Road West, Plymouth, Devon PL1 5DJ](https://www.onthemarket.com/details/20399383/) | OnTheMarket (portal) | Auction |
 | £110,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
@@ -105,6 +105,7 @@ _Last run: 2026-09-28T14:11:51Z — 22 active matches._
 | £125,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Gordon Terrace, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20389612/) | OnTheMarket (portal) | — |
+| £130,000 | [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) | OnTheMarket (portal) | — |
 | £140,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £145,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -118,6 +119,7 @@ _Last run: 2026-09-28T14:11:51Z — 22 active matches._
 
 ### Recent events
 
+- `2026-09-28` **NEW £130,000** — [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) (OnTheMarket (portal))
 - `2026-09-26` **NEW £160,000** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18704559/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-24` **REMOVED** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
 - `2026-09-23` **NEW £105,000** — [301 North Road West, Plymouth, Devon PL1 5DJ](https://www.onthemarket.com/details/20399383/) (OnTheMarket (portal))  ⚠ Auction
@@ -142,5 +144,4 @@ _Last run: 2026-09-28T14:11:51Z — 22 active matches._
 - `2026-09-11` **NEW £145,000** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-08` **NEW £75,000** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
 - `2026-09-07` **PRICE £130,000 → £120,000** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
-- `2026-09-07` **REMOVED** — [North Road West, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20228083/) (OnTheMarket (portal))
 <!--HUNT:END-->

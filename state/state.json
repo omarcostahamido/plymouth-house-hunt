@@ -644,11 +644,13 @@
    "url": "https://www.onthemarket.com/details/20133952/",
    "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
    "price": 80000,
-   "card_text": "Spotlight Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Featured Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Auction Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
-   "flags": [],
+   "flags": [
+    "Auction"
+   ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-28",
    "status": "active"
@@ -964,6 +966,20 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-09-26",
+   "last_seen": "2026-09-28",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20430782/": {
+   "id": "https://www.onthemarket.com/details/20430782/",
+   "url": "https://www.onthemarket.com/details/20430782/",
+   "title": "Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...",
+   "price": 130000,
+   "card_text": "Added today Guide price £130,000 Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of... Flat 2 1 Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of Freehold Large open plan living room / kitchen Falcon Property - Plymouth Added today 01752 948765",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-09-28",
    "last_seen": "2026-09-28",
    "status": "active"
   }
@@ -2401,17 +2417,20 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-09-26"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20430782/",
+   "title": "Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...",
+   "url": "https://www.onthemarket.com/details/20430782/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-09-28"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-03T19:58:01Z",
-   "found": 23,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-04T11:29:47Z",
    "found": 23,
@@ -2802,6 +2821,14 @@
    "at": "2026-09-28T14:11:51Z",
    "found": 22,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-28T22:35:17Z",
+   "found": 23,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
