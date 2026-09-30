@@ -1003,7 +1003,38 @@
    "card_text": "Southside Street, The Barbican, Plymouth Lang Town and Country are delighted to offer this stunning first floor modern apartment nestled in a coveted location in the heart of Plymouth&#8217;s vibrant Barbican waterfront and close to the historic Plymouth Hoe. Comprising six recently developed units, this building boasts a contemporary and opulent aesthetic.",
    "source": "langtownandcountry",
    "source_name": "Lang Town & Country (agent)",
-   "is_letting": false,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20447369/": {
+   "id": "https://www.onthemarket.com/details/20447369/",
+   "url": "https://www.onthemarket.com/details/20447369/",
+   "title": "Constantine Street, Plymouth, Devon, PL4",
+   "price": 70000,
+   "card_text": "Added today £70,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Auction Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added today 01752 259982",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction"
+   ],
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20445525/": {
+   "id": "https://www.onthemarket.com/details/20445525/",
+   "url": "https://www.onthemarket.com/details/20445525/",
+   "title": "Providence Street, Plymouth PL4",
+   "price": 160000,
+   "card_text": "Added today Offers over £160,000 Providence Street, Plymouth PL4 Terraced house 3 1 Tenure: Freehold Three Bedroom Investment Clever Estate Agents - Plymouth Added today 01752 876114",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
    "flags": [
     "Over budget — stretch (above £140,000)"
    ],
@@ -2491,17 +2522,35 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-09-30"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20447369/",
+   "title": "Constantine Street, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20447369/",
+   "price": 70000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-09-30"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20445525/",
+   "title": "Providence Street, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/20445525/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-09-30"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-05T19:08:27Z",
-   "found": 23,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-06T11:07:23Z",
    "found": 23,
@@ -2892,6 +2941,14 @@
    "at": "2026-09-30T12:47:55Z",
    "found": 25,
    "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-09-30T21:28:01Z",
+   "found": 27,
+   "events": 2,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
