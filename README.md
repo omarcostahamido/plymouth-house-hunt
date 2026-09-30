@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-09-29T21:27:43Z — 24 active matches._
+_Last run: 2026-09-30T12:47:55Z — 25 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -113,6 +113,7 @@ _Last run: 2026-09-29T21:27:43Z — 24 active matches._
 | £145,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
+| £150,000 | [Southside Street, The Barbican, Plymouth](https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -120,6 +121,7 @@ _Last run: 2026-09-29T21:27:43Z — 24 active matches._
 
 ### Recent events
 
+- `2026-09-30` **NEW £150,000** — [Southside Street, The Barbican, Plymouth](https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-29` **PRICE £145,000 → £138,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))
 - `2026-09-29` **NEW £120,000** — [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) (OnTheMarket (portal))
 - `2026-09-28` **NEW £130,000** — [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) (OnTheMarket (portal))
@@ -144,5 +146,4 @@ _Last run: 2026-09-29T21:27:43Z — 24 active matches._
 - `2026-09-14` **REMOVED** — [North Road East, Plymouth. A Stylish Studio in the Heart of Plymouth, a little gem!](https://www.onthemarket.com/details/18384021/) (OnTheMarket (portal))
 - `2026-09-14` **NEW £150,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-09-11` **REMOVED** — [Sea View Avenue, Lipson, Plymouth. Centrally located, ideal for first-time buyers seeking a stylish home.](https://www.onthemarket.com/details/20253716/) (OnTheMarket (portal))
-- `2026-09-11` **NEW £145,000** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->
