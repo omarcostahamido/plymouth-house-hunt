@@ -909,8 +909,8 @@
    "id": "https://www.onthemarket.com/details/20389612/",
    "url": "https://www.onthemarket.com/details/20389612/",
    "title": "Gordon Terrace, Plymouth, Devon, PL4",
-   "price": 130000,
-   "card_text": "Featured Property £130,000 Gordon Terrace, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (90 years remaining) Chain-free Nearest station 0.3mi. Nearest school 0.1mi. Miller - Plymouth Added < 14 days 01752 259485",
+   "price": 120000,
+   "card_text": "Reduced today Offers in excess of £120,000 Gordon Terrace, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (90 years remaining) Chain-free Nearest station 0.3mi. Nearest school 0.1mi. Miller - Plymouth Reduced today 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -972,7 +972,7 @@
    "url": "https://www.onthemarket.com/details/20430782/",
    "title": "Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...",
    "price": 130000,
-   "card_text": "Recently added Guide price £130,000 Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of... Flat 2 1 Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of Freehold Large open plan living room / kitchen Falcon Property - Plymouth Added < 7 days 01752 948765",
+   "card_text": "Guide price £130,000 Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of... Flat 2 1 Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of Freehold Large open plan living room / kitchen Falcon Property - Plymouth Added < 7 days 01752 948765",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2577,17 +2577,20 @@
     "Auction"
    ],
    "date": "2026-10-01"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/20389612/",
+   "title": "Gordon Terrace, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20389612/",
+   "price": 120000,
+   "old_price": 130000,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-01"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-06T19:19:07Z",
-   "found": 23,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-07T12:47:42Z",
    "found": 21,
@@ -2976,6 +2979,14 @@
   },
   {
    "at": "2026-10-01T13:33:23Z",
+   "found": 28,
+   "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-01T21:52:46Z",
    "found": 28,
    "events": 1,
    "failed_sources": [
