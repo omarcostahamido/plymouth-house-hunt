@@ -896,7 +896,7 @@
    "url": "https://www.onthemarket.com/details/20381777/",
    "title": "Ladysmith Road, Plymouth",
    "price": 120000,
-   "card_text": "Featured Property Offers over £120,000 Ladysmith Road, Plymouth Flat 2 1 Tenure: Share of freehold Ground Floor Flat Two Double Bedrooms Spacious Kitchen with Integrated Appliances haart Estate Agents - Plymouth Added < 14 days 01752 948694",
+   "card_text": "Spotlight Property Offers over £120,000 Ladysmith Road, Plymouth Flat 2 1 Tenure: Share of freehold Ground Floor Flat Two Double Bedrooms Spacious Kitchen with Integrated Appliances haart Estate Agents - Plymouth Added < 14 days 01752 948694",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2592,14 +2592,6 @@
  ],
  "runs": [
   {
-   "at": "2026-09-07T20:40:20Z",
-   "found": 21,
-   "events": 1,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-09-08T11:29:50Z",
    "found": 21,
    "events": 0,
@@ -2987,6 +2979,14 @@
   },
   {
    "at": "2026-10-02T12:52:12Z",
+   "found": 28,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-02T21:22:44Z",
    "found": 28,
    "events": 0,
    "failed_sources": [
