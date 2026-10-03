@@ -1015,7 +1015,7 @@
    "url": "https://www.onthemarket.com/details/20447369/",
    "title": "Constantine Street, Plymouth, Devon, PL4",
    "price": 70000,
-   "card_text": "Recently added £70,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Auction Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added < 7 days 01752 259982",
+   "card_text": "Featured Property £70,000 Constantine Street, Plymouth, Devon, PL4 Flat 1 1 Auction Nearest station 0.5mi. Nearest school 0.1mi. Fulfords - Plymouth Added < 7 days 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1031,7 +1031,7 @@
    "url": "https://www.onthemarket.com/details/20445525/",
    "title": "Providence Street, Plymouth PL4",
    "price": 160000,
-   "card_text": "Recently added Offers over £160,000 Providence Street, Plymouth PL4 Terraced house 3 1 Tenure: Freehold Three Bedroom Investment Clever Estate Agents - Plymouth Added < 7 days 01752 876114",
+   "card_text": "Offers over £160,000 Providence Street, Plymouth PL4 Terraced house 3 1 Tenure: Freehold Three Bedroom Investment Clever Estate Agents - Plymouth Added < 7 days 01752 876114",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2592,14 +2592,6 @@
  ],
  "runs": [
   {
-   "at": "2026-09-08T19:58:03Z",
-   "found": 22,
-   "events": 1,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-09-09T11:35:31Z",
    "found": 22,
    "events": 0,
@@ -2987,6 +2979,14 @@
   },
   {
    "at": "2026-10-03T11:50:29Z",
+   "found": 28,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-03T20:00:55Z",
    "found": 28,
    "events": 0,
    "failed_sources": [
