@@ -1047,7 +1047,7 @@
    "url": "https://www.onthemarket.com/details/20453031/",
    "title": "Plymouth PL4",
    "price": 55000,
-   "card_text": "Recently added £55,000 Plymouth PL4 End of terrace house 2 1 Tenure: Freehold View more: underthehammer.com Auction Under The Hammer - Birmingham Added < 7 days 020 8033 9313",
+   "card_text": "£55,000 Plymouth PL4 End of terrace house 2 1 Tenure: Freehold View more: underthehammer.com Auction Under The Hammer - Birmingham Added < 7 days 020 8033 9313",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2592,14 +2592,6 @@
  ],
  "runs": [
   {
-   "at": "2026-09-09T19:52:40Z",
-   "found": 22,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-09-10T11:32:08Z",
    "found": 22,
    "events": 0,
@@ -2987,6 +2979,14 @@
   },
   {
    "at": "2026-10-04T12:34:15Z",
+   "found": 28,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-04T20:15:27Z",
    "found": 28,
    "events": 0,
    "failed_sources": [
