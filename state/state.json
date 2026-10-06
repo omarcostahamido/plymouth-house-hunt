@@ -644,11 +644,13 @@
    "url": "https://www.onthemarket.com/details/20133952/",
    "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
    "price": 80000,
-   "card_text": "Spotlight Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Featured Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Auction Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
-   "flags": [],
+   "flags": [
+    "Auction"
+   ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-06",
    "status": "active"
@@ -2590,14 +2592,6 @@
  ],
  "runs": [
   {
-   "at": "2026-09-11T19:51:50Z",
-   "found": 22,
-   "events": 2,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-09-12T10:57:56Z",
    "found": 22,
    "events": 0,
@@ -2985,6 +2979,14 @@
   },
   {
    "at": "2026-10-06T13:27:02Z",
+   "found": 28,
+   "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-06T21:44:52Z",
    "found": 28,
    "events": 0,
    "failed_sources": [
