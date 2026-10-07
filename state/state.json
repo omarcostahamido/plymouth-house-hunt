@@ -381,7 +381,7 @@
    ],
    "first_seen": "2026-07-23",
    "last_seen": "2026-10-07",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/19489978/": {
    "id": "https://www.onthemarket.com/details/19489978/",
@@ -687,7 +687,7 @@
    "url": "https://www.onthemarket.com/details/20169397/",
    "title": "Ebrington Street, Plymouth, Devon, PL4",
    "price": 90000,
-   "card_text": "Featured Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Chain-free Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Spotlight Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -2657,18 +2657,22 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-10-07"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/19513918/",
+   "title": "Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...",
+   "url": "https://www.onthemarket.com/details/19513918/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-07"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-12T19:28:53Z",
-   "found": 21,
-   "events": 0,
-   "failed_sources": [
-    "Lang Town & Country (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-13T12:05:50Z",
    "found": 22,
@@ -3058,6 +3062,14 @@
    "at": "2026-10-07T13:37:54Z",
    "found": 29,
    "events": 3,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-07T22:05:43Z",
+   "found": 28,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]

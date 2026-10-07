@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-07T13:37:54Z — 29 active matches._
+_Last run: 2026-10-07T22:05:43Z — 28 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -112,7 +112,6 @@ _Last run: 2026-10-07T13:37:54Z — 29 active matches._
 | £138,000 | [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) | OnTheMarket (portal) | — |
 | £140,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | — |
 | £145,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £150,000 | [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £150,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
 | £150,000 | [Southside Street, The Barbican, Plymouth](https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -125,6 +124,7 @@ _Last run: 2026-10-07T13:37:54Z — 29 active matches._
 
 ### Recent events
 
+- `2026-10-07` **REMOVED** — [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-10-07` **REMOVED** — [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) (OnTheMarket (portal))
 - `2026-10-07` **NEW £160,000** — [Victoria Avenue, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20083635/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-10-07` **NEW £160,000** — [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
@@ -149,5 +149,4 @@ _Last run: 2026-10-07T13:37:54Z — 29 active matches._
 - `2026-09-18` **NEW price n/a** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 - `2026-09-18` **REMOVED** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-18` **PRICE £115,000 → £110,000** — [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) (OnTheMarket (portal))
-- `2026-09-16` **REMOVED** — [Hawkers Avenue, The Barbican, Plymouth](https://www.onthemarket.com/details/18142235/) (OnTheMarket (portal))
 <!--HUNT:END-->
