@@ -439,8 +439,8 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-06",
-   "status": "removed"
+   "last_seen": "2026-10-08",
+   "status": "active"
   },
   "https://www.onthemarket.com/details/16705428/": {
    "id": "https://www.onthemarket.com/details/16705428/",
@@ -845,7 +845,7 @@
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-08",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20318352/": {
    "id": "https://www.onthemarket.com/details/20318352/",
@@ -2670,17 +2670,23 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-10-07"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20331774/",
+   "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
+   "url": "https://www.onthemarket.com/details/20331774/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-08"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-13T19:33:25Z",
-   "found": 22,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-14T13:03:14Z",
    "found": 22,
@@ -3070,6 +3076,14 @@
    "at": "2026-10-08T13:44:14Z",
    "found": 28,
    "events": 0,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-08T22:13:07Z",
+   "found": 28,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
