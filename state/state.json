@@ -680,7 +680,7 @@
    "flags": [],
    "first_seen": "2026-08-15",
    "last_seen": "2026-10-09",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20169397/": {
    "id": "https://www.onthemarket.com/details/20169397/",
@@ -1008,7 +1008,7 @@
    ],
    "first_seen": "2026-09-30",
    "last_seen": "2026-10-09",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20447369/": {
    "id": "https://www.onthemarket.com/details/20447369/",
@@ -2713,17 +2713,33 @@
     "Price not read — open listing"
    ],
    "date": "2026-10-09"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20144057/",
+   "title": "Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat moments From Mutley Plain, Ideal First Buy or Investment",
+   "url": "https://www.onthemarket.com/details/20144057/",
+   "price": 120000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-09"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/",
+   "title": "Southside Street, The Barbican, Plymouth",
+   "url": "https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/",
+   "price": 150000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-09"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-14T20:59:36Z",
-   "found": 21,
-   "events": 3,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-15T11:54:19Z",
    "found": 21,
@@ -3113,6 +3129,14 @@
    "at": "2026-10-09T13:29:42Z",
    "found": 29,
    "events": 1,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-09T21:47:31Z",
+   "found": 27,
+   "events": 2,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
