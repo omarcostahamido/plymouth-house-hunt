@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-08T22:13:07Z — 28 active matches._
+_Last run: 2026-10-09T13:29:42Z — 29 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -121,9 +121,11 @@ _Last run: 2026-10-08T22:13:07Z — 28 active matches._
 | £160,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20445525/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20083635/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| price n/a | [Arcadia Road, Elburton, Plymouth.](https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/) | Lang Town & Country (agent) | Price not read — open listing |
 
 ### Recent events
 
+- `2026-10-09` **NEW price n/a** — [Arcadia Road, Elburton, Plymouth.](https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/) (Lang Town & Country (agent))  ⚠ Price not read — open listing
 - `2026-10-08` **REMOVED** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-10-07` **REMOVED** — [Exeter Street, City Center, Plymouth. City Centre Living with Space to Grow – Flexible 5 Bed Potential & Sunny...](https://www.onthemarket.com/details/19513918/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-10-07` **REMOVED** — [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) (OnTheMarket (portal))
@@ -148,5 +150,4 @@ _Last run: 2026-10-08T22:13:07Z — 28 active matches._
 - `2026-09-19` **REMOVED** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 - `2026-09-19` **REMOVED** — [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/19700445/) (OnTheMarket (portal))
 - `2026-09-18` **NEW price n/a** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-09-18` **REMOVED** — [The Crescent, The Hoe, Plymouth](https://www.langtownandcountry.com/property/the-crescent-the-hoe-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->
