@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-10T12:44:58Z — 27 active matches._
+_Last run: 2026-10-10T20:36:48Z — 26 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -96,11 +96,10 @@ _Last run: 2026-10-10T12:44:58Z — 27 active matches._
 | £55,000 | [Plymouth PL4](https://www.onthemarket.com/details/20453031/) | OnTheMarket (portal) | Auction |
 | £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £70,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20447369/) | OnTheMarket (portal) | Auction |
-| £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | — |
+| £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £105,000 | [301 North Road West, Plymouth, Devon PL1 5DJ](https://www.onthemarket.com/details/20399383/) | OnTheMarket (portal) | Auction |
 | £110,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
-| £120,000 | [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) | OnTheMarket (portal) | — |
 | £120,000 | [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/20381777/) | OnTheMarket (portal) | — |
 | £120,000 | [Gordon Terrace, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20389612/) | OnTheMarket (portal) | — |
 | £120,000 | [36 Clifton Street, Plymouth, Devon PL4 8JB](https://www.onthemarket.com/details/20399339/) | OnTheMarket (portal) | Auction |
@@ -123,6 +122,7 @@ _Last run: 2026-10-10T12:44:58Z — 27 active matches._
 
 ### Recent events
 
+- `2026-10-10` **REMOVED** — [Cromwell Road, St Judes, Plymouth. Central Ground Floor 2 bed Flat with Private Courtyard Garden & Allocated Parking](https://www.onthemarket.com/details/19961185/) (OnTheMarket (portal))
 - `2026-10-09` **REMOVED** — [Southside Street, The Barbican, Plymouth](https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-10-09` **REMOVED** — [Seaton Avenue, Mutley, Plymouth. Stylish Ground Floor Flat moments From Mutley Plain, Ideal First Buy or Investment](https://www.onthemarket.com/details/20144057/) (OnTheMarket (portal))
 - `2026-10-09` **NEW price n/a** — [Arcadia Road, Elburton, Plymouth.](https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/) (Lang Town & Country (agent))  ⚠ Price not read — open listing
@@ -147,5 +147,4 @@ _Last run: 2026-10-10T12:44:58Z — 27 active matches._
 - `2026-09-22` **PRICE £150,000 → £140,000** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))
 - `2026-09-21` **NEW £120,000** — [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/20381777/) (OnTheMarket (portal))
 - `2026-09-21` **REMOVED** — [Hill Park Mews, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20190673/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-09-19` **REMOVED** — [Factory Cooperage, Royal William Yard, Stonehouse](https://www.langtownandcountry.com/property/factory-cooperage-royal-william-yard-stonehouse/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 <!--HUNT:END-->
