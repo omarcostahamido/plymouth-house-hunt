@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-11T13:07:32Z — 26 active matches._
+_Last run: 2026-10-11T21:00:29Z — 26 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
