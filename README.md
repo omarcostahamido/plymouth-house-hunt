@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-12T15:46:02Z — 29 active matches._
+_Last run: 2026-10-12T23:40:25Z — 28 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -108,7 +108,6 @@ _Last run: 2026-10-12T15:46:02Z — 29 active matches._
 | £120,000 | [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) | OnTheMarket (portal) | — |
 | £125,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
-| £130,000 | [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) | OnTheMarket (portal) | — |
 | £130,000 | [Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4](https://www.onthemarket.com/details/20429563/) | OnTheMarket (portal) | — |
 | £138,000 | [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) | OnTheMarket (portal) | — |
 | £140,000 | [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) | OnTheMarket (portal) | — |
@@ -125,6 +124,7 @@ _Last run: 2026-10-12T15:46:02Z — 29 active matches._
 
 ### Recent events
 
+- `2026-10-12` **REMOVED** — [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) (OnTheMarket (portal))
 - `2026-10-12` **REMOVED** — [Gordon Terrace, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20389612/) (OnTheMarket (portal))
 - `2026-10-12` **NEW £90,000** — [Torrington Court, North Road East, Plymouth PL4](https://www.onthemarket.com/details/20523746/) (OnTheMarket (portal))
 - `2026-10-12` **NEW £130,000** — [Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4](https://www.onthemarket.com/details/20429563/) (OnTheMarket (portal))
@@ -149,5 +149,4 @@ _Last run: 2026-10-12T15:46:02Z — 29 active matches._
 - `2026-09-28` **NEW £130,000** — [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) (OnTheMarket (portal))
 - `2026-09-26` **NEW £160,000** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18704559/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-24` **REMOVED** — [Citadel Road, The Hoe, Plymouth. Prime Hoe Location. Ground Floor Apartment With Fantastic Potential](https://www.onthemarket.com/details/20294914/) (OnTheMarket (portal))
-- `2026-09-23` **NEW £105,000** — [301 North Road West, Plymouth, Devon PL1 5DJ](https://www.onthemarket.com/details/20399383/) (OnTheMarket (portal))  ⚠ Auction
 <!--HUNT:END-->

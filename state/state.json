@@ -182,7 +182,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 110000,
-   "card_text": "Featured Property £110,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
+   "card_text": "Spotlight Property £110,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -896,7 +896,7 @@
    "url": "https://www.onthemarket.com/details/20381777/",
    "title": "Ladysmith Road, Plymouth",
    "price": 120000,
-   "card_text": "Spotlight Property Offers over £120,000 Ladysmith Road, Plymouth Flat 2 1 Tenure: Share of freehold Ground Floor Flat Two Double Bedrooms Spacious Kitchen with Integrated Appliances haart Estate Agents - Plymouth Added > 14 days 01752 948694",
+   "card_text": "Featured Property Offers over £120,000 Ladysmith Road, Plymouth Flat 2 1 Tenure: Share of freehold Ground Floor Flat Two Double Bedrooms Spacious Kitchen with Integrated Appliances haart Estate Agents - Plymouth Added > 14 days 01752 948694",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -979,7 +979,7 @@
    "flags": [],
    "first_seen": "2026-09-28",
    "last_seen": "2026-10-12",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20434701/": {
    "id": "https://www.onthemarket.com/details/20434701/",
@@ -2859,17 +2859,20 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-10-12"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20430782/",
+   "title": "Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...",
+   "url": "https://www.onthemarket.com/details/20430782/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-12"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-17T20:24:04Z",
-   "found": 21,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-18T11:29:23Z",
    "found": 20,
@@ -3259,6 +3262,14 @@
    "at": "2026-10-12T15:46:02Z",
    "found": 29,
    "events": 5,
+   "failed_sources": [
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-12T23:40:25Z",
+   "found": 28,
+   "events": 1,
    "failed_sources": [
     "Cross Keys Estates (agent)"
    ]
