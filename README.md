@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-15T11:44:42Z — 27 active matches._
+_Last run: 2026-10-15T20:24:50Z — 26 active matches._
 
 > ⚠ Sources that failed this run: Cross Keys Estates (agent)
 
@@ -119,10 +119,10 @@ _Last run: 2026-10-15T11:44:42Z — 27 active matches._
 | £160,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20445525/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20083635/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| price n/a | [Arcadia Road, Elburton, Plymouth.](https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/) | Lang Town & Country (agent) | Price not read — open listing |
 
 ### Recent events
 
+- `2026-10-15` **REMOVED** — [Arcadia Road, Elburton, Plymouth.](https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/) (Lang Town & Country (agent))  ⚠ Price not read — open listing
 - `2026-10-13` **REMOVED** — [Plymouth PL4](https://www.onthemarket.com/details/20453031/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-10-13` **PRICE £138,000 → £130,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))
 - `2026-10-12` **REMOVED** — [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) (OnTheMarket (portal))
@@ -147,5 +147,4 @@ _Last run: 2026-10-15T11:44:42Z — 27 active matches._
 - `2026-09-30` **NEW £150,000** — [Southside Street, The Barbican, Plymouth](https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-29` **PRICE £145,000 → £138,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))
 - `2026-09-29` **NEW £120,000** — [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) (OnTheMarket (portal))
-- `2026-09-28` **NEW £130,000** — [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) (OnTheMarket (portal))
 <!--HUNT:END-->
