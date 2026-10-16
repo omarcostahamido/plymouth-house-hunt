@@ -859,7 +859,7 @@
    "flags": [],
    "first_seen": "2026-09-15",
    "last_seen": "2026-10-16",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/18142235/": {
    "id": "https://www.onthemarket.com/details/18142235/",
@@ -1172,6 +1172,22 @@
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20072342/": {
+   "id": "https://www.onthemarket.com/details/20072342/",
+   "url": "https://www.onthemarket.com/details/20072342/",
+   "title": "The Crescent, Plymouth PL1",
+   "price": 145000,
+   "card_text": "Offers over £145,000 The Crescent, Plymouth PL1 Apartment 1 1 Tenure: Share of freehold (988 years remaining) Prestigious Location Chain-free Lang Town & Country Estate Agents - Plymouth Added > 14 days 01752 948541",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
    "first_seen": "2026-10-16",
    "last_seen": "2026-10-16",
    "status": "active"
@@ -2932,17 +2948,33 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-10-16"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20072342/",
+   "title": "The Crescent, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20072342/",
+   "price": 145000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-16"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20318352/",
+   "title": "The Crescent, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20318352/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-16"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-21T21:09:04Z",
-   "found": 19,
-   "events": 1,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-22T11:52:15Z",
    "found": 19,
@@ -3331,6 +3363,15 @@
    "at": "2026-10-16T11:38:52Z",
    "found": 27,
    "events": 1,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-16T20:00:21Z",
+   "found": 27,
+   "events": 2,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
