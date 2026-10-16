@@ -87,9 +87,9 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-15T20:24:50Z — 26 active matches._
+_Last run: 2026-10-16T11:38:52Z — 27 active matches._
 
-> ⚠ Sources that failed this run: Cross Keys Estates (agent)
+> ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
 | Price | Property | Source | Flags |
 |---|---|---|---|
@@ -98,6 +98,7 @@ _Last run: 2026-10-15T20:24:50Z — 26 active matches._
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £90,000 | [Torrington Court, North Road East, Plymouth PL4](https://www.onthemarket.com/details/20523746/) | OnTheMarket (portal) | — |
+| £90,000 | [Bayswater Road, Devon PL1](https://www.onthemarket.com/details/17863187/) | OnTheMarket (portal) | — |
 | £100,000 | [Plymouth City Centre – 6.5% Rental Yields, Plymouth PL1](https://www.onthemarket.com/details/20425980/) | OnTheMarket (portal) | — |
 | £105,000 | [301 North Road West, Plymouth, Devon PL1 5DJ](https://www.onthemarket.com/details/20399383/) | OnTheMarket (portal) | Auction |
 | £110,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
@@ -122,6 +123,7 @@ _Last run: 2026-10-15T20:24:50Z — 26 active matches._
 
 ### Recent events
 
+- `2026-10-16` **NEW £90,000** — [Bayswater Road, Devon PL1](https://www.onthemarket.com/details/17863187/) (OnTheMarket (portal))
 - `2026-10-15` **REMOVED** — [Arcadia Road, Elburton, Plymouth.](https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/) (Lang Town & Country (agent))  ⚠ Price not read — open listing
 - `2026-10-13` **REMOVED** — [Plymouth PL4](https://www.onthemarket.com/details/20453031/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-10-13` **PRICE £138,000 → £130,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))
@@ -146,5 +148,4 @@ _Last run: 2026-10-15T20:24:50Z — 26 active matches._
 - `2026-09-30` **NEW £70,000** — [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20447369/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-09-30` **NEW £150,000** — [Southside Street, The Barbican, Plymouth](https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-09-29` **PRICE £145,000 → £138,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))
-- `2026-09-29` **NEW £120,000** — [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) (OnTheMarket (portal))
 <!--HUNT:END-->
