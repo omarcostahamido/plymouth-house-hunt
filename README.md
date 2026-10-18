@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-17T19:32:22Z — 28 active matches._
+_Last run: 2026-10-18T11:24:50Z — 27 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -116,7 +116,6 @@ _Last run: 2026-10-17T19:32:22Z — 28 active matches._
 | £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £160,000 | [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18704559/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20445525/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20083635/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -124,6 +123,7 @@ _Last run: 2026-10-17T19:32:22Z — 28 active matches._
 
 ### Recent events
 
+- `2026-10-18` **REMOVED** — [Chedworth Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18704559/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-10-16` **REMOVED** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))
 - `2026-10-16` **NEW £145,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20072342/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-10-16` **NEW £90,000** — [Bayswater Road, Devon PL1](https://www.onthemarket.com/details/17863187/) (OnTheMarket (portal))
@@ -148,5 +148,4 @@ _Last run: 2026-10-17T19:32:22Z — 28 active matches._
 - `2026-10-01` **PRICE £130,000 → £120,000** — [Gordon Terrace, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20389612/) (OnTheMarket (portal))
 - `2026-10-01` **NEW £55,000** — [Plymouth PL4](https://www.onthemarket.com/details/20453031/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-09-30` **NEW £160,000** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20445525/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-09-30` **NEW £70,000** — [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20447369/) (OnTheMarket (portal))  ⚠ Auction
 <!--HUNT:END-->
