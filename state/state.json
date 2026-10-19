@@ -3096,14 +3096,6 @@
  ],
  "runs": [
   {
-   "at": "2026-09-24T20:34:03Z",
-   "found": 21,
-   "events": 1,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-09-25T11:59:57Z",
    "found": 21,
    "events": 0,
@@ -3497,6 +3489,15 @@
    "at": "2026-10-19T13:42:07Z",
    "found": 28,
    "events": 6,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-19T21:37:12Z",
+   "found": 28,
+   "events": 0,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
