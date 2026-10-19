@@ -71,7 +71,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19700445/": {
@@ -174,7 +174,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/18945894/": {
@@ -188,7 +188,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19649536/": {
@@ -204,7 +204,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19856242/": {
@@ -248,7 +248,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19775476/": {
@@ -425,7 +425,7 @@
     "Shared ownership / share price"
    ],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/17171237/": {
@@ -439,7 +439,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/16705428/": {
@@ -542,7 +542,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-08-05",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20072003/": {
@@ -558,7 +558,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-08-05",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20101752/": {
@@ -574,7 +574,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-08-10",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19375488/": {
@@ -652,7 +652,7 @@
     "Auction"
    ],
    "first_seen": "2026-08-13",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/": {
@@ -687,7 +687,7 @@
    "url": "https://www.onthemarket.com/details/20169397/",
    "title": "Ebrington Street, Plymouth, Devon, PL4",
    "price": 90000,
-   "card_text": "Spotlight Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Featured Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Chain-free Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -696,7 +696,7 @@
     "Might be a letting, not a sale (agent feeds mix both)"
    ],
    "first_seen": "2026-08-19",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20190673/": {
@@ -834,18 +834,17 @@
    "id": "https://www.onthemarket.com/details/20331774/",
    "url": "https://www.onthemarket.com/details/20331774/",
    "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
-   "price": 150000,
-   "card_text": "Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added > 14 days 01295 977147",
+   "price": 100000,
+   "card_text": "Reduced today Guide price £100,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Reduced today 01295 977147",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [
-    "Auction",
-    "Over budget — stretch (above £140,000)"
+    "Auction"
    ],
    "first_seen": "2026-09-14",
-   "last_seen": "2026-10-08",
-   "status": "removed"
+   "last_seen": "2026-10-19",
+   "status": "active"
   },
   "https://www.onthemarket.com/details/20318352/": {
    "id": "https://www.onthemarket.com/details/20318352/",
@@ -902,7 +901,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-09-21",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20389612/": {
@@ -932,7 +931,7 @@
     "Auction"
    ],
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20399383/": {
@@ -948,7 +947,7 @@
     "Auction"
    ],
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/18704559/": {
@@ -992,7 +991,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-09-29",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/": {
@@ -1023,7 +1022,7 @@
     "Auction"
    ],
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20445525/": {
@@ -1040,7 +1039,7 @@
    ],
    "first_seen": "2026-09-30",
    "last_seen": "2026-10-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20453031/": {
    "id": "https://www.onthemarket.com/details/20453031/",
@@ -1071,7 +1070,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20083635/": {
@@ -1087,7 +1086,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/": {
@@ -1104,20 +1103,20 @@
    ],
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-18",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20425980/": {
    "id": "https://www.onthemarket.com/details/20425980/",
    "url": "https://www.onthemarket.com/details/20425980/",
    "title": "Plymouth City Centre – 6.5% Rental Yields, Plymouth PL1",
    "price": 100000,
-   "card_text": "Offers in region of £100,000 Plymouth City Centre – 6.5% Rental Yields, Plymouth PL1 Flat 1 1 7% projected rental returns Strong potential for long-term capital growth Online viewing Chain-free RW Invest- Liverpool Added < 7 days 0151 382 4452",
+   "card_text": "Offers in region of £100,000 Plymouth City Centre – 6.5% Rental Yields, Plymouth PL1 Flat 1 1 7% projected rental returns Strong potential for long-term capital growth Online viewing Chain-free RW Invest- Liverpool Added < 14 days 0151 382 4452",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-12",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20427496/": {
@@ -1125,13 +1124,13 @@
    "url": "https://www.onthemarket.com/details/20427496/",
    "title": "Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4",
    "price": 110000,
-   "card_text": "Offers in region of £110,000 Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4 Flat 1 1 7% NET rental yields 17.6% projected regional property price growth by 2030 Online viewing Chain-free RW Invest- Liverpool Added < 7 days 0151 382 4452",
+   "card_text": "Offers in region of £110,000 Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4 Flat 1 1 7% NET rental yields 17.6% projected regional property price growth by 2030 Online viewing Chain-free RW Invest- Liverpool Added < 14 days 0151 382 4452",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-12",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20429563/": {
@@ -1139,13 +1138,13 @@
    "url": "https://www.onthemarket.com/details/20429563/",
    "title": "Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4",
    "price": 130000,
-   "card_text": "Offers in region of £130,000 Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4 Flat 2 1 7% projected returns Strong capital growth potential Online viewing Chain-free RW Invest- Liverpool Added < 7 days 0151 382 4452",
+   "card_text": "Offers in region of £130,000 Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4 Flat 2 1 7% projected returns Strong capital growth potential Online viewing Chain-free RW Invest- Liverpool Added < 14 days 0151 382 4452",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-12",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20523746/": {
@@ -1153,13 +1152,13 @@
    "url": "https://www.onthemarket.com/details/20523746/",
    "title": "Torrington Court, North Road East, Plymouth PL4",
    "price": 90000,
-   "card_text": "Guide price £90,000 Torrington Court, North Road East, Plymouth PL4 Apartment 1 1 Tenure: Share of freehold (40 years remaining) Characteristic Period Apartment Chain-free Cash buyers only Cross Keys Estates - Plymouth Added < 7 days 01752 948416",
+   "card_text": "Guide price £90,000 Torrington Court, North Road East, Plymouth PL4 Apartment 1 1 Tenure: Share of freehold (40 years remaining) Characteristic Period Apartment Chain-free Cash buyers only Cross Keys Estates - Plymouth Added < 14 days 01752 948416",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-12",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/17863187/": {
@@ -1167,29 +1166,60 @@
    "url": "https://www.onthemarket.com/details/17863187/",
    "title": "Bayswater Road, Devon PL1",
    "price": 90000,
-   "card_text": "Recently added Offers over £90,000 Bayswater Road, Devon PL1 Flat 1 1 Tenure: Share of freehold One-bedroom flat with garden Chain-free Your Move - Plymouth Added < 7 days 01752 942905",
+   "card_text": "Offers over £90,000 Bayswater Road, Devon PL1 Flat 1 1 Tenure: Share of freehold One-bedroom flat with garden Chain-free Your Move - Plymouth Added < 7 days 01752 942905",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20072342/": {
    "id": "https://www.onthemarket.com/details/20072342/",
    "url": "https://www.onthemarket.com/details/20072342/",
    "title": "The Crescent, Plymouth PL1",
-   "price": 145000,
-   "card_text": "Offers over £145,000 The Crescent, Plymouth PL1 Apartment 1 1 Tenure: Share of freehold (988 years remaining) Prestigious Location Chain-free Lang Town & Country Estate Agents - Plymouth Added > 14 days 01752 948541",
+   "price": 140000,
+   "card_text": "Reduced today Guide price £140,000 The Crescent, Plymouth PL1 Apartment 1 1 Tenure: Share of freehold (988 years remaining) Prestigious Location Chain-free Lang Town & Country Estate Agents - Plymouth Reduced today 01752 948541",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
+   "status": "active"
+  },
+  "https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/": {
+   "id": "https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/",
+   "url": "https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/",
+   "title": "Plot 19 Shell Cove, Dawlish, Devon",
+   "price": null,
+   "card_text": "Plot 19 Shell Cove, Dawlish, Devon Shell Cove is an exclusive gated coastal development perched above the stunning red cliffs of South Devon, between Dawlish and Teignmouth. The final collection of contemporary homes offers approximately 2,464 sq ft of luxurious living space, featuring modern interiors, private balconies and terraces, breathtaking sea views, and high-quality specifications. Residents benefit from beautifully landscaped grounds, private beach access, direct access to the South We",
+   "source": "langtownandcountry",
+   "source_name": "Lang Town & Country (agent)",
+   "is_letting": false,
+   "flags": [
+    "Location unverified — check it's central Plymouth",
+    "Price not read — open listing"
+   ],
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20577567/": {
+   "id": "https://www.onthemarket.com/details/20577567/",
+   "url": "https://www.onthemarket.com/details/20577567/",
+   "title": "14 Francis Street, Plymouth, Devon PL1 5JZ",
+   "price": 110000,
+   "card_text": "Added today Guide price £110,000 14 Francis Street, Plymouth, Devon PL1 5JZ Terraced house 2 1 Tenure: Freehold Current EPC Rating: D58 Auction Auction House - South West Added today 01752 942680",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [
-    "Over budget — stretch (above £140,000)"
+    "Auction"
    ],
-   "first_seen": "2026-10-16",
-   "last_seen": "2026-10-18",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
    "status": "active"
   }
  },
@@ -2985,17 +3015,86 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-10-18"
+  },
+  {
+   "type": "new",
+   "id": "https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/",
+   "title": "Plot 19 Shell Cove, Dawlish, Devon",
+   "url": "https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/",
+   "price": null,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Location unverified — check it's central Plymouth",
+    "Price not read — open listing"
+   ],
+   "date": "2026-10-19"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/20331774/",
+   "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
+   "url": "https://www.onthemarket.com/details/20331774/",
+   "price": 100000,
+   "old_price": 150000,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-10-19"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20577567/",
+   "title": "14 Francis Street, Plymouth, Devon PL1 5JZ",
+   "url": "https://www.onthemarket.com/details/20577567/",
+   "price": 110000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-10-19"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/20072342/",
+   "title": "The Crescent, Plymouth PL1",
+   "url": "https://www.onthemarket.com/details/20072342/",
+   "price": 140000,
+   "old_price": 145000,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-19"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20445525/",
+   "title": "Providence Street, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/20445525/",
+   "price": 160000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-19"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/",
+   "title": "Arcadia Road, Elburton, Plymouth.",
+   "url": "https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/",
+   "price": null,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Price not read — open listing"
+   ],
+   "date": "2026-10-19"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-24T11:59:03Z",
-   "found": 22,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-24T20:34:03Z",
    "found": 21,
@@ -3389,6 +3488,15 @@
    "at": "2026-10-18T19:30:21Z",
    "found": 27,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-19T13:42:07Z",
+   "found": 28,
+   "events": 6,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
