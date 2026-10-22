@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-22T12:07:36Z — 28 active matches._
+_Last run: 2026-10-22T20:38:25Z — 27 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -116,7 +116,6 @@ _Last run: 2026-10-22T12:07:36Z — 28 active matches._
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £140,000 | [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20072342/) | OnTheMarket (portal) | — |
 | £145,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £155,000 | [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -124,6 +123,7 @@ _Last run: 2026-10-22T12:07:36Z — 28 active matches._
 
 ### Recent events
 
+- `2026-10-22` **REMOVED** — [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-10-22` **REMOVED** — [Plot 19 Shell Cove, Dawlish, Devon](https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 - `2026-10-22` **NEW £75,000** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/20320162/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-10-22` **NEW £120,000** — [Stuart Road, Plymouth PL1](https://www.onthemarket.com/details/20494272/) (OnTheMarket (portal))  ⚠ Auction
@@ -148,5 +148,4 @@ _Last run: 2026-10-22T12:07:36Z — 28 active matches._
 - `2026-10-12` **NEW £90,000** — [Torrington Court, North Road East, Plymouth PL4](https://www.onthemarket.com/details/20523746/) (OnTheMarket (portal))
 - `2026-10-12` **NEW £130,000** — [Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4](https://www.onthemarket.com/details/20429563/) (OnTheMarket (portal))
 - `2026-10-12` **NEW £110,000** — [Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4](https://www.onthemarket.com/details/20427496/) (OnTheMarket (portal))
-- `2026-10-12` **NEW £100,000** — [Plymouth City Centre – 6.5% Rental Yields, Plymouth PL1](https://www.onthemarket.com/details/20425980/) (OnTheMarket (portal))
 <!--HUNT:END-->

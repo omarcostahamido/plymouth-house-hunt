@@ -559,7 +559,7 @@
    ],
    "first_seen": "2026-08-05",
    "last_seen": "2026-10-22",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20101752/": {
    "id": "https://www.onthemarket.com/details/20101752/",
@@ -3219,17 +3219,22 @@
     "Price not read — open listing"
    ],
    "date": "2026-10-22"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20072003/",
+   "title": "Seymour Avenue, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/20072003/",
+   "price": 155000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-22"
   }
  ],
  "runs": [
-  {
-   "at": "2026-09-27T20:14:01Z",
-   "found": 22,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-09-28T14:11:51Z",
    "found": 22,
@@ -3630,6 +3635,15 @@
    "at": "2026-10-22T12:07:36Z",
    "found": 28,
    "events": 4,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-22T20:38:25Z",
+   "found": 27,
+   "events": 1,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
