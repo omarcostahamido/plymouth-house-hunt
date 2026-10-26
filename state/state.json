@@ -644,11 +644,13 @@
    "url": "https://www.onthemarket.com/details/20133952/",
    "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
    "price": 80000,
-   "card_text": "Spotlight Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Featured Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Auction Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
-   "flags": [],
+   "flags": [
+    "Auction"
+   ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-26",
    "status": "active"
@@ -1129,7 +1131,7 @@
    "flags": [],
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-26",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20429563/": {
    "id": "https://www.onthemarket.com/details/20429563/",
@@ -1265,6 +1267,20 @@
     "Auction"
    ],
    "first_seen": "2026-10-22",
+   "last_seen": "2026-10-26",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20627767/": {
+   "id": "https://www.onthemarket.com/details/20627767/",
+   "url": "https://www.onthemarket.com/details/20627767/",
+   "title": "6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed",
+   "price": 110000,
+   "card_text": "Added today Offers in region of £110,000 6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed Flat 1 1 7% NET rental yields 17.6% projected regional property price growth by 2030 Online viewing Chain-free RW Invest- Liverpool Added today 0151 382 4452",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-10-26",
    "last_seen": "2026-10-26",
    "status": "active"
   }
@@ -3241,17 +3257,31 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-10-23"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20627767/",
+   "title": "6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed",
+   "url": "https://www.onthemarket.com/details/20627767/",
+   "price": 110000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-26"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20427496/",
+   "title": "Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4",
+   "url": "https://www.onthemarket.com/details/20427496/",
+   "price": 110000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-26"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-01T21:52:46Z",
-   "found": 28,
-   "events": 1,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-02T12:52:12Z",
    "found": 28,
@@ -3660,6 +3690,15 @@
    "at": "2026-10-26T13:20:28Z",
    "found": 26,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-26T21:42:10Z",
+   "found": 26,
+   "events": 2,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
