@@ -182,7 +182,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 110000,
-   "card_text": "Spotlight Property £110,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
+   "card_text": "Featured Property £110,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -834,13 +834,14 @@
    "id": "https://www.onthemarket.com/details/20331774/",
    "url": "https://www.onthemarket.com/details/20331774/",
    "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
-   "price": 100000,
-   "card_text": "Reduced Guide price £100,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Reduced < 14 days 01295 977147",
+   "price": 150000,
+   "card_text": "Guide price £150,000 14 Nelson Street, Plymouth, Devon, PL4 8ND House of multiple occupation 4 2 Tenure: Freehold Auction 1,313 sq ft floor area Town & Country Property Auctions - Bournemouth Added > 14 days 01295 977147",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
    "flags": [
-    "Auction"
+    "Auction",
+    "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-27",
@@ -3279,17 +3280,23 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-10-26"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/20331774/",
+   "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
+   "url": "https://www.onthemarket.com/details/20331774/",
+   "price": 150000,
+   "old_price": 100000,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-27"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-02T21:22:44Z",
-   "found": 28,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-03T11:50:29Z",
    "found": 28,
@@ -3700,6 +3707,15 @@
    "at": "2026-10-27T12:28:25Z",
    "found": 26,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-27T21:25:07Z",
+   "found": 26,
+   "events": 1,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
