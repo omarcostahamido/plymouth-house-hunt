@@ -182,7 +182,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 110000,
-   "card_text": "Spotlight Property £110,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
+   "card_text": "Featured Property £110,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -845,7 +845,7 @@
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-28",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20318352/": {
    "id": "https://www.onthemarket.com/details/20318352/",
@@ -3294,17 +3294,23 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-10-27"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20331774/",
+   "title": "14 Nelson Street, Plymouth, Devon, PL4 8ND",
+   "url": "https://www.onthemarket.com/details/20331774/",
+   "price": 150000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction",
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-10-28"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-03T20:00:55Z",
-   "found": 28,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-04T12:34:15Z",
    "found": 28,
@@ -3717,6 +3723,15 @@
    "at": "2026-10-28T13:15:21Z",
    "found": 26,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-28T21:46:07Z",
+   "found": 25,
+   "events": 1,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"

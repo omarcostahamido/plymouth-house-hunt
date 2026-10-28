@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-10-28T13:15:21Z — 26 active matches._
+_Last run: 2026-10-28T21:46:07Z — 25 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -114,7 +114,6 @@ _Last run: 2026-10-28T13:15:21Z — 26 active matches._
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £140,000 | [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20072342/) | OnTheMarket (portal) | — |
 | £145,000 | [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £150,000 | [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) | OnTheMarket (portal) | Auction; Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -122,6 +121,7 @@ _Last run: 2026-10-28T13:15:21Z — 26 active matches._
 
 ### Recent events
 
+- `2026-10-28` **REMOVED** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-10-27` **PRICE £100,000 → £150,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-10-26` **REMOVED** — [Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4](https://www.onthemarket.com/details/20427496/) (OnTheMarket (portal))
 - `2026-10-26` **NEW £110,000** — [6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed](https://www.onthemarket.com/details/20627767/) (OnTheMarket (portal))
@@ -146,5 +146,4 @@ _Last run: 2026-10-28T13:15:21Z — 26 active matches._
 - `2026-10-15` **REMOVED** — [Arcadia Road, Elburton, Plymouth.](https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/) (Lang Town & Country (agent))  ⚠ Price not read — open listing
 - `2026-10-13` **REMOVED** — [Plymouth PL4](https://www.onthemarket.com/details/20453031/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-10-13` **PRICE £138,000 → £130,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20318352/) (OnTheMarket (portal))
-- `2026-10-12` **REMOVED** — [Stuart Road, Pennycomequick, Plymouth. Stylish Period Apartment with Two Double Bedrooms, Balcony & Share of...](https://www.onthemarket.com/details/20430782/) (OnTheMarket (portal))
 <!--HUNT:END-->
