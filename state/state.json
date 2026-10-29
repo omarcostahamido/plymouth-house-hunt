@@ -181,8 +181,8 @@
    "id": "https://www.onthemarket.com/details/18945894/",
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
-   "price": 110000,
-   "card_text": "Featured Property £110,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
+   "price": 105000,
+   "card_text": "Reduced today £105,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Reduced today 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1276,7 +1276,7 @@
    "url": "https://www.onthemarket.com/details/20627767/",
    "title": "6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed",
    "price": 110000,
-   "card_text": "Recently added Offers in region of £110,000 6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed Flat 1 1 7% NET rental yields 17.6% projected regional property price growth by 2030 Online viewing Chain-free RW Invest- Liverpool Added < 7 days 0151 382 4452",
+   "card_text": "Offers in region of £110,000 6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed Flat 1 1 7% NET rental yields 17.6% projected regional property price growth by 2030 Online viewing Chain-free RW Invest- Liverpool Added < 7 days 0151 382 4452",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3308,17 +3308,20 @@
     "Over budget — stretch (above £140,000)"
    ],
    "date": "2026-10-28"
+  },
+  {
+   "type": "price_change",
+   "id": "https://www.onthemarket.com/details/18945894/",
+   "title": "Grenville Road, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/18945894/",
+   "price": 105000,
+   "old_price": 110000,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-10-29"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-04T20:15:27Z",
-   "found": 28,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-05T14:59:25Z",
    "found": 28,
@@ -3733,6 +3736,15 @@
    "at": "2026-10-29T13:22:12Z",
    "found": 25,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-29T21:53:47Z",
+   "found": 25,
+   "events": 1,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
