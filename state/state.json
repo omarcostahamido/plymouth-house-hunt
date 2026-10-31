@@ -1063,7 +1063,7 @@
    "url": "https://www.onthemarket.com/details/20139475/",
    "title": "Victoria Avenue, Plymouth",
    "price": 160000,
-   "card_text": "Spotlight Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Connells - Plymouth Added > 14 days 01752 259117",
+   "card_text": "Featured Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Chain-free Connells - Plymouth Added > 14 days 01752 259117",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1079,7 +1079,7 @@
    "url": "https://www.onthemarket.com/details/20083635/",
    "title": "Victoria Avenue, Plymouth, Devon, PL1",
    "price": 160000,
-   "card_text": "Featured Property £160,000 Victoria Avenue, Plymouth, Devon, PL1 Terraced house 3 1 Tenure: Freehold Three Bedrooms Period Property Close to Victoria Park Chain-free Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Spotlight Property £160,000 Victoria Avenue, Plymouth, Devon, PL1 Terraced house 3 1 Tenure: Freehold Three Bedrooms Period Property Close to Victoria Park Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3362,14 +3362,6 @@
  ],
  "runs": [
   {
-   "at": "2026-10-06T21:44:52Z",
-   "found": 28,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-10-07T13:37:54Z",
    "found": 29,
    "events": 3,
@@ -3789,6 +3781,15 @@
    "events": 0,
    "failed_sources": [
     "Lang Town & Country (agent)",
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-10-31T20:31:28Z",
+   "found": 23,
+   "events": 0,
+   "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
    ]
