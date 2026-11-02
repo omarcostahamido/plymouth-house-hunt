@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-01T21:17:29Z — 22 active matches._
+_Last run: 2026-11-02T16:19:15Z — 23 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -110,6 +110,7 @@ _Last run: 2026-11-01T21:17:29Z — 22 active matches._
 | £125,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4](https://www.onthemarket.com/details/20429563/) | OnTheMarket (portal) | — |
+| £130,000 | [Plymouth, Devon PL4](https://www.onthemarket.com/details/20673053/) | OnTheMarket (portal) | — |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £145,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -118,6 +119,7 @@ _Last run: 2026-11-01T21:17:29Z — 22 active matches._
 
 ### Recent events
 
+- `2026-11-02` **NEW £130,000** — [Plymouth, Devon PL4](https://www.onthemarket.com/details/20673053/) (OnTheMarket (portal))
 - `2026-11-01` **REMOVED** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20072342/) (OnTheMarket (portal))
 - `2026-11-01` **REMOVED** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-11-01` **NEW £90,000** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
@@ -142,5 +144,4 @@ _Last run: 2026-11-01T21:17:29Z — 22 active matches._
 - `2026-10-19` **PRICE £145,000 → £140,000** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20072342/) (OnTheMarket (portal))
 - `2026-10-19` **NEW £110,000** — [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-10-19` **PRICE £150,000 → £100,000** — [14 Nelson Street, Plymouth, Devon, PL4 8ND](https://www.onthemarket.com/details/20331774/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-10-19` **NEW price n/a** — [Plot 19 Shell Cove, Dawlish, Devon](https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
 <!--HUNT:END-->
