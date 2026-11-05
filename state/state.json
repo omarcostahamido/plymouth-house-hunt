@@ -1063,7 +1063,7 @@
    "url": "https://www.onthemarket.com/details/20139475/",
    "title": "Victoria Avenue, Plymouth",
    "price": 160000,
-   "card_text": "Featured Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Chain-free Connells - Plymouth Added > 14 days 01752 259117",
+   "card_text": "Spotlight Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Connells - Plymouth Added > 14 days 01752 259117",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1304,7 +1304,7 @@
    "url": "https://www.onthemarket.com/details/20673053/",
    "title": "Plymouth, Devon PL4",
    "price": 130000,
-   "card_text": "Recently added Offers over £130,000 Plymouth, Devon PL4 Apartment 2 1 Tenure: Share of freehold (898 years remaining) Spacious top-floor apartment Pilkington Estates - Stoke Added < 7 days 01752 942199",
+   "card_text": "Offers over £130,000 Plymouth, Devon PL4 Apartment 2 1 Tenure: Share of freehold (898 years remaining) Spacious top-floor apartment Pilkington Estates - Stoke Added < 7 days 01752 942199",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1318,7 +1318,7 @@
    "url": "https://www.onthemarket.com/details/20675025/",
    "title": "Hotham Place, Plymouth, Devon, PL1",
    "price": 150000,
-   "card_text": "Recently added £150,000 Hotham Place, Plymouth, Devon, PL1 Terraced house 2 1 Tenure: Freehold Auction Chain-free Nearest station 0.6mi. Nearest school 0.1mi. Miller - Plymouth Added < 7 days 01752 259485",
+   "card_text": "Featured Property £150,000 Hotham Place, Plymouth, Devon, PL1 Terraced house 2 1 Tenure: Freehold Auction Chain-free Nearest station 0.6mi. Nearest school 0.1mi. Miller - Plymouth Added < 7 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3581,14 +3581,6 @@
  ],
  "runs": [
   {
-   "at": "2026-10-11T21:00:29Z",
-   "found": 26,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-10-12T15:46:02Z",
    "found": 29,
    "events": 5,
@@ -4017,6 +4009,15 @@
    "at": "2026-11-05T14:49:40Z",
    "found": 25,
    "events": 4,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-05T22:44:35Z",
+   "found": 25,
+   "events": 0,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
