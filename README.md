@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-06T14:27:14Z — 24 active matches._
+_Last run: 2026-11-06T22:12:55Z — 24 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -98,7 +98,6 @@ _Last run: 2026-11-06T14:27:14Z — 24 active matches._
 | £80,000 | [Hill Park Crescent, Mutley, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20133952/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £90,000 | [Bayswater Road, Devon PL1](https://www.onthemarket.com/details/17863187/) | OnTheMarket (portal) | — |
-| £90,000 | [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) | OnTheMarket (portal) | — |
 | £90,000 | [41 Prince Maurice Road, Plymouth, Devon, PL4 7LJ](https://www.onthemarket.com/details/20695964/) | OnTheMarket (portal) | Auction |
 | £100,000 | [Fully Managed Plymouth Flat, Plymouth City Centre](https://www.onthemarket.com/details/20425980/) | OnTheMarket (portal) | — |
 | £105,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
@@ -111,8 +110,9 @@ _Last run: 2026-11-06T14:27:14Z — 24 active matches._
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Plymouth, Devon PL4](https://www.onthemarket.com/details/20673053/) | OnTheMarket (portal) | — |
 | £130,000 | [Hands Off Plymouth Apartment, Plymouth](https://www.onthemarket.com/details/20696474/) | OnTheMarket (portal) | — |
+| £135,000 | [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) | OnTheMarket (portal) | Auction |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
-| £140,000 | [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) | OnTheMarket (portal) | Auction |
+| £140,000 | [39 Alexandra Road, Mutley, Plymouth, Devon PL4 7EE](https://www.onthemarket.com/details/20707264/) | OnTheMarket (portal) | Auction |
 | £145,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £155,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -120,6 +120,9 @@ _Last run: 2026-11-06T14:27:14Z — 24 active matches._
 
 ### Recent events
 
+- `2026-11-06` **REMOVED** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
+- `2026-11-06` **NEW £140,000** — [39 Alexandra Road, Mutley, Plymouth, Devon PL4 7EE](https://www.onthemarket.com/details/20707264/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-11-06` **PRICE £140,000 → £135,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-06` **REMOVED** — [Torrington Court, North Road East, Plymouth PL4](https://www.onthemarket.com/details/20523746/) (OnTheMarket (portal))
 - `2026-11-06` **PRICE £150,000 → £140,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-05` **REMOVED** — [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/20676273/) (OnTheMarket (portal))
@@ -142,7 +145,4 @@ _Last run: 2026-11-06T14:27:14Z — 24 active matches._
 - `2026-10-26` **REMOVED** — [Plymouth University Quarter – 6.5% Rental Yields, Plymouth PL4](https://www.onthemarket.com/details/20427496/) (OnTheMarket (portal))
 - `2026-10-26` **NEW £110,000** — [6.5% Yield | University Quarter, Plymouth – Stylish 1 Bed](https://www.onthemarket.com/details/20627767/) (OnTheMarket (portal))
 - `2026-10-23` **REMOVED** — [Embankment Road, Plymouth PL4](https://www.onthemarket.com/details/19864508/) (OnTheMarket (portal))
-- `2026-10-22` **REMOVED** — [Seymour Avenue, Plymouth PL4](https://www.onthemarket.com/details/20072003/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-10-22` **REMOVED** — [Plot 19 Shell Cove, Dawlish, Devon](https://www.langtownandcountry.com/property/plot-19-shell-cove-dawlish-devon/) (Lang Town & Country (agent))  ⚠ Location unverified — check it's central Plymouth; Price not read — open listing
-- `2026-10-22` **NEW £75,000** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/20320162/) (OnTheMarket (portal))  ⚠ Auction
 <!--HUNT:END-->
