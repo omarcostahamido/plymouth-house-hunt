@@ -644,13 +644,11 @@
    "url": "https://www.onthemarket.com/details/20133952/",
    "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
    "price": 80000,
-   "card_text": "Featured Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Auction Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Spotlight Property Guide price £80,000 Hill Park Crescent, Mutley, Plymouth, Devon, PL4 Flat 2 1 Tenure: Share of freehold (989 years remaining) Top Floor Apartment 900 Years Remaining on the Lease Share of Freehold Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
-   "flags": [
-    "Auction"
-   ],
+   "flags": [],
    "first_seen": "2026-08-13",
    "last_seen": "2026-11-07",
    "status": "active"
@@ -687,7 +685,7 @@
    "url": "https://www.onthemarket.com/details/20169397/",
    "title": "Ebrington Street, Plymouth, Devon, PL4",
    "price": 90000,
-   "card_text": "Spotlight Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Featured Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Chain-free Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3657,14 +3655,6 @@
  ],
  "runs": [
   {
-   "at": "2026-10-13T21:54:09Z",
-   "found": 27,
-   "events": 0,
-   "failed_sources": [
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-10-14T12:08:23Z",
    "found": 27,
    "events": 0,
@@ -4095,6 +4085,15 @@
   },
   {
    "at": "2026-11-07T13:20:04Z",
+   "found": 24,
+   "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-07T21:00:22Z",
    "found": 24,
    "events": 0,
    "failed_sources": [
