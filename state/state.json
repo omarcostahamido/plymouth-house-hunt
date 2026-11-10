@@ -687,7 +687,7 @@
    "url": "https://www.onthemarket.com/details/20169397/",
    "title": "Ebrington Street, Plymouth, Devon, PL4",
    "price": 90000,
-   "card_text": "Featured Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Chain-free Miller - Plymouth Added > 14 days 01752 259485",
+   "card_text": "Spotlight Property Guide price £90,000 Ebrington Street, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (978 years remaining) Tenant in situ Rental income: £550 PCM (£6,600 per annum) No onward chain Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1297,7 +1297,7 @@
    "flags": [],
    "first_seen": "2026-11-01",
    "last_seen": "2026-11-10",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20673053/": {
    "id": "https://www.onthemarket.com/details/20673053/",
@@ -1386,6 +1386,22 @@
     "Auction"
    ],
    "first_seen": "2026-11-06",
+   "last_seen": "2026-11-10",
+   "status": "active"
+  },
+  "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/": {
+   "id": "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/",
+   "url": "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/",
+   "title": "St. James Place West, The Hoe, Plymouth",
+   "price": 150000,
+   "card_text": "St. James Place West, The Hoe, Plymouth A beautifully presented first-floor flat finished to a high standard, offering a spacious double bedroom, modern shower room and bright, open-plan lounge/kitchen/diner. Further benefits include a 50% share of the freehold, no current monthly maintenance charges, excellent storage and permit parking.",
+   "source": "langtownandcountry",
+   "source_name": "Lang Town & Country (agent)",
+   "is_letting": false,
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "first_seen": "2026-11-10",
    "last_seen": "2026-11-10",
    "status": "active"
   }
@@ -3653,18 +3669,33 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-11-06"
+  },
+  {
+   "type": "new",
+   "id": "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/",
+   "title": "St. James Place West, The Hoe, Plymouth",
+   "url": "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/",
+   "price": 150000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-11-10"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/17879716/",
+   "title": "Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.",
+   "url": "https://www.onthemarket.com/details/17879716/",
+   "price": 90000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-11-10"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-16T11:38:52Z",
-   "found": 27,
-   "events": 1,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-16T20:00:21Z",
    "found": 27,
@@ -4102,6 +4133,15 @@
    "at": "2026-11-10T00:46:16Z",
    "found": 25,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-10T15:04:40Z",
+   "found": 25,
+   "events": 2,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
