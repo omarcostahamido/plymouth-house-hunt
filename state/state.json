@@ -71,7 +71,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19700445/": {
@@ -188,7 +188,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19649536/": {
@@ -196,7 +196,7 @@
    "url": "https://www.onthemarket.com/details/19649536/",
    "title": "Bayswater Road, Plymouth PL1",
    "price": 155000,
-   "card_text": "Reduced Offers over £155,000 Bayswater Road, Plymouth PL1 Terraced house 3 1 Tenure: Freehold Mid terrace victorian home Lawson Estate Agents - Plymouth Reduced < 7 days 01752 948730",
+   "card_text": "Reduced Offers over £155,000 Bayswater Road, Plymouth PL1 Terraced house 3 1 Tenure: Freehold Mid terrace victorian home Lawson Estate Agents - Plymouth Reduced < 14 days 01752 948730",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -204,7 +204,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19856242/": {
@@ -248,7 +248,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19775476/": {
@@ -425,7 +425,7 @@
     "Shared ownership / share price"
    ],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/17171237/": {
@@ -439,7 +439,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-07-23",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/16705428/": {
@@ -574,7 +574,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-08-10",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/19375488/": {
@@ -653,7 +653,7 @@
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-11-10",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/": {
    "id": "https://www.langtownandcountry.com/property/citadel-road-hoe-court-the-hoe/",
@@ -696,7 +696,7 @@
     "Might be a letting, not a sale (agent feeds mix both)"
    ],
    "first_seen": "2026-08-19",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20190673/": {
@@ -902,7 +902,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-09-21",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20389612/": {
@@ -992,7 +992,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-09-29",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.langtownandcountry.com/property/southside-street-the-barbican-plymouth-79/": {
@@ -1023,7 +1023,7 @@
     "Auction"
    ],
    "first_seen": "2026-09-30",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20445525/": {
@@ -1071,7 +1071,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-10-07",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20083635/": {
@@ -1087,7 +1087,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-10-07",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.langtownandcountry.com/property/arcadia-road-elburton-plymouth/": {
@@ -1117,7 +1117,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20427496/": {
@@ -1173,7 +1173,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20072342/": {
@@ -1220,7 +1220,7 @@
     "Auction"
    ],
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/gleaner-close-plymouth/gleaner-close-plymouth/": {
@@ -1236,7 +1236,7 @@
     "Shared ownership / share price"
    ],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20494272/": {
@@ -1282,7 +1282,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/17879716/": {
@@ -1296,8 +1296,8 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-10",
-   "status": "removed"
+   "last_seen": "2026-11-11",
+   "status": "active"
   },
   "https://www.onthemarket.com/details/20673053/": {
    "id": "https://www.onthemarket.com/details/20673053/",
@@ -1311,7 +1311,7 @@
    "flags": [],
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-10",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20675025/": {
    "id": "https://www.onthemarket.com/details/20675025/",
@@ -1326,7 +1326,7 @@
     "Auction"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20676273/": {
@@ -1354,7 +1354,7 @@
    "has_address": true,
    "flags": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20695964/": {
@@ -1370,7 +1370,7 @@
     "Auction"
    ],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.onthemarket.com/details/20707264/": {
@@ -1386,7 +1386,7 @@
     "Auction"
    ],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   },
   "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/": {
@@ -1401,7 +1401,7 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "active"
   }
  },
@@ -3692,18 +3692,33 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-11-10"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20133952/",
+   "title": "Hill Park Crescent, Mutley, Plymouth, Devon, PL4",
+   "url": "https://www.onthemarket.com/details/20133952/",
+   "price": 80000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-11-11"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.onthemarket.com/details/20673053/",
+   "title": "Plymouth, Devon PL4",
+   "url": "https://www.onthemarket.com/details/20673053/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-11-11"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-17T10:59:21Z",
-   "found": 27,
-   "events": 0,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-17T19:32:22Z",
    "found": 28,
@@ -4141,6 +4156,15 @@
    "at": "2026-11-10T22:26:58Z",
    "found": 25,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-11T14:34:56Z",
+   "found": 24,
+   "events": 2,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
