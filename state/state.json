@@ -1237,7 +1237,7 @@
    ],
    "first_seen": "2026-10-22",
    "last_seen": "2026-11-11",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20494272/": {
    "id": "https://www.onthemarket.com/details/20494272/",
@@ -1401,6 +1401,22 @@
     "Over budget — stretch (above £140,000)"
    ],
    "first_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
+   "status": "active"
+  },
+  "https://www.onthemarket.com/details/20738902/": {
+   "id": "https://www.onthemarket.com/details/20738902/",
+   "url": "https://www.onthemarket.com/details/20738902/",
+   "title": "Alexandra Road,Mutley,Plymouth,PL4 7EE",
+   "price": 140000,
+   "card_text": "Added today Guide price £140,000 Alexandra Road,Mutley,Plymouth,PL4 7EE Terraced house 4 2 Tenure: Freehold FOR SALE BY AUCTION on 26th NOVEMBER 2026 Auction Chain-free Cash buyers only Homes by the Estate Agents - Plymouth Added today",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction"
+   ],
+   "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
    "status": "active"
   }
@@ -3716,18 +3732,35 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-11-11"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20738902/",
+   "title": "Alexandra Road,Mutley,Plymouth,PL4 7EE",
+   "url": "https://www.onthemarket.com/details/20738902/",
+   "price": 140000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-11-11"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/gleaner-close-plymouth/gleaner-close-plymouth/",
+   "title": "Gleaner Close, Plymouth",
+   "url": "https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/gleaner-close-plymouth/gleaner-close-plymouth/",
+   "price": 114750,
+   "old_price": null,
+   "source": "SO Living / Plymouth Community Homes (shared-ownership resales)",
+   "flags": [
+    "Shared ownership / share price"
+   ],
+   "date": "2026-11-11"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-17T19:32:22Z",
-   "found": 28,
-   "events": 0,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-18T11:24:50Z",
    "found": 27,
@@ -4163,6 +4196,15 @@
   },
   {
    "at": "2026-11-11T14:34:56Z",
+   "found": 24,
+   "events": 2,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-11T23:32:46Z",
    "found": 24,
    "events": 2,
    "failed_sources": [
