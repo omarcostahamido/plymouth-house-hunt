@@ -986,7 +986,7 @@
    "url": "https://www.onthemarket.com/details/20434701/",
    "title": "Arundel Crescent, Devon PL1",
    "price": 110000,
-   "card_text": "Reduced today Offers over £110,000 Arundel Crescent, Devon PL1 Flat 2 2 Tenure: Share of freehold (83 years remaining) One Bedroom with En-suite Shower Room Chain-free Study Your Move - Plymouth Reduced today 01752 942905",
+   "card_text": "Reduced today Offers over £110,000 Arundel Crescent, Devon PL1 Flat 2 2 Tenure: Share of freehold (993 years remaining) One Bedroom with En-suite Shower Room Chain-free Study Your Move - Plymouth Reduced today 01752 942905",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1063,7 +1063,7 @@
    "url": "https://www.onthemarket.com/details/20139475/",
    "title": "Victoria Avenue, Plymouth",
    "price": 160000,
-   "card_text": "Spotlight Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Connells - Plymouth Added > 14 days 01752 259117",
+   "card_text": "Featured Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Chain-free Connells - Plymouth Added > 14 days 01752 259117",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3786,15 +3786,6 @@
  ],
  "runs": [
   {
-   "at": "2026-10-18T19:30:21Z",
-   "found": 27,
-   "events": 0,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-10-19T13:42:07Z",
    "found": 28,
    "events": 6,
@@ -4231,6 +4222,15 @@
    "at": "2026-11-12T15:28:04Z",
    "found": 23,
    "events": 2,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-12T22:48:02Z",
+   "found": 23,
+   "events": 0,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
