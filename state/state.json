@@ -1063,7 +1063,7 @@
    "url": "https://www.onthemarket.com/details/20139475/",
    "title": "Victoria Avenue, Plymouth",
    "price": 160000,
-   "card_text": "Spotlight Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Connells - Plymouth Added > 14 days 01752 259117",
+   "card_text": "Featured Property £160,000 Victoria Avenue, Plymouth Terraced house 3 1 Tenure: Freehold Popular residential location Three bedroom mid terrace property Two reception rooms Chain-free Connells - Plymouth Added > 14 days 01752 259117",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -1402,7 +1402,7 @@
    ],
    "first_seen": "2026-11-10",
    "last_seen": "2026-11-13",
-   "status": "active"
+   "status": "removed"
   },
   "https://www.onthemarket.com/details/20738902/": {
    "id": "https://www.onthemarket.com/details/20738902/",
@@ -1419,6 +1419,20 @@
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
    "status": "removed"
+  },
+  "https://www.onthemarket.com/details/20756660/": {
+   "id": "https://www.onthemarket.com/details/20756660/",
+   "url": "https://www.onthemarket.com/details/20756660/",
+   "title": "Wyndham Square, Stonehouse, Plymouth. Spacious 3 bedroom maisonette in a central location sold with no chain!!",
+   "price": 130000,
+   "card_text": "Added today Guide price £130,000 Wyndham Square, Stonehouse, Plymouth. Spacious 3 bedroom maisonette in a central location sold with no chain!! Apartment 3 1 Spacious 3 bedroom maisonette in a central location sold with no chain!! Living Room Chain-free Falcon Property - Plymouth Added today 01752 948765",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [],
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "status": "active"
   }
  },
  "events": [
@@ -3782,18 +3796,33 @@
     "Auction"
    ],
    "date": "2026-11-12"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20756660/",
+   "title": "Wyndham Square, Stonehouse, Plymouth. Spacious 3 bedroom maisonette in a central location sold with no chain!!",
+   "url": "https://www.onthemarket.com/details/20756660/",
+   "price": 130000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [],
+   "date": "2026-11-13"
+  },
+  {
+   "type": "removed",
+   "id": "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/",
+   "title": "St. James Place West, The Hoe, Plymouth",
+   "url": "https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/",
+   "price": 150000,
+   "old_price": null,
+   "source": "Lang Town & Country (agent)",
+   "flags": [
+    "Over budget — stretch (above £140,000)"
+   ],
+   "date": "2026-11-13"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-19T21:37:12Z",
-   "found": 28,
-   "events": 0,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-20T11:52:37Z",
    "found": 28,
@@ -4231,6 +4260,15 @@
    "at": "2026-11-13T14:44:38Z",
    "found": 23,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-13T22:44:03Z",
+   "found": 23,
+   "events": 2,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"

@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-13T14:44:38Z — 23 active matches._
+_Last run: 2026-11-13T22:44:03Z — 23 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -108,17 +108,19 @@ _Last run: 2026-11-13T14:44:38Z — 23 active matches._
 | £125,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
 | £130,000 | [Laira Street, St Judes, Plymouth. Prime City-Centre Project – Spacious 3 Double Bedroom Home Packed with Potential](https://www.onthemarket.com/details/19776211/) | OnTheMarket (portal) | — |
 | £130,000 | [Hands Off Plymouth Apartment, Plymouth](https://www.onthemarket.com/details/20696474/) | OnTheMarket (portal) | — |
+| £130,000 | [Wyndham Square, Stonehouse, Plymouth. Spacious 3 bedroom maisonette in a central location sold with no chain!!](https://www.onthemarket.com/details/20756660/) | OnTheMarket (portal) | — |
 | £135,000 | [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) | OnTheMarket (portal) | Auction |
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £140,000 | [39 Alexandra Road, Mutley, Plymouth, Devon PL4 7EE](https://www.onthemarket.com/details/20707264/) | OnTheMarket (portal) | Auction |
 | £145,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
-| £150,000 | [St. James Place West, The Hoe, Plymouth](https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/) | Lang Town & Country (agent) | Over budget — stretch (above £140,000) |
 | £155,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20083635/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-11-13` **REMOVED** — [St. James Place West, The Hoe, Plymouth](https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
+- `2026-11-13` **NEW £130,000** — [Wyndham Square, Stonehouse, Plymouth. Spacious 3 bedroom maisonette in a central location sold with no chain!!](https://www.onthemarket.com/details/20756660/) (OnTheMarket (portal))
 - `2026-11-12` **REMOVED** — [Alexandra Road,Mutley,Plymouth,PL4 7EE](https://www.onthemarket.com/details/20738902/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-12` **PRICE £120,000 → £110,000** — [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) (OnTheMarket (portal))
 - `2026-11-11` **REMOVED** — [Gleaner Close, Plymouth](https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/gleaner-close-plymouth/gleaner-close-plymouth/) (SO Living / Plymouth Community Homes (shared-ownership resales))  ⚠ Shared ownership / share price
@@ -142,6 +144,4 @@ _Last run: 2026-11-13T14:44:38Z — 23 active matches._
 - `2026-11-02` **NEW £130,000** — [Plymouth, Devon PL4](https://www.onthemarket.com/details/20673053/) (OnTheMarket (portal))
 - `2026-11-01` **REMOVED** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20072342/) (OnTheMarket (portal))
 - `2026-11-01` **REMOVED** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-11-01` **NEW £90,000** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
-- `2026-10-30` **REMOVED** — [Prince Maurice Road, Plymouth PL4](https://www.onthemarket.com/details/20320162/) (OnTheMarket (portal))  ⚠ Auction
 <!--HUNT:END-->
