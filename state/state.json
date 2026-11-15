@@ -182,7 +182,7 @@
    "url": "https://www.onthemarket.com/details/18945894/",
    "title": "Grenville Road, Plymouth, Devon, PL4",
    "price": 105000,
-   "card_text": "Spotlight Property £105,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
+   "card_text": "Featured Property £105,000 Grenville Road, Plymouth, Devon, PL4 Flat 1 1 Tenure: Share of freehold (998 years remaining) Nearest station 1.1mi. Nearest school 0.2mi. Fulfords - Plymouth Added > 14 days 01752 259982",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -566,7 +566,7 @@
    "url": "https://www.onthemarket.com/details/20101752/",
    "title": "The Barbican, Plymouth",
    "price": 145000,
-   "card_text": "Featured Property Offers over £145,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom Chain-free haart Estate Agents - Plymouth Added > 14 days 01752 948694",
+   "card_text": "Spotlight Property Offers over £145,000 The Barbican, Plymouth Apartment 1 1 Tenure: Share of freehold Beautifully Presented Apartment Situated on the Historic Barbican One Large Double Bedroom haart Estate Agents - Plymouth Added > 14 days 01752 948694",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3824,15 +3824,6 @@
  ],
  "runs": [
   {
-   "at": "2026-10-21T20:44:02Z",
-   "found": 26,
-   "events": 2,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-10-22T12:07:36Z",
    "found": 28,
    "events": 4,
@@ -4267,6 +4258,15 @@
   },
   {
    "at": "2026-11-15T14:08:37Z",
+   "found": 23,
+   "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-15T21:55:33Z",
    "found": 23,
    "events": 0,
    "failed_sources": [
