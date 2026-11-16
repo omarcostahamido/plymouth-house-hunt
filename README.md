@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-15T21:55:33Z — 23 active matches._
+_Last run: 2026-11-16T16:07:53Z — 22 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -97,12 +97,11 @@ _Last run: 2026-11-15T21:55:33Z — 23 active matches._
 | £70,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20447369/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £90,000 | [Bayswater Road, Devon PL1](https://www.onthemarket.com/details/17863187/) | OnTheMarket (portal) | — |
-| £90,000 | [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) | OnTheMarket (portal) | — |
 | £90,000 | [41 Prince Maurice Road, Plymouth, Devon, PL4 7LJ](https://www.onthemarket.com/details/20695964/) | OnTheMarket (portal) | Auction |
 | £100,000 | [Fully Managed Plymouth Flat, Plymouth City Centre](https://www.onthemarket.com/details/20425980/) | OnTheMarket (portal) | — |
+| £100,000 | [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) | OnTheMarket (portal) | Auction |
 | £105,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £110,000 | [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) | OnTheMarket (portal) | — |
-| £110,000 | [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) | OnTheMarket (portal) | Auction |
 | £110,000 | [Hands Off Plymouth Apartment, Plymouth](https://www.onthemarket.com/details/20627767/) | OnTheMarket (portal) | — |
 | £120,000 | [Ladysmith Road, Plymouth](https://www.onthemarket.com/details/20381777/) | OnTheMarket (portal) | — |
 | £125,000 | [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) | OnTheMarket (portal) | — |
@@ -119,6 +118,8 @@ _Last run: 2026-11-15T21:55:33Z — 23 active matches._
 
 ### Recent events
 
+- `2026-11-16` **REMOVED** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
+- `2026-11-16` **PRICE £110,000 → £100,000** — [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-13` **REMOVED** — [St. James Place West, The Hoe, Plymouth](https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-11-13` **NEW £130,000** — [Wyndham Square, Stonehouse, Plymouth. Spacious 3 bedroom maisonette in a central location sold with no chain!!](https://www.onthemarket.com/details/20756660/) (OnTheMarket (portal))
 - `2026-11-12` **REMOVED** — [Alexandra Road,Mutley,Plymouth,PL4 7EE](https://www.onthemarket.com/details/20738902/) (OnTheMarket (portal))  ⚠ Auction
@@ -142,6 +143,4 @@ _Last run: 2026-11-15T21:55:33Z — 23 active matches._
 - `2026-11-04` **PRICE £160,000 → £155,000** — [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-11-02` **NEW £150,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 - `2026-11-02` **NEW £130,000** — [Plymouth, Devon PL4](https://www.onthemarket.com/details/20673053/) (OnTheMarket (portal))
-- `2026-11-01` **REMOVED** — [The Crescent, Plymouth PL1](https://www.onthemarket.com/details/20072342/) (OnTheMarket (portal))
-- `2026-11-01` **REMOVED** — [Providence Street, Plymouth PL4](https://www.onthemarket.com/details/20071962/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 <!--HUNT:END-->
