@@ -1433,22 +1433,25 @@
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-19",
    "status": "active"
+  },
+  "https://www.onthemarket.com/details/20788352/": {
+   "id": "https://www.onthemarket.com/details/20788352/",
+   "url": "https://www.onthemarket.com/details/20788352/",
+   "title": "18 Providence Street, Plymouth, Devon, PL4 8JG",
+   "price": 95000,
+   "card_text": "Added today Guide price £95,000 18 Providence Street, Plymouth, Devon, PL4 8JG Terraced house 2 Tenure: Freehold Auction Nearest station 0.4mi. Auction House London - Hampstead Added today 020 8022 1911",
+   "source": "onthemarket",
+   "source_name": "OnTheMarket (portal)",
+   "has_address": true,
+   "flags": [
+    "Auction"
+   ],
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "status": "active"
   }
  },
  "events": [
-  {
-   "type": "new",
-   "id": "https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/",
-   "title": "Thompson Road, Plymouth*",
-   "url": "https://www.so-living.co.uk/find-a-home/our-developments/devon/homes-for-resale-devon/thompson-road-plymouthstar/thompson-road-plymouthstar/",
-   "price": 100000,
-   "old_price": null,
-   "source": "SO Living / Plymouth Community Homes (shared-ownership resales)",
-   "flags": [
-    "Shared ownership / share price"
-   ],
-   "date": "2026-07-23"
-  },
   {
    "type": "new",
    "id": "https://www.onthemarket.com/details/19961185/",
@@ -3844,18 +3847,22 @@
    "source": "OnTheMarket (portal)",
    "flags": [],
    "date": "2026-11-16"
+  },
+  {
+   "type": "new",
+   "id": "https://www.onthemarket.com/details/20788352/",
+   "title": "18 Providence Street, Plymouth, Devon, PL4 8JG",
+   "url": "https://www.onthemarket.com/details/20788352/",
+   "price": 95000,
+   "old_price": null,
+   "source": "OnTheMarket (portal)",
+   "flags": [
+    "Auction"
+   ],
+   "date": "2026-11-19"
   }
  ],
  "runs": [
-  {
-   "at": "2026-10-25T19:46:50Z",
-   "found": 26,
-   "events": 0,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
   {
    "at": "2026-10-26T13:20:28Z",
    "found": 26,
@@ -4295,6 +4302,15 @@
    "at": "2026-11-19T15:55:32Z",
    "found": 23,
    "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-19T23:39:56Z",
+   "found": 24,
+   "events": 1,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"

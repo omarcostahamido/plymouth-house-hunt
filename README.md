@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-19T15:55:32Z — 23 active matches._
+_Last run: 2026-11-19T23:39:56Z — 24 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -98,6 +98,7 @@ _Last run: 2026-11-19T15:55:32Z — 23 active matches._
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £90,000 | [Bayswater Road, Devon PL1](https://www.onthemarket.com/details/17863187/) | OnTheMarket (portal) | — |
 | £90,000 | [41 Prince Maurice Road, Plymouth, Devon, PL4 7LJ](https://www.onthemarket.com/details/20695964/) | OnTheMarket (portal) | Auction |
+| £95,000 | [18 Providence Street, Plymouth, Devon, PL4 8JG](https://www.onthemarket.com/details/20788352/) | OnTheMarket (portal) | Auction |
 | £100,000 | [Fully Managed Plymouth Flat, Plymouth City Centre](https://www.onthemarket.com/details/20425980/) | OnTheMarket (portal) | — |
 | £100,000 | [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) | OnTheMarket (portal) | Auction |
 | £105,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
@@ -119,6 +120,7 @@ _Last run: 2026-11-19T15:55:32Z — 23 active matches._
 
 ### Recent events
 
+- `2026-11-19` **NEW £95,000** — [18 Providence Street, Plymouth, Devon, PL4 8JG](https://www.onthemarket.com/details/20788352/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-16` **REMOVED** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
 - `2026-11-16` **PRICE £110,000 → £100,000** — [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-13` **REMOVED** — [St. James Place West, The Hoe, Plymouth](https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
@@ -143,5 +145,4 @@ _Last run: 2026-11-19T15:55:32Z — 23 active matches._
 - `2026-11-04` **NEW £130,000** — [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/20676273/) (OnTheMarket (portal))
 - `2026-11-04` **PRICE £160,000 → £155,000** — [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-11-02` **NEW £150,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
-- `2026-11-02` **NEW £130,000** — [Plymouth, Devon PL4](https://www.onthemarket.com/details/20673053/) (OnTheMarket (portal))
 <!--HUNT:END-->
