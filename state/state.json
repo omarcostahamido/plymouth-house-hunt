@@ -1318,7 +1318,7 @@
    "url": "https://www.onthemarket.com/details/20675025/",
    "title": "Hotham Place, Plymouth, Devon, PL1",
    "price": 135000,
-   "card_text": "Reduced Guide price £135,000 Hotham Place, Plymouth, Devon, PL1 Terraced house 2 1 Tenure: Freehold Auction Chain-free Nearest station 0.6mi. Nearest school 0.1mi. Miller - Plymouth Reduced > 14 days 01752 259485",
+   "card_text": "Featured Property Guide price £135,000 Hotham Place, Plymouth, Devon, PL1 Terraced house 2 1 Tenure: Freehold Auction Chain-free Nearest station 0.6mi. Nearest school 0.1mi. Miller - Plymouth Added > 14 days 01752 259485",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3882,15 +3882,6 @@
  ],
  "runs": [
   {
-   "at": "2026-10-26T21:42:10Z",
-   "found": 26,
-   "events": 2,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-10-27T12:28:25Z",
    "found": 26,
    "events": 0,
@@ -4329,6 +4320,15 @@
    "at": "2026-11-20T15:38:56Z",
    "found": 25,
    "events": 1,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-20T23:12:50Z",
+   "found": 25,
+   "events": 0,
    "failed_sources": [
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
