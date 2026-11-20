@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-19T23:39:56Z — 24 active matches._
+_Last run: 2026-11-20T15:38:56Z — 25 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -117,9 +117,11 @@ _Last run: 2026-11-19T23:39:56Z — 24 active matches._
 | £155,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20083635/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
+| £160,000 | [Alvington Street, Plymouth PL4](https://www.onthemarket.com/details/20376135/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 
 ### Recent events
 
+- `2026-11-20` **NEW £160,000** — [Alvington Street, Plymouth PL4](https://www.onthemarket.com/details/20376135/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
 - `2026-11-19` **NEW £95,000** — [18 Providence Street, Plymouth, Devon, PL4 8JG](https://www.onthemarket.com/details/20788352/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-16` **REMOVED** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
 - `2026-11-16` **PRICE £110,000 → £100,000** — [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) (OnTheMarket (portal))  ⚠ Auction
@@ -144,5 +146,4 @@ _Last run: 2026-11-19T23:39:56Z — 24 active matches._
 - `2026-11-05` **NEW £130,000** — [Hands Off Plymouth Apartment, Plymouth](https://www.onthemarket.com/details/20696474/) (OnTheMarket (portal))
 - `2026-11-04` **NEW £130,000** — [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/20676273/) (OnTheMarket (portal))
 - `2026-11-04` **PRICE £160,000 → £155,000** — [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) (OnTheMarket (portal))  ⚠ Over budget — stretch (above £140,000)
-- `2026-11-02` **NEW £150,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction; Over budget — stretch (above £140,000)
 <!--HUNT:END-->
