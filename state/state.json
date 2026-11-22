@@ -1439,7 +1439,7 @@
    "url": "https://www.onthemarket.com/details/20788352/",
    "title": "18 Providence Street, Plymouth, Devon, PL4 8JG",
    "price": 95000,
-   "card_text": "Recently added Guide price £95,000 18 Providence Street, Plymouth, Devon, PL4 8JG Terraced house 2 Tenure: Freehold Auction Nearest station 0.4mi. Auction House London - Hampstead Added < 7 days 020 8022 1911",
+   "card_text": "Guide price £95,000 18 Providence Street, Plymouth, Devon, PL4 8JG Terraced house 2 Tenure: Freehold Auction Nearest station 0.4mi. Auction House London - Hampstead Added < 7 days 020 8022 1911",
    "source": "onthemarket",
    "source_name": "OnTheMarket (portal)",
    "has_address": true,
@@ -3882,15 +3882,6 @@
  ],
  "runs": [
   {
-   "at": "2026-10-28T21:46:07Z",
-   "found": 25,
-   "events": 1,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-10-29T13:22:12Z",
    "found": 25,
    "events": 0,
@@ -4327,6 +4318,15 @@
   },
   {
    "at": "2026-11-22T14:45:13Z",
+   "found": 25,
+   "events": 0,
+   "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-22T22:36:14Z",
    "found": 25,
    "events": 0,
    "failed_sources": [
