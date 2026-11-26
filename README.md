@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-25T17:27:19Z — 23 active matches._
+_Last run: 2026-11-26T17:07:42Z — 24 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -111,6 +111,7 @@ _Last run: 2026-11-25T17:27:19Z — 23 active matches._
 | £140,000 | [Exeter Street, Chain-Free|Two Double Bedrooms,  Balcony , Prime City Centre Location](https://www.onthemarket.com/details/17171237/) | OnTheMarket (portal) | — |
 | £140,000 | [39 Alexandra Road, Mutley, Plymouth, Devon PL4 7EE](https://www.onthemarket.com/details/20707264/) | OnTheMarket (portal) | Auction |
 | £140,000 | [Alexandra Road,Mutley,Plymouth,PL4 7EE](https://www.onthemarket.com/details/20738902/) | OnTheMarket (portal) | Auction |
+| £140,000 | [3 Blenheim Road, Plymouth, Devon](https://www.onthemarket.com/details/20820407/) | OnTheMarket (portal) | Auction |
 | £145,000 | [The Barbican, Plymouth](https://www.onthemarket.com/details/20101752/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £155,000 | [Bayswater Road, Plymouth PL1](https://www.onthemarket.com/details/19649536/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
 | £160,000 | [Victoria Avenue, Plymouth](https://www.onthemarket.com/details/20139475/) | OnTheMarket (portal) | Over budget — stretch (above £140,000) |
@@ -119,6 +120,7 @@ _Last run: 2026-11-25T17:27:19Z — 23 active matches._
 
 ### Recent events
 
+- `2026-11-26` **NEW £140,000** — [3 Blenheim Road, Plymouth, Devon](https://www.onthemarket.com/details/20820407/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-25` **REMOVED** — [41 Prince Maurice Road, Plymouth, Devon, PL4 7LJ](https://www.onthemarket.com/details/20695964/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-25` **REMOVED** — [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) (OnTheMarket (portal))
 - `2026-11-25` **REMOVED** — [FFF, 16 Bishops Place, The Hoe Plymouth. Contemporary coastal living close to Plymouth Hoe and the vibrant waterfront.](https://www.onthemarket.com/details/19932652/) (OnTheMarket (portal))
@@ -143,5 +145,4 @@ _Last run: 2026-11-25T17:27:19Z — 23 active matches._
 - `2026-11-06` **NEW £140,000** — [39 Alexandra Road, Mutley, Plymouth, Devon PL4 7EE](https://www.onthemarket.com/details/20707264/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-06` **PRICE £140,000 → £135,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-06` **REMOVED** — [Torrington Court, North Road East, Plymouth PL4](https://www.onthemarket.com/details/20523746/) (OnTheMarket (portal))
-- `2026-11-06` **PRICE £150,000 → £140,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction
 <!--HUNT:END-->
