@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-27T01:05:07Z — 24 active matches._
+_Last run: 2026-11-27T16:51:28Z — 23 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
@@ -95,11 +95,10 @@ _Last run: 2026-11-27T01:05:07Z — 24 active matches._
 |---|---|---|---|
 | £65,000 | [Arundel Crescent, Plymouth PL1](https://www.onthemarket.com/details/19274935/) | OnTheMarket (portal) | Leasehold? — check tenure; Shared ownership / share price |
 | £70,000 | [Constantine Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20447369/) | OnTheMarket (portal) | Auction |
-| £80,000 | [41 Prince Maurice Road, Plymouth, Devon, PL4 7LJ](https://www.onthemarket.com/details/20818081/) | OnTheMarket (portal) | Auction |
 | £90,000 | [Ebrington Street, Plymouth, Devon, PL4](https://www.onthemarket.com/details/20169397/) | OnTheMarket (portal) | May have sitting tenants; Might be a letting, not a sale (agent feeds mix both) |
 | £90,000 | [Bayswater Road, Devon PL1](https://www.onthemarket.com/details/17863187/) | OnTheMarket (portal) | — |
+| £95,000 | [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) | OnTheMarket (portal) | Auction |
 | £95,000 | [18 Providence Street, Plymouth, Devon, PL4 8JG](https://www.onthemarket.com/details/20788352/) | OnTheMarket (portal) | Auction |
-| £100,000 | [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) | OnTheMarket (portal) | Auction |
 | £100,000 | [Fully Managed Plymouth Flat, Plymouth City Centre](https://www.onthemarket.com/details/20800563/) | OnTheMarket (portal) | — |
 | £105,000 | [Grenville Road, Plymouth, Devon, PL4](https://www.onthemarket.com/details/18945894/) | OnTheMarket (portal) | — |
 | £110,000 | [Hands Off Plymouth Apartment, Plymouth](https://www.onthemarket.com/details/20627767/) | OnTheMarket (portal) | — |
@@ -120,6 +119,8 @@ _Last run: 2026-11-27T01:05:07Z — 24 active matches._
 
 ### Recent events
 
+- `2026-11-27` **REMOVED** — [41 Prince Maurice Road, Plymouth, Devon, PL4 7LJ](https://www.onthemarket.com/details/20818081/) (OnTheMarket (portal))  ⚠ Auction
+- `2026-11-27` **PRICE £100,000 → £95,000** — [14 Francis Street, Plymouth, Devon PL1 5JZ](https://www.onthemarket.com/details/20577567/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-26` **NEW £140,000** — [3 Blenheim Road, Plymouth, Devon](https://www.onthemarket.com/details/20820407/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-25` **REMOVED** — [41 Prince Maurice Road, Plymouth, Devon, PL4 7LJ](https://www.onthemarket.com/details/20695964/) (OnTheMarket (portal))  ⚠ Auction
 - `2026-11-25` **REMOVED** — [Arundel Crescent, Devon PL1](https://www.onthemarket.com/details/20434701/) (OnTheMarket (portal))
@@ -143,6 +144,4 @@ _Last run: 2026-11-27T01:05:07Z — 24 active matches._
 - `2026-11-10` **NEW £150,000** — [St. James Place West, The Hoe, Plymouth](https://www.langtownandcountry.com/property/st-james-place-west-the-hoe-plymouth/) (Lang Town & Country (agent))  ⚠ Over budget — stretch (above £140,000)
 - `2026-11-06` **REMOVED** — [Embankment Road, Plymouth. Stylish 2-Bedroom Top Floor Flat in Central Plymouth walking distance to City Center.](https://www.onthemarket.com/details/17879716/) (OnTheMarket (portal))
 - `2026-11-06` **NEW £140,000** — [39 Alexandra Road, Mutley, Plymouth, Devon PL4 7EE](https://www.onthemarket.com/details/20707264/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-11-06` **PRICE £140,000 → £135,000** — [Hotham Place, Plymouth, Devon, PL1](https://www.onthemarket.com/details/20675025/) (OnTheMarket (portal))  ⚠ Auction
-- `2026-11-06` **REMOVED** — [Torrington Court, North Road East, Plymouth PL4](https://www.onthemarket.com/details/20523746/) (OnTheMarket (portal))
 <!--HUNT:END-->
