@@ -87,7 +87,7 @@ it up automatically.
 ## Current digest
 
 <!--HUNT:START-->
-_Last run: 2026-11-27T16:51:28Z — 23 active matches._
+_Last run: 2026-11-28T00:37:01Z — 23 active matches._
 
 > ⚠ Sources that failed this run: Atwell Martin Plymouth (agent), Cross Keys Estates (agent)
 
