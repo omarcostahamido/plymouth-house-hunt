@@ -3931,15 +3931,6 @@
  ],
  "runs": [
   {
-   "at": "2026-11-01T21:17:29Z",
-   "found": 22,
-   "events": 3,
-   "failed_sources": [
-    "Atwell Martin Plymouth (agent)",
-    "Cross Keys Estates (agent)"
-   ]
-  },
-  {
    "at": "2026-11-02T16:19:15Z",
    "found": 23,
    "events": 1,
@@ -4378,6 +4369,16 @@
    "found": 23,
    "events": 0,
    "failed_sources": [
+    "Atwell Martin Plymouth (agent)",
+    "Cross Keys Estates (agent)"
+   ]
+  },
+  {
+   "at": "2026-11-28T15:42:28Z",
+   "found": 23,
+   "events": 0,
+   "failed_sources": [
+    "Lang Town & Country (agent)",
     "Atwell Martin Plymouth (agent)",
     "Cross Keys Estates (agent)"
    ]
